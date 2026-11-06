@@ -1,0 +1,177 @@
+body:not(.elementor-editor-active) .vamtam-sticky-header {
+  transition: opacity 0.15s, top 0.15s linear, transform 0.15s linear !important;
+  will-change: transform, opacity;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: calc(var(--vamtam-sticky-offset, 0px) + var(--wp-admin--admin-bar--height, 0px));
+  z-index: 100;
+}
+body:not(.elementor-editor-active) .vamtam-sticky-header > .elementor-container {
+  opacity: 0;
+  -webkit-animation: vamtam-sticky-header-fadein 1s ease forwards;
+          animation: vamtam-sticky-header-fadein 1s ease forwards;
+}
+@-webkit-keyframes vamtam-sticky-header-fadein {
+  0% {
+    opacity: 0;
+  }
+  90% {
+    opacity: 0;
+  }
+  99% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes vamtam-sticky-header-fadein {
+  0% {
+    opacity: 0;
+  }
+  90% {
+    opacity: 0;
+  }
+  99% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+body:not(.elementor-editor-active) .vamtam-sticky-header.vamtam-sticky-header--transparent-header {
+  transition: opacity 0.15s, top 0.15s linear, transform 0.15s linear, background-color 0.35s ease !important;
+  will-change: transform, opacity, background-color;
+}
+body:not(.elementor-editor-active) .vamtam-sticky-header.vamtam-sticky-header--fixed-shown:not(.vamtam-sticky-header--offset-on-sticky),
+body:not(.elementor-editor-active) .vamtam-sticky-header.vamtam-sticky-header--fixed-hidden:not(.vamtam-sticky-header--offset-on-sticky) {
+  top: var(--wp-admin--admin-bar--height, 0px);
+}
+body:not(.elementor-editor-active) .vamtam-sticky-header.vamtam-sticky-header--fixed-shown {
+  transform: translateY(0);
+  -webkit-backdrop-filter: saturate(180%) blur(40px);
+          backdrop-filter: saturate(180%) blur(40px);
+}
+body:not(.elementor-editor-active) .vamtam-sticky-header.vamtam-sticky-header--fixed-shown.vamtam-sticky-header--transparent-header {
+  background-color: var(--vamtam-sticky-header-bg-color) !important;
+}
+body:not(.elementor-editor-active) .vamtam-sticky-header.vamtam-sticky-header--fixed-hidden {
+  transform: translateY(-100%);
+}
+body:not(.elementor-editor-active) .vamtam-sticky-header:is(.vamtam-sticky-header--spacer, .elementor-sticky__spacer) {
+  position: static !important;
+  -webkit-animation: none !important;
+          animation: none !important;
+  transform: none !important;
+  transition: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  will-change: auto !important;
+}
+[data-elementor-type="header"] {
+  margin-left: var(--vamtam-sticky-mleft);
+  margin-right: var(--vamtam-sticky-mright);
+}
+.woocommerce-demo-store .demo_store {
+  padding-right: 50px;
+}
+.woocommerce-demo-store .demo_store .woocommerce-store-notice__dismiss-link::before {
+  position: absolute;
+  right: 25px;
+}
+/* --- Widgets --- */
+[data-element_type="container"].content-bg-blur.vamtam-show-on-hover {
+  opacity: 1 !important;
+}
+[data-element_type="container"].content-bg-blur.vamtam-show-on-hover > *,
+[data-element_type="container"].content-bg-blur.vamtam-show-on-hover::before {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+body:not(.elementor-editor-active) [data-element_type="container"].vamtam-grow-on-hover:not(:hover) {
+  max-height: 0;
+}
+[data-element_type="container"].vamtam-cont-hover-parent:hover .vamtam-has-parent-hover[data-element_type="container"].vamtam-show-on-hover.content-bg-blur > *,
+[data-element_type="container"].vamtam-cont-hover-parent:hover .vamtam-has-parent-hover[data-element_type="container"].vamtam-show-on-hover.content-bg-blur::before {
+  opacity: 1;
+}
+body:not(.elementor-editor-active) [data-element_type="container"].vamtam-cont-hover-parent:hover .vamtam-has-parent-hover[data-element_type="container"].vamtam-grow-on-hover {
+  max-height: none;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-carousel.vamtam-has-theme-widget-styles .vamtam-show-on-hover {
+  opacity: 0;
+  transition: 0.3s ease-in-out;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-carousel.vamtam-has-theme-widget-styles .e-loop-item:hover .vamtam-show-on-hover {
+  opacity: 1;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-carousel.vamtam-has-theme-widget-styles .e-loop-item:hover .vamtam-grow-on-hover {
+  max-height: none;
+}
+body:not(.elementor-editor-active) .elementor-widget-icon.vamtam-has-theme-widget-styles.vamtam-grow-mw-hover:hover {
+  -webkit-animation: vamtam-show-grow-mw 0.3s ease forwards;
+          animation: vamtam-show-grow-mw 0.3s ease forwards;
+}
+body:not(.elementor-editor-active) .elementor-widget-icon.vamtam-has-theme-widget-styles.vamtam-grow-mw-hover:not(:hover) {
+  -webkit-animation: vamtam-hide-shrink-mw 0.2s ease forwards;
+          animation: vamtam-hide-shrink-mw 0.2s ease forwards;
+}
+body:not(.elementor-editor-active) .vamtam-icon-hover-parent:hover .elementor-widget-icon.vamtam-has-theme-widget-styles.vamtam-grow-mw-hover {
+  -webkit-animation: vamtam-show-grow-mw 0.3s ease forwards;
+          animation: vamtam-show-grow-mw 0.3s ease forwards;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .vamtam-show-on-hover {
+  opacity: 0;
+  transition: 0.3s ease-in-out;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .vamtam-grow-mh-hover:hover {
+  -webkit-animation: vamtam-show-grow-mh 0.3s ease forwards;
+          animation: vamtam-show-grow-mh 0.3s ease forwards;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .vamtam-grow-mh-hover:not(:hover) {
+  -webkit-animation: vamtam-hide-shrink-mh 0.2s ease forwards;
+          animation: vamtam-hide-shrink-mh 0.2s ease forwards;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .e-loop-item:hover .vamtam-show-on-hover {
+  opacity: 1;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .e-loop-item:hover .vamtam-grow-mh-hover {
+  -webkit-animation: vamtam-show-grow-mh 0.3s ease forwards;
+          animation: vamtam-show-grow-mh 0.3s ease forwards;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .e-loop-item:hover .vamtam-grow-on-hover {
+  max-height: none;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .content-bg-blur.vamtam-show-on-hover {
+  opacity: 1 !important;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .content-bg-blur.vamtam-show-on-hover > *,
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .content-bg-blur.vamtam-show-on-hover::before {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .e-loop-item:hover .vamtam-show-on-hover.content-bg-blur > *,
+body:not(.elementor-editor-active) .elementor-widget-loop-grid.vamtam-has-theme-widget-styles .e-loop-item:hover .vamtam-show-on-hover.content-bg-blur::before {
+  opacity: 1;
+}
+body:not(.elementor-editor-active) .elementor-widget-n-carousel.vamtam-has-theme-widget-styles .vamtam-show-on-hover {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+body:not(.elementor-editor-active) .elementor-widget-n-carousel.vamtam-has-theme-widget-styles .swiper-slide:hover .vamtam-show-on-hover {
+  opacity: 1;
+}
+body:not(.elementor-editor-active) .elementor-widget-n-carousel.vamtam-has-theme-widget-styles .content-bg-blur.vamtam-show-on-hover {
+  opacity: 1 !important;
+}
+body:not(.elementor-editor-active) .elementor-widget-n-carousel.vamtam-has-theme-widget-styles .content-bg-blur.vamtam-show-on-hover > *,
+body:not(.elementor-editor-active) .elementor-widget-n-carousel.vamtam-has-theme-widget-styles .content-bg-blur.vamtam-show-on-hover::before {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+body:not(.elementor-editor-active) .elementor-widget-n-carousel.vamtam-has-theme-widget-styles .swiper-slide:hover .vamtam-show-on-hover.content-bg-blur > *,
+body:not(.elementor-editor-active) .elementor-widget-n-carousel.vamtam-has-theme-widget-styles .swiper-slide:hover .vamtam-show-on-hover.content-bg-blur::before {
+  opacity: 1;
+}
+/*# sourceMappingURL=elementor-max.css.map */

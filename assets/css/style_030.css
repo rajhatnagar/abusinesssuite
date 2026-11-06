@@ -1,0 +1,1975 @@
+/*
+	Elementor-specific rules and overrides.
+*/
+body {
+  --vamtam-accent-color-1: var(--e-global-color-vamtam_accent_1);
+  --vamtam-accent-color-1-hc: hsl(from var(--e-global-color-vamtam_accent_1) h 0 calc(100 - round(calc(l + 10), 100)));
+  --vamtam-accent-color-2: var(--e-global-color-vamtam_accent_2);
+  --vamtam-accent-color-2-hc: hsl(from var(--e-global-color-vamtam_accent_2) h 0 calc(100 - round(calc(l + 10), 100)));
+  --vamtam-accent-color-3: var(--e-global-color-vamtam_accent_3);
+  --vamtam-accent-color-3-hc: hsl(from var(--e-global-color-vamtam_accent_3) h 0 calc(100 - round(calc(l + 10), 100)));
+  --vamtam-accent-color-4: var(--e-global-color-vamtam_accent_4);
+  --vamtam-accent-color-4-hc: hsl(from var(--e-global-color-vamtam_accent_4) h 0 calc(100 - round(calc(l + 10), 100)));
+  --vamtam-accent-color-5: var(--e-global-color-vamtam_accent_5);
+  --vamtam-accent-color-5-hc: hsl(from var(--e-global-color-vamtam_accent_5) h 0 calc(100 - round(calc(l + 10), 100)));
+  --vamtam-accent-color-6: var(--e-global-color-vamtam_accent_6);
+  --vamtam-accent-color-6-hc: hsl(from var(--e-global-color-vamtam_accent_6) h 0 calc(100 - round(calc(l + 10), 100)));
+  --vamtam-accent-color-7: var(--e-global-color-vamtam_accent_7);
+  --vamtam-accent-color-7-hc: hsl(from var(--e-global-color-vamtam_accent_7) h 0 calc(100 - round(calc(l + 10), 100)));
+  --vamtam-accent-color-8: var(--e-global-color-vamtam_accent_8);
+  --vamtam-accent-color-8-hc: hsl(from var(--e-global-color-vamtam_accent_8) h 0 calc(100 - round(calc(l + 10), 100)));
+  --vamtam-primary-font-color: var(--e-global-color-vamtam_primary_font_color);
+  --vamtam-primary-font-font-size: var(--e-global-typography-vamtam_primary_font-font-size);
+  --vamtam-primary-font-font-family: var(--e-global-typography-vamtam_primary_font-font-family);
+  --vamtam-primary-font-font-weight: var(--e-global-typography-vamtam_primary_font-font-weight);
+  --vamtam-primary-font-font-style: var(--e-global-typography-vamtam_primary_font-font-style);
+  --vamtam-primary-font-text-transform: var(--e-global-typography-vamtam_primary_font-text-transform);
+  --vamtam-primary-font-text-decoration: var(--e-global-typography-vamtam_primary_font-text-decoration);
+  --vamtam-h1-color: var(--e-global-color-vamtam_h1_color);
+  --vamtam-h1-font-size: var(--e-global-typography-vamtam_h1-font-size);
+  --vamtam-h1-font-family: var(--e-global-typography-vamtam_h1-font-family);
+  --vamtam-h1-font-weight: var(--e-global-typography-vamtam_h1-font-weight);
+  --vamtam-h1-font-style: var(--e-global-typography-vamtam_h1-font-style);
+  --vamtam-h1-text-transform: var(--e-global-typography-vamtam_h1-text-transform);
+  --vamtam-h1-text-decoration: var(--e-global-typography-vamtam_h1-text-decoration);
+  --vamtam-h2-color: var(--e-global-color-vamtam_h2_color);
+  --vamtam-h2-font-size: var(--e-global-typography-vamtam_h2-font-size);
+  --vamtam-h2-font-family: var(--e-global-typography-vamtam_h2-font-family);
+  --vamtam-h2-font-weight: var(--e-global-typography-vamtam_h2-font-weight);
+  --vamtam-h2-font-style: var(--e-global-typography-vamtam_h2-font-style);
+  --vamtam-h2-text-transform: var(--e-global-typography-vamtam_h2-text-transform);
+  --vamtam-h2-text-decoration: var(--e-global-typography-vamtam_h2-text-decoration);
+  --vamtam-h3-color: var(--e-global-color-vamtam_h3_color);
+  --vamtam-h3-font-size: var(--e-global-typography-vamtam_h3-font-size);
+  --vamtam-h3-font-family: var(--e-global-typography-vamtam_h3-font-family);
+  --vamtam-h3-font-weight: var(--e-global-typography-vamtam_h3-font-weight);
+  --vamtam-h3-font-style: var(--e-global-typography-vamtam_h3-font-style);
+  --vamtam-h3-text-transform: var(--e-global-typography-vamtam_h3-text-transform);
+  --vamtam-h3-text-decoration: var(--e-global-typography-vamtam_h3-text-decoration);
+  --vamtam-h4-color: var(--e-global-color-vamtam_h4_color);
+  --vamtam-h4-font-size: var(--e-global-typography-vamtam_h4-font-size);
+  --vamtam-h4-font-family: var(--e-global-typography-vamtam_h4-font-family);
+  --vamtam-h4-font-weight: var(--e-global-typography-vamtam_h4-font-weight);
+  --vamtam-h4-font-style: var(--e-global-typography-vamtam_h4-font-style);
+  --vamtam-h4-text-transform: var(--e-global-typography-vamtam_h4-text-transform);
+  --vamtam-h4-text-decoration: var(--e-global-typography-vamtam_h4-text-decoration);
+  --vamtam-h5-color: var(--e-global-color-vamtam_h5_color);
+  --vamtam-h5-font-size: var(--e-global-typography-vamtam_h5-font-size);
+  --vamtam-h5-font-family: var(--e-global-typography-vamtam_h5-font-family);
+  --vamtam-h5-font-weight: var(--e-global-typography-vamtam_h5-font-weight);
+  --vamtam-h5-font-style: var(--e-global-typography-vamtam_h5-font-style);
+  --vamtam-h5-text-transform: var(--e-global-typography-vamtam_h5-text-transform);
+  --vamtam-h5-text-decoration: var(--e-global-typography-vamtam_h5-text-decoration);
+  --vamtam-h6-color: var(--e-global-color-vamtam_h6_color);
+  --vamtam-h6-font-size: var(--e-global-typography-vamtam_h6-font-size);
+  --vamtam-h6-font-family: var(--e-global-typography-vamtam_h6-font-family);
+  --vamtam-h6-font-weight: var(--e-global-typography-vamtam_h6-font-weight);
+  --vamtam-h6-font-style: var(--e-global-typography-vamtam_h6-font-style);
+  --vamtam-h6-text-transform: var(--e-global-typography-vamtam_h6-text-transform);
+  --vamtam-h6-text-decoration: var(--e-global-typography-vamtam_h6-text-decoration);
+  --vamtam-default-bg-color: #fff;
+  --vamtam-default-line-color: var(--vamtam-accent-color-7);
+  --vamtam-vertical-padding: 30px;
+  --vamtam-no-border-link: none;
+  --vamtam-border-radius: 0px;
+  --vamtam-border-radius-oval: 0px;
+  --vamtam-border-radius-small: 0px;
+  --vamtam-sticky-header-bg-color: var(--e-global-color-vamtam_sticky_header_bg_color);
+}
+.icon,
+.icon-a:after,
+.icon-b:before {
+  font-weight: normal !important;
+  font-style: normal !important;
+  speak: none;
+  display: inline-block;
+  min-width: 1em;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.vamtam-limited-layout .icon,
+.vamtam-limited-layout .icon-a:after,
+.vamtam-limited-layout .icon-b:before {
+  font-family: 'icomoon';
+}
+.theme.icon,
+.theme.icon-a:after,
+.theme.icon-b:before {
+  font-family: 'vamtam-theme' !important;
+}
+.custom.icon,
+.custom.icon-a:after,
+.custom.icon-b:before {
+  font-family: 'vamtam-custom-icons' !important;
+}
+.icon[data-icon]:before,
+.icon-b:before,
+.icon-a:after {
+  content: " " attr(data-icon) " ";
+}
+.icon-b.icon-a:before {
+  content: " " attr(data-iconb) " ";
+}
+.icon-b.icon-a:after {
+  content: " " attr(data-icona) " ";
+}
+/**
+ * html5doctor.com Reset Stylesheet (Eric Meyer's Reset Reloaded + HTML5 baseline)
+ * v1.6.1 2010-09-17 | Authors: Eric Meyer & Richard Clark
+ * html5doctor.com/html-5-reset-stylesheet/
+ */
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+html {
+  overflow-y: scroll;
+}
+html,
+body {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-text-size-adjust: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+ins {
+  color: var(--vamtam-accent-color-6);
+  text-decoration: none;
+}
+mark {
+  background-color: #ffffbd;
+  color: #000;
+  font-weight: bold;
+  padding: 0px 5px;
+}
+del {
+  color: inherit;
+  opacity: 0.5;
+  text-decoration: line-through;
+}
+abbr[title],
+dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+  clear: both;
+}
+input,
+select {
+  vertical-align: middle;
+}
+/**
+ * Font normalization
+ */
+html {
+  line-height: 1.15;
+  /* 1 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+select,
+input,
+textarea,
+button {
+  font: 100%/1.15 inherit;
+}
+/* Normalize monospace sizing:
+   en.wikipedia.org/wiki/MediaWiki_talk:Common.css/Archive_11#Teletype_style_fix_for_Chrome */
+pre,
+code,
+kbd,
+samp {
+  font-family: monospace, sans-serif;
+}
+:disabled {
+  cursor: not-allowed;
+}
+/**
+ * Minimal base styles.
+ */
+/* Accessible focus treatment: people.opera.com/patrickl/experiments/keyboard/test */
+a:hover,
+a:active {
+  outline: none;
+}
+/* Remove margins for navigation lists */
+nav ul,
+nav li {
+  margin: 0;
+  list-style: none;
+  list-style-image: none;
+}
+small {
+  font-size: 85%;
+}
+b,
+strong,
+th {
+  font-weight: bold;
+}
+td {
+  vertical-align: top;
+}
+/* Set sub, sup without affecting line-height: gist.github.com/413930 */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
+pre {
+  /* www.pathf.com/blogs/2008/05/formatting-quoted-code-in-blog-posts-css21-white-space-pre-wrap/ */
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  padding: 15px;
+}
+textarea {
+  overflow: auto;
+}
+/* www.sitepoint.com/blogs/2010/08/20/ie-remove-textarea-scrollbars/ */
+/* Align checkboxes, radios, text inputs with their label by: Thierry Koblentz tjkdesign.com/ez-css/css/base.css  */
+input[type="radio"] {
+  vertical-align: text-bottom;
+}
+input[type="checkbox"] {
+  vertical-align: middle;
+}
+/* Hand cursor on clickable input elements */
+label,
+input[type="button"],
+input[type="submit"],
+input[type="image"],
+button {
+  cursor: pointer;
+}
+button,
+input,
+select,
+textarea {
+  /* Webkit browsers add a 2px margin outside the chrome of form elements */
+  margin: 0;
+  box-shadow: none;
+  border-radius: 0;
+}
+button {
+  padding: 0;
+}
+button,
+input[type="button"],
+input[type="submit"] {
+  -webkit-appearance: none;
+  background-image: none;
+}
+/* Make buttons play nice in IE:
+   www.viget.com/inspire/styling-the-button-element-in-internet-explorer/ */
+button {
+  width: auto;
+  overflow: visible;
+}
+select,
+input,
+textarea {
+  color: #444;
+}
+/* For image replacement */
+.ir {
+  display: block;
+  text-indent: -999em;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  text-align: start;
+  direction: ltr;
+}
+/* Hide for both screenreaders and browsers:
+   css-discuss.incutio.com/wiki/Screenreader_Visibility */
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+/* Hide only visually, but have it available for screenreaders: by Jon Neal.
+  www.webaim.org/techniques/css/invisiblecontent/  &  j.mp/visuallyhidden */
+.screen-reader-text,
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+/* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard: drupal.org/node/897638 */
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+/* Hide visually and from screenreaders, but maintain layout */
+.invisible {
+  visibility: hidden;
+}
+html.no-js .nojs-hide {
+  display: none;
+}
+/* Clearfix */
+/* Absolute Fill Container */
+/* buttons */
+/* Fonts */
+/* !! Attention !!
+	When you use this rule, remember to add the relevant equivalent styles
+	to layout-below-max.less (tablet) and layout-small.less (phone).
+*/
+.vamtam-font-primary-font,
+body,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments #cancel-comment-reply-link,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments #cancel-comment-reply-link,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform {
+  font: var( --e-global-typography-vamtam_primary_font-font-weight, normal ) var( --e-global-typography-vamtam_primary_font-font-style, normal ) var( --e-global-typography-vamtam_primary_font-font-size )/var( --e-global-typography-vamtam_primary_font-line-height ) var( --e-global-typography-vamtam_primary_font-font-family );
+  letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing, normal );
+  text-transform: var( --e-global-typography-vamtam_primary_font-transform, none );
+  -webkit-text-decoration: var( --e-global-typography-vamtam_primary_font-decoration, none );
+          text-decoration: var( --e-global-typography-vamtam_primary_font-decoration, none );
+}
+.vamtam-font-h1,
+h1,
+.font-h1 {
+  font: var( --e-global-typography-vamtam_h1-font-weight, normal ) var( --e-global-typography-vamtam_h1-font-style, normal ) var( --e-global-typography-vamtam_h1-font-size )/var( --e-global-typography-vamtam_h1-line-height ) var( --e-global-typography-vamtam_h1-font-family );
+  letter-spacing: var( --e-global-typography-vamtam_h1-letter-spacing, normal );
+  text-transform: var( --e-global-typography-vamtam_h1-transform, none );
+  -webkit-text-decoration: var( --e-global-typography-vamtam_h1-decoration, none );
+          text-decoration: var( --e-global-typography-vamtam_h1-decoration, none );
+}
+.vamtam-font-h2,
+h2,
+.font-h2,
+.vamtam-is-wishlist .vamtam-box-outer-padding .page-header h1 {
+  font: var( --e-global-typography-vamtam_h2-font-weight, normal ) var( --e-global-typography-vamtam_h2-font-style, normal ) var( --e-global-typography-vamtam_h2-font-size )/var( --e-global-typography-vamtam_h2-line-height ) var( --e-global-typography-vamtam_h2-font-family );
+  letter-spacing: var( --e-global-typography-vamtam_h2-letter-spacing, normal );
+  text-transform: var( --e-global-typography-vamtam_h2-transform, none );
+  -webkit-text-decoration: var( --e-global-typography-vamtam_h2-decoration, none );
+          text-decoration: var( --e-global-typography-vamtam_h2-decoration, none );
+}
+.vamtam-font-h3,
+h3,
+.font-h3,
+.woosw-popup .woosw-popup-inner .woosw-popup-content .woosw-popup-content-mid .woosw-popup-content-mid-message {
+  font: var( --e-global-typography-vamtam_h3-font-weight, normal ) var( --e-global-typography-vamtam_h3-font-style, normal ) var( --e-global-typography-vamtam_h3-font-size )/var( --e-global-typography-vamtam_h3-line-height ) var( --e-global-typography-vamtam_h3-font-family );
+  letter-spacing: var( --e-global-typography-vamtam_h3-letter-spacing, normal );
+  text-transform: var( --e-global-typography-vamtam_h3-transform, none );
+  -webkit-text-decoration: var( --e-global-typography-vamtam_h3-decoration, none );
+          text-decoration: var( --e-global-typography-vamtam_h3-decoration, none );
+}
+.vamtam-font-h4,
+h4,
+.font-h4,
+.woosw-popup.woosw-message .woosw-popup-inner .woosw-popup-content .woosw-popup-content-top {
+  font: var( --e-global-typography-vamtam_h4-font-weight, normal ) var( --e-global-typography-vamtam_h4-font-style, normal ) var( --e-global-typography-vamtam_h4-font-size )/var( --e-global-typography-vamtam_h4-line-height ) var( --e-global-typography-vamtam_h4-font-family );
+  letter-spacing: var( --e-global-typography-vamtam_h4-letter-spacing, normal );
+  text-transform: var( --e-global-typography-vamtam_h4-transform, none );
+  -webkit-text-decoration: var( --e-global-typography-vamtam_h4-decoration, none );
+          text-decoration: var( --e-global-typography-vamtam_h4-decoration, none );
+}
+.vamtam-font-h5,
+h5,
+.font-h5 {
+  font: var( --e-global-typography-vamtam_h5-font-weight, normal ) var( --e-global-typography-vamtam_h5-font-style, normal ) var( --e-global-typography-vamtam_h5-font-size )/var( --e-global-typography-vamtam_h5-line-height ) var( --e-global-typography-vamtam_h5-font-family );
+  letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing, normal );
+  text-transform: var( --e-global-typography-vamtam_h5-transform, none );
+  -webkit-text-decoration: var( --e-global-typography-vamtam_h5-decoration, none );
+          text-decoration: var( --e-global-typography-vamtam_h5-decoration, none );
+}
+.vamtam-font-h6,
+h6,
+.font-h6,
+#scroll-to-top-text {
+  font: var( --e-global-typography-vamtam_h6-font-weight, normal ) var( --e-global-typography-vamtam_h6-font-style, normal ) var( --e-global-typography-vamtam_h6-font-size )/var( --e-global-typography-vamtam_h6-line-height ) var( --e-global-typography-vamtam_h6-font-family );
+  letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing, normal );
+  text-transform: var( --e-global-typography-vamtam_h6-transform, none );
+  -webkit-text-decoration: var( --e-global-typography-vamtam_h6-decoration, none );
+          text-decoration: var( --e-global-typography-vamtam_h6-decoration, none );
+}
+/*
+
+!! --- Don't remove when initializing a new theme. --- !!
+
+These are general-purpose style fixes used across themes.
+
+*/
+body {
+  --vamtam-widget-text-darker: #1b1b1b;
+  --vamtam-widget-text-lighter: #383838;
+  --vamtam-content-space-xxl: calc(var(--vamtam-content-space-l) * 2);
+  --vamtam-content-space-xl: calc(var(--vamtam-content-space-l) * 1.5);
+  --vamtam-content-space-l: min( 6vh, 50px );
+  --vamtam-content-space-m: calc(var(--vamtam-content-space-l) * 0.4);
+  --vamtam-content-space-s: calc(var(--vamtam-content-space-l) * 0.2);
+  --vamtam-content-space-xs: calc(var(--vamtam-content-space-l) * 0.1);
+  --vamtam-sidebar-content-margin: var(--vamtam-content-space-l);
+  --vamtam-left-sidebar-width: 30%;
+  --vamtam-right-sidebar-width: 30%;
+}
+body.elementor-editor-active .page-wrapper > article {
+  overflow: visible;
+}
+.vamtam-video-frame iframe {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+/* Trip Advisor Widget fix */
+.cdsROW .cdsRating span {
+  padding-top: 10px;
+  display: inline-block;
+}
+.cdsROW.wide {
+  margin: auto;
+  border: solid 1px #6aa257;
+  border-radius: 60px;
+  padding: 5px 15px;
+}
+.rotatingrotation {
+  transform: rotate(90deg);
+  opacity: 0;
+}
+body.wpb-js-composer .wpb_start_animation.animated {
+  -webkit-animation-iteration-count: 1 !important;
+          animation-iteration-count: 1 !important;
+}
+.vamtam-responsive-wrapper {
+  position: relative;
+  width: 100%;
+  opacity: 0;
+  transition: opacity 0.2s ease-out;
+}
+.vamtam-responsive-wrapper.image-loaded {
+  opacity: 1;
+}
+.vamtam-lazyload-noparent[srcset] {
+  opacity: 0;
+  transition: opacity 0.2s ease-out;
+}
+.vamtam-lazyload-noparent[srcset].image-loaded {
+  opacity: 1;
+}
+html.ios-safari * {
+  background-attachment: scroll !important;
+}
+:is(input, textarea) {
+  transition-property: color, border, background;
+  transition-duration: 0.3s;
+  outline: none;
+}
+:is(input, textarea)::-webkit-input-placeholder {
+  opacity: 1;
+  font-weight: normal;
+}
+:is(input, textarea):-ms-input-placeholder {
+  opacity: 1;
+  font-weight: normal;
+}
+:is(input, textarea)::-ms-input-placeholder {
+  opacity: 1;
+  font-weight: normal;
+}
+:is(input, textarea)::placeholder {
+  opacity: 1;
+  font-weight: normal;
+}
+html,
+body,
+th,
+td {
+  color: var(--vamtam-widget-text-lighter);
+}
+.color-accent-1,
+.hover-color-accent-1:hover {
+  color: var(--vamtam-accent-color-1) !important;
+}
+.color-accent-2,
+.hover-color-accent-2:hover {
+  color: var(--vamtam-accent-color-2) !important;
+}
+.color-accent-3,
+.hover-color-accent-3:hover {
+  color: var(--vamtam-accent-color-3) !important;
+}
+.color-accent-4,
+.hover-color-accent-4:hover {
+  color: var(--vamtam-accent-color-4) !important;
+}
+.color-accent-5,
+.hover-color-accent-5:hover {
+  color: var(--vamtam-accent-color-5) !important;
+}
+.color-accent-6,
+.hover-color-accent-6:hover {
+  color: var(--vamtam-accent-color-6) !important;
+}
+.color-accent-7,
+.hover-color-accent-7:hover {
+  color: var(--vamtam-accent-color-7) !important;
+}
+.color-accent-8,
+.hover-color-accent-8:hover {
+  color: var(--vamtam-accent-color-8) !important;
+}
+p.has-large-font-size {
+  font-size: 36px;
+}
+em,
+i {
+  font-style: italic;
+}
+h1,
+.color-h1 {
+  color: var(--vamtam-h1-color);
+}
+h2,
+.color-h2 {
+  color: var(--vamtam-h2-color);
+}
+h3,
+.color-h3 {
+  color: var(--vamtam-h3-color);
+}
+h4,
+.color-h4 {
+  color: var(--vamtam-h4-color);
+}
+h5,
+.color-h5 {
+  color: var(--vamtam-h5-color);
+}
+h6,
+.color-h6 {
+  color: var(--vamtam-h6-color);
+}
+a,
+.vamtam-is-link .elementor-image-box-title,
+.vamtam-is-link .elementor-icon-box-title,
+.elementor-widget-toggle .elementor-tab-title {
+  text-decoration: none;
+  color: var(--vamtam-body-link-regular);
+  transition: all 0.3s;
+}
+a .icon.shortcode.use-hover,
+.vamtam-is-link .elementor-image-box-title .icon.shortcode.use-hover,
+.vamtam-is-link .elementor-icon-box-title .icon.shortcode.use-hover,
+.elementor-widget-toggle .elementor-tab-title .icon.shortcode.use-hover {
+  transition: all 0.3s ease-out;
+  padding: 0.3em;
+  border-radius: 20em;
+  line-height: 1em;
+}
+a:where(:visited),
+.vamtam-is-link .elementor-image-box-title:where(:visited),
+.vamtam-is-link .elementor-icon-box-title:where(:visited),
+.elementor-widget-toggle .elementor-tab-title:where(:visited) {
+  color: var(--vamtam-body-link-visited);
+}
+a:active,
+.vamtam-is-link .elementor-image-box-title:active,
+.vamtam-is-link .elementor-icon-box-title:active,
+.elementor-widget-toggle .elementor-tab-title:active {
+  color: var(--vamtam-body-link-active);
+}
+a:hover,
+.vamtam-is-link .elementor-image-box-title:hover,
+.vamtam-is-link .elementor-icon-box-title:hover,
+.elementor-widget-toggle .elementor-tab-title:hover {
+  color: var(--vamtam-body-link-hover);
+}
+a:hover .icon.shortcode.use-hover,
+.vamtam-is-link .elementor-image-box-title:hover .icon.shortcode.use-hover,
+.vamtam-is-link .elementor-icon-box-title:hover .icon.shortcode.use-hover,
+.elementor-widget-toggle .elementor-tab-title:hover .icon.shortcode.use-hover {
+  color: var(--vamtam-body-link-hover) !important;
+  background: var(--vamtam-accent-color-5);
+}
+.vamtam-is-link .elementor-image-box-title > a:hover,
+.vamtam-is-link .elementor-icon-box-title > a:hover {
+  color: var(--vamtam-body-link-hover);
+}
+.vamtam-is-link .elementor-image-box-title > a:hover .icon.shortcode.use-hover,
+.vamtam-is-link .elementor-icon-box-title > a:hover .icon.shortcode.use-hover {
+  color: var(--vamtam-body-link-hover) !important;
+  background: var(--vamtam-accent-color-5);
+}
+.elementor-toggle .elementor-tab-title.elementor-active,
+#elementor .elementor-toggle .elementor-tab-title.elementor-active {
+  color: var(--vamtam-body-link-active);
+}
+.elementor-widget-toggle .elementor-tab-title a:hover,
+#elementor .elementor-widget-toggle .elementor-tab-title a:hover {
+  color: var(--vamtam-body-link-hover);
+}
+.vamtam-main a .icon.shortcode.border {
+  color: var(--vamtam-body-link-regular);
+}
+.vamtam-main a:hover .icon.shortcode.border {
+  border-color: var(--vamtam-body-link-hover);
+  color: var(--vamtam-body-link-hover) !important;
+}
+p {
+  margin: 0 0 1em 0;
+}
+p:empty {
+  display: none;
+}
+strong,
+b {
+  font-weight: 700;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0.6em;
+  margin-bottom: 0.3em;
+}
+.vamtam-font-smoothing :is(p, h1, h2, h3, h4, h5, h6, a, em, strong, i, b, u, s, span,
+	sub, sup, mark, small, del, ins, q, blockquote, cite, dfn, abbr,
+	address, time, code, pre) {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/*
+
+!! --- Don't remove when initializing a new theme. --- !!
+
+These are general-purpose style fixes used across themes.
+
+*/
+[class^="vamtam-theme-"],
+[class*=" vamtam-theme-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "theme-icons" !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.dialog-lightbox-widget.dialog-type-buttons.elementor-lightbox :is(.swiper-container, .swiper) * {
+  box-sizing: border-box;
+}
+#elementor-lightbox.dialog-type-lightbox {
+  z-index: 99999;
+}
+.elementor-lightbox :is(.elementor-lightbox-image, .elementor-video-container) {
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+.elementor-slideshow__header > :is(i, svg) {
+  padding: 0 !important;
+}
+.elementor-lightbox[id^="elementor-lightbox-slideshow"] .dialog-lightbox-close-button {
+  margin-top: 10px;
+}
+.vamtam-popup-icon .dialog-close-button.dialog-lightbox-close-button .eicon-close {
+  font-family: 'theme-icons';
+}
+.vamtam-popup-icon .dialog-close-button.dialog-lightbox-close-button .eicon-close::before {
+  content: var(--vamtam-icon-close);
+}
+.vamtam-popup.dialog-lightbox-widget .dialog-lightbox-close-button .eicon-close {
+  font-family: 'theme-icons';
+}
+.vamtam-popup.dialog-lightbox-widget .dialog-lightbox-close-button .eicon-close::before {
+  content: "\e903";
+}
+/* Scroll to Top */
+#scroll-to-top {
+  display: none;
+  position: fixed;
+  z-index: 200;
+  opacity: 0;
+  bottom: 60px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  font-size: 2em;
+  margin-left: 0px;
+  border: 1px solid;
+  border-color: var(--vamtam-accent-color-2);
+  text-shadow: none;
+  transition: opacity 0.3s ease-out, color 0.3s ease-out, transform 0.3s ease-out;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  transform: scale3d(0, 0, 0);
+  text-align: center;
+  cursor: pointer;
+  background: var(--vamtam-accent-color-6-hc);
+  border-radius: 100%;
+}
+#scroll-to-top svg {
+  pointer-events: none;
+  width: 16px;
+  height: auto;
+}
+#scroll-to-top:hover {
+  color: var(--vamtam-accent-color-1);
+  transform: translateY(-8px) !important;
+}
+#scroll-to-top-text {
+  transform: rotate(270deg);
+  font-size: 0;
+  color: var(--vamtam-accent-color-2);
+  margin-top: 76px;
+  position: relative;
+}
+#scroll-to-top-text::after {
+  content: "\e902";
+  font-family: theme-icons;
+  transform: none;
+  display: inline-block;
+  position: absolute;
+  left: 68px;
+  font-size: 15px;
+  top: 0px;
+}
+.vamtam-disable-scroll,
+.dialog-prevent-scroll {
+  overflow: hidden;
+  max-height: 100vh;
+  box-sizing: border-box;
+}
+html.ios-safari .vamtam-disable-scroll {
+  position: fixed;
+  width: 100%;
+}
+.dialog-prevent-scroll .elementor-popup-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+ol,
+ul {
+  -webkit-margin-before: 1em;
+          margin-block-start: 1em;
+  -webkit-margin-after: 1em;
+          margin-block-end: 1em;
+  -webkit-margin-start: 0px;
+          margin-inline-start: 0px;
+  -webkit-margin-end: 0px;
+          margin-inline-end: 0px;
+  -webkit-padding-start: 1.7em;
+          padding-inline-start: 1.7em;
+}
+body .select2-container--default .select2-results ul {
+  /* UL Exeption */
+  margin: 0;
+  padding: 0;
+  -webkit-margin-before: 0 !important;
+          margin-block-start: 0 !important;
+  -webkit-margin-after: 0 !important;
+          margin-block-end: 0 !important;
+  -webkit-padding-start: 0em !important;
+          padding-inline-start: 0em !important;
+}
+body .select2-search--dropdown {
+  margin: 20px;
+  width: calc(100% - 40px);
+  padding: 0;
+}
+body .select2-container--open .select2-dropdown--above,
+body .select2-container--open .select2-dropdown--below {
+  border: 1px solid;
+  border-radius: 0;
+  overflow: hidden;
+  /* Fix for this: https://www.dropbox.com/s/kjhz3grsgm7ofq5/Screenshot%202021-06-05%20at%2013.22.55.png?dl=0  */
+}
+body .select2-container--open .select2-dropdown--above {
+  margin-top: -5px;
+}
+body .select2-container--open .select2-dropdown--below {
+  margin-top: 5px;
+}
+body .select2-dropdown .select2-search .select2-search__field {
+  border: 1px solid !important;
+}
+body .select2-container--default .select2-results__option {
+  padding: 6px 20px;
+}
+body .select2-container--default .select2-results__option[data-selected=true],
+body .select2-container--default .select2-results__option[aria-selected=true] {
+  background-color: var(--vamtam-accent-color-7);
+  color: var(--vamtam-accent-color-7-hc);
+}
+body .select2-container--default .select2-results__option--highlighted[data-selected],
+body .select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background-color: var(--vamtam-accent-color-1);
+  color: var(--vamtam-accent-color-1-hc);
+}
+.rotate-270 {
+  transform: rotate(0.75turn);
+}
+body[class*="elementor-"] .select2.select2-container .select2-selection[role="combobox"] {
+  line-height: normal;
+  display: flex;
+  align-items: center;
+}
+body[class*="elementor-"] .select2.select2-container .select2-selection[role="combobox"] .select2-selection__arrow {
+  display: none;
+}
+body[class*="elementor-"] .select2.select2-container .select2-selection[role="combobox"] .select2-selection__rendered {
+  line-height: inherit;
+  padding: 0px;
+}
+body[class*="elementor-"] :not([class*="elementor-select-wrapper"]) > .select2.select2-container .select2-selection[role="combobox"]:before {
+  content: "\e92a";
+  font-family: eicons;
+  font-size: 15px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  inset-inline-end: 30px;
+  pointer-events: none;
+}
+.vamtam-overlay-trigger--overlay > .vamtam-overlay-element {
+  pointer-events: none;
+  position: fixed;
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 100;
+}
+.elementor-field-group :before {
+  text-shadow: none;
+}
+/*for all wishlist buttons*/
+.woosw-btn.woosw-added:before {
+  margin-right: 0;
+}
+/*end for all wishlist buttons*/
+/*wishlist popup message*/
+.woosw-popup {
+  background-color: color( from var(--vamtam-accent-color-6) srgb r g b / 0.3 );
+}
+.woosw-popup .woosw-popup-inner .woosw-popup-content .woosw-popup-content-mid .woosw-popup-content-mid-message {
+  padding: 0px 40px 90px 40px;
+}
+.woosw-popup .woosw-popup-inner .woosw-popup-content .woosw-popup-content-mid .woosw-popup-content-mid-message::before {
+  font-size: 110px;
+  color: var(--vamtam-accent-color-1);
+  display: block;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f004";
+  line-height: 1;
+  margin-bottom: 20px;
+}
+.woosw-popup .woosw-popup-inner .woosw-popup-content .woosw-popup-content-mid .woosw-popup-content-mid-message img {
+  display: none;
+}
+.woosw-popup .woosw-popup-inner .woosw-popup-content .woosw-popup-content-top .woosw-close {
+  font-size: 12px;
+  font-family: var(--e-global-typography-vamtam_primary_font-font-family);
+  top: 25px;
+  right: 18px;
+  color: var(--vamtam-accent-color-1);
+}
+.woosw-popup.woosw-message .woosw-popup-inner .woosw-popup-content {
+  max-width: 520px;
+  border-radius: 0;
+}
+.woosw-popup.woosw-message .woosw-popup-inner .woosw-popup-content .woosw-popup-content-top {
+  height: 65px;
+  padding: 25px 60px 0 30px;
+  color: var(--vamtam-accent-color-1);
+  margin-bottom: 70px;
+}
+.woosw-popup.woosw-message .woosw-popup-inner .woosw-popup-content .woosw-popup-content-top .woosw-popup-close:after {
+  content: "\e918";
+  font-family: 'theme-icons';
+  color: var(--vamtam-accent-color-1);
+}
+/*end wishlist popup message*/
+.vamtam-is-wishlist .vamtam-box-outer-padding .page-header {
+  text-align: center;
+}
+.woocommerce-store-notice,
+p.demo_store {
+  width: auto;
+  padding: 1em 40px 1em 20px;
+  -webkit-animation: vamtam-fadein 2s ease;
+          animation: vamtam-fadein 2s ease;
+}
+@-webkit-keyframes vamtam-fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes vamtam-fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.admin-bar .woocommerce-store-notice,
+.admin-bar p.demo_store {
+  top: var(--wp-admin--admin-bar--height, 32px);
+}
+.woocommerce-demo-store .demo_store {
+  background-color: var(--vamtam-accent-color-8);
+  color: var(--vamtam-accent-color-6);
+  font-family: var(--e-global-typography-vamtam_h5-font-family), Sans-serif;
+  font-size: var(--e-global-typography-vamtam_h5-font-size);
+  font-weight: var(--e-global-typography-vamtam_h5-font-weight);
+  text-transform: var(--e-global-typography-vamtam_h5-text-transform);
+  line-height: var(--e-global-typography-vamtam_h5-line-height);
+  letter-spacing: var(--e-global-typography-vamtam_h5-letter-spacing);
+  box-shadow: none;
+}
+.woocommerce-demo-store .demo_store a {
+  color: var(--vamtam-accent-color-6);
+}
+.woocommerce-demo-store .demo_store .woocommerce-store-notice__dismiss-link {
+  text-decoration: none;
+  font-size: 0;
+  line-height: 1;
+}
+.woocommerce-demo-store .demo_store .woocommerce-store-notice__dismiss-link::before {
+  content: "\e921";
+  font-family: theme-icons !important;
+  font-weight: 900;
+  font-size: 10px;
+  color: var(--vamtam-accent-color-6);
+  top: 50%;
+  transform: translateY(-50%);
+}
+input:is([type="submit"]) {
+  border-width: 0;
+}
+.vamtam-abs-pos.vamtam-abs-pos {
+  position: absolute;
+}
+.woocommerce .blockUI.blockOverlay::before {
+  display: none !important;
+}
+.vamtam-close-notice-btn {
+  display: none;
+}
+.dialog-lightbox-widget.elementor-popup-modal.vamtam-popup-search-form .dialog-close-button .eicon-close {
+  font-family: 'theme-icons' !important;
+}
+.dialog-lightbox-widget.elementor-popup-modal.vamtam-popup-search-form .dialog-close-button .eicon-close::before {
+  content: var(--vamtam-icon-close);
+}
+body.e--ua-safari .dialog-close-button {
+  outline: 0;
+}
+body.e--ua-safari .dialog-close-button {
+  outline: 0;
+}
+body.e--ua-safari .dialog-close-button {
+  outline: 0;
+}
+/* Flatpickr fix*/
+body .flatpickr-calendar input {
+  border: 0px !important;
+  border-radius: 0 !important;
+  padding: 0px 10px!important;
+}
+body .flatpickr-current-month input.cur-year {
+  min-height: auto;
+}
+body .flatpickr-day:is(
+		.selected,
+		.startRange,
+		.endRange,
+		.selected.inRange,
+		.startRange.inRange,
+		.endRange.inRange,
+		.selected:focus,
+		.startRange:focus,
+		.endRange:focus,
+		.selected:hover,
+		.startRange:hover,
+		.endRange:hover,
+		.selected.prevMonthDay,
+		.startRange.prevMonthDay,
+		.endRange.prevMonthDay,
+		.selected.nextMonthDay,
+		.startRange.nextMonthDay,
+		.endRange.nextMonthDay
+	) {
+  background: var(--vamtam-accent-color-6);
+  border-color: var(--vamtam-accent-color-6);
+  color: var(--vamtam-accent-color-5);
+}
+/* END flatpickr fix */
+.bapf_sfilter {
+  margin-bottom: 15px;
+}
+/*
+	Fix for Elementor Pro v3.12.0 adding the editor's color-scheme to the page.
+	TODO: Remove when fixed.
+*/
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: unset;
+  }
+}
+.dialog-widget-content {
+  background-color: #fff;
+}
+body.e--ua-blink .elementor-popup-modal :is(.dialog-widget-content, .dialog-message) {
+  max-width: calc(100vw - var(--vamtam-scrollbar-width, 0));
+}
+.ui-widget-content {
+  z-index: auto !important;
+}
+.elementor-popup-modal.vamtam-header-mega-menu {
+  pointer-events: none !important;
+}
+body.e--ua-isTouchDevice.e--ua-appleWebkit a {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
+.vamtam-no-overflow-on-load {
+  overflow: hidden !important;
+}
+.wpcpv-gallery.lg-outer .lg-thumb .lg-thumb-item img {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+body:not(.elementor-editor-active) .blur-background:not(.elementor-widget-button),
+body:not(.elementor-editor-active) .blur-background-masked:not(:has(.elementor-widget-container)),
+body:not(.elementor-editor-active) .blur-background-masked .elementor-widget-container {
+  -webkit-backdrop-filter: saturate(180%) blur(40px);
+          backdrop-filter: saturate(180%) blur(40px);
+}
+.vamtam-square {
+  aspect-ratio: 1 / 1;
+}
+::-moz-selection {
+  background: var(--e-global-color-vamtam_accent_6);
+  color: var(--e-global-color-vamtam_accent_5);
+}
+::selection {
+  background: var(--e-global-color-vamtam_accent_6);
+  color: var(--e-global-color-vamtam_accent_5);
+}
+.sbi-owl-dots .sbi-owl-dot span {
+  height: 5px;
+  width: 5px;
+  margin: 5px 5px;
+}
+body.e--ua-appleWebkit .vamtam-saf-fnl,
+body.e--ua-appleWebkit .vamtam-saf-fnl .elementor-widget-container {
+  will-change: transform;
+}
+@media (hover: hover) {
+  @-webkit-keyframes vamtam-show-grow-mw {
+    from {
+      opacity: 0;
+      max-width: 0;
+    }
+    to {
+      opacity: 1;
+      max-width: var(--vamtam-tw, 100%);
+    }
+  }
+  @keyframes vamtam-show-grow-mw {
+    from {
+      opacity: 0;
+      max-width: 0;
+    }
+    to {
+      opacity: 1;
+      max-width: var(--vamtam-tw, 100%);
+    }
+  }
+  @-webkit-keyframes vamtam-hide-shrink-mw {
+    from {
+      opacity: 1;
+      max-width: var(--vamtam-tw, 100%);
+    }
+    to {
+      opacity: 0;
+      max-width: 0;
+    }
+  }
+  @keyframes vamtam-hide-shrink-mw {
+    from {
+      opacity: 1;
+      max-width: var(--vamtam-tw, 100%);
+    }
+    to {
+      opacity: 0;
+      max-width: 0;
+    }
+  }
+  @-webkit-keyframes vamtam-show-grow-mh {
+    from {
+      opacity: 0;
+      max-height: 0px;
+    }
+    to {
+      opacity: 1;
+      max-height: var(--vamtam-th, 150px);
+    }
+  }
+  @keyframes vamtam-show-grow-mh {
+    from {
+      opacity: 0;
+      max-height: 0px;
+    }
+    to {
+      opacity: 1;
+      max-height: var(--vamtam-th, 150px);
+    }
+  }
+  @-webkit-keyframes vamtam-hide-shrink-mh {
+    from {
+      opacity: 1;
+      max-height: var(--vamtam-th, 150px);
+    }
+    to {
+      opacity: 0;
+      max-height: 0px;
+    }
+  }
+  @keyframes vamtam-hide-shrink-mh {
+    from {
+      opacity: 1;
+      max-height: var(--vamtam-th, 150px);
+    }
+    to {
+      opacity: 0;
+      max-height: 0px;
+    }
+  }
+  @-webkit-keyframes vamtam-btn-grow {
+    0% {
+      opacity: 0;
+      scale: 1;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      scale: 1.25;
+    }
+  }
+  @keyframes vamtam-btn-grow {
+    0% {
+      opacity: 0;
+      scale: 1;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      scale: 1.25;
+    }
+  }
+  @-webkit-keyframes vamtam-btn-shrink {
+    0% {
+      opacity: 1;
+      scale: 1.25;
+    }
+    99% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+      scale: 1;
+    }
+  }
+  @keyframes vamtam-btn-shrink {
+    0% {
+      opacity: 1;
+      scale: 1.25;
+    }
+    99% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+      scale: 1;
+    }
+  }
+}
+.border-gradient {
+  -o-border-image: linear-gradient(to bottom, var(--e-global-color-vamtam_accent_7) 30%, rgba(255, 255, 255, 0) 100%) 1;
+     border-image: linear-gradient(to bottom, var(--e-global-color-vamtam_accent_7) 30%, rgba(255, 255, 255, 0) 100%) 1;
+}
+form.post-password-form {
+  text-align: center;
+  margin: max(20vh, 50px) auto;
+}
+/* --- Widgets --- */
+[data-element_type="container"].vamtam-has-theme-cp.vamtam-cp-top-bot-left {
+  -webkit-clip-path: polygon(0.132812px 0px, 0.132812px 0px, 0.61064843px 2.55056851px, 1.58741478px 6.30721088px, 3.21633588px 10.92261537px, 5.65063651px 16.04947024px, 9.0435415px 21.34046375px, 13.54827565px 26.44828416px, 19.31806376px 31.02561973px, 26.50613066px 34.72515872px, 35.26570113px 37.19958939px, 45.75px 38.1016px, 197.25px 38.1016px, 197.25px 38.1016px, 198.02325px 38.1234093px, 200.196px 38.2760624px, 203.54775px 38.6903971px, 207.858px 39.4972512px, 212.90625px 40.8274625px, 218.472px 42.8118688px, 224.33475px 45.5813079px, 230.274px 49.2666176px, 236.06925px 53.9986357px, 241.5px 59.9082px, 241.5px 59.9082px, 242.06175px 60.4691575px, 243.654px 62.049764px, 246.13725px 64.4966205px, 249.372px 67.656328px, 253.21875px 71.3754875px, 257.538px 75.5007px, 262.19025px 79.8785665px, 267.036px 84.355688px, 271.93575px 88.7786655px, 276.75px 92.9941px, 276.75px 92.9941px, 281.167501px 95.9212029px, 285.570008px 98.1588512px, 289.957527px 99.7968643px, 294.330064px 100.9250616px, 298.687625px 101.6332625px, 303.030216px 102.0112864px, 307.357843px 102.1489527px, 311.670512px 102.1360808px, 315.968229px 102.0624901px, 320.251px 102.018px, calc(100% - 0.232px) 102.018px, calc(100% - 0.232px) calc(100% - 0.982px), 320.251px calc(100% - 0.982px), 320.251px calc(100% - 0.982px), 315.968473px calc(100% - 0.93751px), 311.670904px calc(100% - 0.86392px), 307.358311px calc(100% - 0.85105px), 303.030712px calc(100% - 0.98872px), 298.688125px calc(100% - 1.36675px), 294.330568px calc(100% - 2.07496px), 289.958059px calc(100% - 3.20317px), 285.570616px calc(100% - 4.8412px), 281.168257px calc(100% - 7.07887px), 276.751px calc(100% - 10.006px), 276.751px calc(100% - 10.006px), 271.947901px calc(100% - 14.211477px), 267.059368px calc(100% - 18.623936px), 262.223947px calc(100% - 23.091019px), 257.580184px calc(100% - 27.460368px), 253.266625px calc(100% - 31.579625px), 249.421816px calc(100% - 35.296432px), 246.184303px calc(100% - 38.458431px), 243.692632px calc(100% - 40.913264px), 242.085349px calc(100% - 42.508573px), 241.501px calc(100% - 43.092px), 241.501px calc(100% - 43.092px), 236.070222px calc(100% - 49.001426px), 230.274896px calc(100% - 53.733328px), 224.335534px calc(100% - 57.418542px), 218.472648px calc(100% - 60.187904px), 212.90675px calc(100% - 62.17225px), 207.858352px calc(100% - 63.502416px), 203.547966px calc(100% - 64.309238px), 200.196104px calc(100% - 64.723552px), 198.023278px calc(100% - 64.876194px), 197.25px calc(100% - 64.898px), 45.75px calc(100% - 64.898px), 45.75px calc(100% - 64.898px), 34.26303159px calc(100% - 65.993099px), 24.86404992px calc(100% - 68.964992px), 17.34605733px calc(100% - 73.344473px), 11.50205616px calc(100% - 78.662336px), 7.12504875px calc(100% - 84.449375px), 4.00803744px calc(100% - 90.236384px), 1.94402457px calc(100% - 95.554157px), 0.72601248px calc(100% - 99.933488px), 0.14700351px calc(100% - 102.905171px), 1.38671763E-31px calc(100% - 104px), 0px 0px, 0.132812px 0px);
+          clip-path: polygon(0.132812px 0px, 0.132812px 0px, 0.61064843px 2.55056851px, 1.58741478px 6.30721088px, 3.21633588px 10.92261537px, 5.65063651px 16.04947024px, 9.0435415px 21.34046375px, 13.54827565px 26.44828416px, 19.31806376px 31.02561973px, 26.50613066px 34.72515872px, 35.26570113px 37.19958939px, 45.75px 38.1016px, 197.25px 38.1016px, 197.25px 38.1016px, 198.02325px 38.1234093px, 200.196px 38.2760624px, 203.54775px 38.6903971px, 207.858px 39.4972512px, 212.90625px 40.8274625px, 218.472px 42.8118688px, 224.33475px 45.5813079px, 230.274px 49.2666176px, 236.06925px 53.9986357px, 241.5px 59.9082px, 241.5px 59.9082px, 242.06175px 60.4691575px, 243.654px 62.049764px, 246.13725px 64.4966205px, 249.372px 67.656328px, 253.21875px 71.3754875px, 257.538px 75.5007px, 262.19025px 79.8785665px, 267.036px 84.355688px, 271.93575px 88.7786655px, 276.75px 92.9941px, 276.75px 92.9941px, 281.167501px 95.9212029px, 285.570008px 98.1588512px, 289.957527px 99.7968643px, 294.330064px 100.9250616px, 298.687625px 101.6332625px, 303.030216px 102.0112864px, 307.357843px 102.1489527px, 311.670512px 102.1360808px, 315.968229px 102.0624901px, 320.251px 102.018px, calc(100% - 0.232px) 102.018px, calc(100% - 0.232px) calc(100% - 0.982px), 320.251px calc(100% - 0.982px), 320.251px calc(100% - 0.982px), 315.968473px calc(100% - 0.93751px), 311.670904px calc(100% - 0.86392px), 307.358311px calc(100% - 0.85105px), 303.030712px calc(100% - 0.98872px), 298.688125px calc(100% - 1.36675px), 294.330568px calc(100% - 2.07496px), 289.958059px calc(100% - 3.20317px), 285.570616px calc(100% - 4.8412px), 281.168257px calc(100% - 7.07887px), 276.751px calc(100% - 10.006px), 276.751px calc(100% - 10.006px), 271.947901px calc(100% - 14.211477px), 267.059368px calc(100% - 18.623936px), 262.223947px calc(100% - 23.091019px), 257.580184px calc(100% - 27.460368px), 253.266625px calc(100% - 31.579625px), 249.421816px calc(100% - 35.296432px), 246.184303px calc(100% - 38.458431px), 243.692632px calc(100% - 40.913264px), 242.085349px calc(100% - 42.508573px), 241.501px calc(100% - 43.092px), 241.501px calc(100% - 43.092px), 236.070222px calc(100% - 49.001426px), 230.274896px calc(100% - 53.733328px), 224.335534px calc(100% - 57.418542px), 218.472648px calc(100% - 60.187904px), 212.90675px calc(100% - 62.17225px), 207.858352px calc(100% - 63.502416px), 203.547966px calc(100% - 64.309238px), 200.196104px calc(100% - 64.723552px), 198.023278px calc(100% - 64.876194px), 197.25px calc(100% - 64.898px), 45.75px calc(100% - 64.898px), 45.75px calc(100% - 64.898px), 34.26303159px calc(100% - 65.993099px), 24.86404992px calc(100% - 68.964992px), 17.34605733px calc(100% - 73.344473px), 11.50205616px calc(100% - 78.662336px), 7.12504875px calc(100% - 84.449375px), 4.00803744px calc(100% - 90.236384px), 1.94402457px calc(100% - 95.554157px), 0.72601248px calc(100% - 99.933488px), 0.14700351px calc(100% - 102.905171px), 1.38671763E-31px calc(100% - 104px), 0px 0px, 0.132812px 0px);
+}
+[data-element_type="container"].vamtam-has-theme-cp.vamtam-cp-bot-left-sm {
+  -webkit-clip-path: polygon(calc(100% - 20px) 0px, calc(100% - 20px) 0px, calc(100% - 16.755822px) 0.26176637px, calc(100% - 13.678336px) 1.01961376px, calc(100% - 10.808714px) 2.23236459px, calc(100% - 8.188128px) 3.85884128px, calc(100% - 5.85775px) 5.85786625px, calc(100% - 3.858752px) 8.18826192px, calc(100% - 2.232306px) 10.80885071px, calc(100% - 1.019584px) 13.67845504px, calc(100% - 0.261758px) 16.75589733px, calc(100% - 0px) 20px, calc(100% - 0px) calc(100% - 20px), calc(100% - 0px) calc(100% - 20px), calc(100% - 0.261758px) calc(100% - 16.755822px), calc(100% - 1.019584px) calc(100% - 13.678336px), calc(100% - 2.232306px) calc(100% - 10.808714px), calc(100% - 3.858752px) calc(100% - 8.188128px), calc(100% - 5.85775px) calc(100% - 5.85775px), calc(100% - 8.188128px) calc(100% - 3.858752px), calc(100% - 10.808714px) calc(100% - 2.232306px), calc(100% - 13.678336px) calc(100% - 1.019584px), calc(100% - 16.755822px) calc(100% - 0.261758px), calc(100% - 20px) calc(100% - 0px), calc(100% - 20px) calc(100% - 0px), calc(100% - 24.914044px) calc(100% - 0px), calc(100% - 38.552352px) calc(100% - 0px), calc(100% - 59.259188px) calc(100% - 0px), calc(100% - 85.378816px) calc(100% - 0px), calc(100% - 115.2555px) calc(100% - 0px), calc(100% - 147.233504px) calc(100% - 0px), calc(100% - 179.657092px) calc(100% - 0px), calc(100% - 210.870528px) calc(100% - 0px), calc(100% - 239.218076px) calc(100% - 0px), calc(100% - 263.044px) calc(100% - 0px), 148.956px calc(100% - 0px), 141.7424066px calc(100% - 0.868261px), 135.7796128px calc(100% - 3.269048px), 130.7435982px calc(100% - 6.819867px), 126.3103424px calc(100% - 11.138224px), 122.155825px calc(100% - 15.841625px), 117.9560256px calc(100% - 20.547576px), 113.3869238px calc(100% - 24.873583px), 108.1244992px calc(100% - 28.437152px), 101.8447314px calc(100% - 30.855789px), 94.2236px calc(100% - 31.747px), 22.2305px calc(100% - 31.747px), 22.2305px calc(100% - 31.747px), 16.19741876px calc(100% - 32.257571px), 11.36840101px calc(100% - 33.643488px), 7.60942554px calc(100% - 35.686057px), 4.78647114px calc(100% - 38.166584px), 2.76551661px calc(100% - 40.866375px), 1.41254076px calc(100% - 43.566736px), 0.59352237px calc(100% - 46.048973px), 0.17444025px calc(100% - 48.094392px), 0.0212732px calc(100% - 49.484299px), 0px calc(100% - 50px), 0px 20px, 0px 20px, 0.26176637px 16.75589733px, 1.01961376px 13.67845504px, 2.23236459px 10.80885071px, 3.85884128px 8.18826192px, 5.85786625px 5.85786625px, 8.18826192px 3.85884128px, 10.80885071px 2.23236459px, 13.67845504px 1.01961376px, 16.75589733px 0.26176637px, 20px 0px, calc(100% - 20px) 0px);
+          clip-path: polygon(calc(100% - 20px) 0px, calc(100% - 20px) 0px, calc(100% - 16.755822px) 0.26176637px, calc(100% - 13.678336px) 1.01961376px, calc(100% - 10.808714px) 2.23236459px, calc(100% - 8.188128px) 3.85884128px, calc(100% - 5.85775px) 5.85786625px, calc(100% - 3.858752px) 8.18826192px, calc(100% - 2.232306px) 10.80885071px, calc(100% - 1.019584px) 13.67845504px, calc(100% - 0.261758px) 16.75589733px, calc(100% - 0px) 20px, calc(100% - 0px) calc(100% - 20px), calc(100% - 0px) calc(100% - 20px), calc(100% - 0.261758px) calc(100% - 16.755822px), calc(100% - 1.019584px) calc(100% - 13.678336px), calc(100% - 2.232306px) calc(100% - 10.808714px), calc(100% - 3.858752px) calc(100% - 8.188128px), calc(100% - 5.85775px) calc(100% - 5.85775px), calc(100% - 8.188128px) calc(100% - 3.858752px), calc(100% - 10.808714px) calc(100% - 2.232306px), calc(100% - 13.678336px) calc(100% - 1.019584px), calc(100% - 16.755822px) calc(100% - 0.261758px), calc(100% - 20px) calc(100% - 0px), calc(100% - 20px) calc(100% - 0px), calc(100% - 24.914044px) calc(100% - 0px), calc(100% - 38.552352px) calc(100% - 0px), calc(100% - 59.259188px) calc(100% - 0px), calc(100% - 85.378816px) calc(100% - 0px), calc(100% - 115.2555px) calc(100% - 0px), calc(100% - 147.233504px) calc(100% - 0px), calc(100% - 179.657092px) calc(100% - 0px), calc(100% - 210.870528px) calc(100% - 0px), calc(100% - 239.218076px) calc(100% - 0px), calc(100% - 263.044px) calc(100% - 0px), 148.956px calc(100% - 0px), 141.7424066px calc(100% - 0.868261px), 135.7796128px calc(100% - 3.269048px), 130.7435982px calc(100% - 6.819867px), 126.3103424px calc(100% - 11.138224px), 122.155825px calc(100% - 15.841625px), 117.9560256px calc(100% - 20.547576px), 113.3869238px calc(100% - 24.873583px), 108.1244992px calc(100% - 28.437152px), 101.8447314px calc(100% - 30.855789px), 94.2236px calc(100% - 31.747px), 22.2305px calc(100% - 31.747px), 22.2305px calc(100% - 31.747px), 16.19741876px calc(100% - 32.257571px), 11.36840101px calc(100% - 33.643488px), 7.60942554px calc(100% - 35.686057px), 4.78647114px calc(100% - 38.166584px), 2.76551661px calc(100% - 40.866375px), 1.41254076px calc(100% - 43.566736px), 0.59352237px calc(100% - 46.048973px), 0.17444025px calc(100% - 48.094392px), 0.0212732px calc(100% - 49.484299px), 0px calc(100% - 50px), 0px 20px, 0px 20px, 0.26176637px 16.75589733px, 1.01961376px 13.67845504px, 2.23236459px 10.80885071px, 3.85884128px 8.18826192px, 5.85786625px 5.85786625px, 8.18826192px 3.85884128px, 10.80885071px 2.23236459px, 13.67845504px 1.01961376px, 16.75589733px 0.26176637px, 20px 0px, calc(100% - 20px) 0px);
+}
+[data-element_type="container"].vamtam-has-theme-cp.vamtam-cp-bot-left {
+  -webkit-clip-path: polygon(0px 0%, 0px 1.5%, 0px 3%, 0.05px 4.5%, 0.1px 6%, 0.25px 8%, 0.4px 10%, 0.7px 12%, 1px 14%, 1.6px 16.5%, 2.2px 19%, 3.2px 21.2%, 4.2px 23.5%, 5.8px 25.5%, 7.5px 27.5%, 9.7px 29.2%, 12px 31%, 15px 32.2%, 18px 33.5%, 22px 34.3%, 26px 35.1%, 31px 35.45%, 36px 35.8%, 43px 35.95%, 50px 36.1%, 60px 36.12%, 70px 36.15%, 82px 36.15%, 95px 36.15%, calc(100% - 150px) 36.15%, calc(100% - 147.5px) 36.155%, calc(100% - 145px) 36.16%, calc(100% - 142.5px) 36.2%, calc(100% - 140px) 36.25%, calc(100% - 137.5px) 36.35%, calc(100% - 135px) 36.45%, calc(100% - 132.5px) 36.62%, calc(100% - 130px) 36.8%, calc(100% - 127.5px) 37.1%, calc(100% - 125px) 37.4%, calc(100% - 122.5px) 37.85%, calc(100% - 120px) 38.3%, calc(100% - 117.5px) 38.9%, calc(100% - 115px) 39.5%, calc(100% - 112.5px) 40.2%, calc(100% - 110px) 41%, calc(100% - 107.5px) 42%, calc(100% - 105px) 43%, calc(100% - 102.5px) 44.2%, calc(100% - 100px) 45.5%, calc(100% - 97.5px) 47%, calc(100% - 95px) 48.5%, calc(100% - 92.5px) 50.2%, calc(100% - 90px) 52%, calc(100% - 87.5px) 54%, calc(100% - 85px) 56%, calc(100% - 82.5px) 58.2%, calc(100% - 80px) 60.5%, calc(100% - 77.5px) 63%, calc(100% - 75px) 65.5%, calc(100% - 72.5px) 68.2%, calc(100% - 70px) 71%, calc(100% - 67.5px) 73.7%, calc(100% - 65px) 76.5%, calc(100% - 62.5px) 79%, calc(100% - 60px) 81.5%, calc(100% - 57.5px) 83.7%, calc(100% - 55px) 86%, calc(100% - 52.5px) 87.7%, calc(100% - 50px) 89.5%, calc(100% - 47.5px) 91%, calc(100% - 45px) 92.5%, calc(100% - 42.5px) 93.7%, calc(100% - 40px) 95%, calc(100% - 37.5px) 96%, calc(100% - 35px) 97%, calc(100% - 32.5px) 97.7%, calc(100% - 30px) 98.5%, calc(100% - 27.5px) 98.9%, calc(100% - 25px) 99.3%, calc(100% - 22.5px) 99.55%, calc(100% - 20px) 99.8%, calc(100% - 17.5px) 99.9%, calc(100% - 15px) 100%, 100% 100%, 0% 100%, 0% 0%);
+          clip-path: polygon(0px 0%, 0px 1.5%, 0px 3%, 0.05px 4.5%, 0.1px 6%, 0.25px 8%, 0.4px 10%, 0.7px 12%, 1px 14%, 1.6px 16.5%, 2.2px 19%, 3.2px 21.2%, 4.2px 23.5%, 5.8px 25.5%, 7.5px 27.5%, 9.7px 29.2%, 12px 31%, 15px 32.2%, 18px 33.5%, 22px 34.3%, 26px 35.1%, 31px 35.45%, 36px 35.8%, 43px 35.95%, 50px 36.1%, 60px 36.12%, 70px 36.15%, 82px 36.15%, 95px 36.15%, calc(100% - 150px) 36.15%, calc(100% - 147.5px) 36.155%, calc(100% - 145px) 36.16%, calc(100% - 142.5px) 36.2%, calc(100% - 140px) 36.25%, calc(100% - 137.5px) 36.35%, calc(100% - 135px) 36.45%, calc(100% - 132.5px) 36.62%, calc(100% - 130px) 36.8%, calc(100% - 127.5px) 37.1%, calc(100% - 125px) 37.4%, calc(100% - 122.5px) 37.85%, calc(100% - 120px) 38.3%, calc(100% - 117.5px) 38.9%, calc(100% - 115px) 39.5%, calc(100% - 112.5px) 40.2%, calc(100% - 110px) 41%, calc(100% - 107.5px) 42%, calc(100% - 105px) 43%, calc(100% - 102.5px) 44.2%, calc(100% - 100px) 45.5%, calc(100% - 97.5px) 47%, calc(100% - 95px) 48.5%, calc(100% - 92.5px) 50.2%, calc(100% - 90px) 52%, calc(100% - 87.5px) 54%, calc(100% - 85px) 56%, calc(100% - 82.5px) 58.2%, calc(100% - 80px) 60.5%, calc(100% - 77.5px) 63%, calc(100% - 75px) 65.5%, calc(100% - 72.5px) 68.2%, calc(100% - 70px) 71%, calc(100% - 67.5px) 73.7%, calc(100% - 65px) 76.5%, calc(100% - 62.5px) 79%, calc(100% - 60px) 81.5%, calc(100% - 57.5px) 83.7%, calc(100% - 55px) 86%, calc(100% - 52.5px) 87.7%, calc(100% - 50px) 89.5%, calc(100% - 47.5px) 91%, calc(100% - 45px) 92.5%, calc(100% - 42.5px) 93.7%, calc(100% - 40px) 95%, calc(100% - 37.5px) 96%, calc(100% - 35px) 97%, calc(100% - 32.5px) 97.7%, calc(100% - 30px) 98.5%, calc(100% - 27.5px) 98.9%, calc(100% - 25px) 99.3%, calc(100% - 22.5px) 99.55%, calc(100% - 20px) 99.8%, calc(100% - 17.5px) 99.9%, calc(100% - 15px) 100%, 100% 100%, 0% 100%, 0% 0%);
+}
+[data-element_type="container"].vamtam-has-theme-cp.vamtam-cp-bot-right {
+  -webkit-clip-path: polygon(calc(100% - 0px) 0%, calc(100% - 0px) 1.5%, calc(100% - 0px) 3%, calc(100% - 0.05px) 4.5%, calc(100% - 0.1px) 6%, calc(100% - 0.25px) 8%, calc(100% - 0.4px) 10%, calc(100% - 0.7px) 12%, calc(100% - 1px) 14%, calc(100% - 1.6px) 16.5%, calc(100% - 2.2px) 19%, calc(100% - 3.2px) 21.2%, calc(100% - 4.2px) 23.5%, calc(100% - 5.8px) 25.5%, calc(100% - 7.5px) 27.5%, calc(100% - 9.7px) 29.2%, calc(100% - 12px) 31%, calc(100% - 15px) 32.2%, calc(100% - 18px) 33.5%, calc(100% - 22px) 34.3%, calc(100% - 26px) 35.1%, calc(100% - 31px) 35.45%, calc(100% - 36px) 35.8%, calc(100% - 43px) 35.95%, calc(100% - 50px) 36.1%, calc(100% - 60px) 36.12%, calc(100% - 70px) 36.15%, calc(100% - 82px) 36.15%, calc(100% - 95px) 36.15%, 150px 36.15%, 147.5px 36.155%, 145px 36.16%, 142.5px 36.2%, 140px 36.25%, 137.5px 36.35%, 135px 36.45%, 132.5px 36.62%, 130px 36.8%, 127.5px 37.1%, 125px 37.4%, 122.5px 37.85%, 120px 38.3%, 117.5px 38.9%, 115px 39.5%, 112.5px 40.2%, 110px 41%, 107.5px 42%, 105px 43%, 102.5px 44.2%, 100px 45.5%, 97.5px 47%, 95px 48.5%, 92.5px 50.2%, 90px 52%, 87.5px 54%, 85px 56%, 82.5px 58.2%, 80px 60.5%, 77.5px 63%, 75px 65.5%, 72.5px 68.2%, 70px 71%, 67.5px 73.7%, 65px 76.5%, 62.5px 79%, 60px 81.5%, 57.5px 83.7%, 55px 86%, 52.5px 87.7%, 50px 89.5%, 47.5px 91%, 45px 92.5%, 42.5px 93.7%, 40px 95%, 37.5px 96%, 35px 97%, 32.5px 97.7%, 30px 98.5%, 27.5px 98.9%, 25px 99.3%, 22.5px 99.55%, 20px 99.8%, 17.5px 99.9%, 15px 100%, 0% 100%, 100% 100%, 100% 0%);
+          clip-path: polygon(calc(100% - 0px) 0%, calc(100% - 0px) 1.5%, calc(100% - 0px) 3%, calc(100% - 0.05px) 4.5%, calc(100% - 0.1px) 6%, calc(100% - 0.25px) 8%, calc(100% - 0.4px) 10%, calc(100% - 0.7px) 12%, calc(100% - 1px) 14%, calc(100% - 1.6px) 16.5%, calc(100% - 2.2px) 19%, calc(100% - 3.2px) 21.2%, calc(100% - 4.2px) 23.5%, calc(100% - 5.8px) 25.5%, calc(100% - 7.5px) 27.5%, calc(100% - 9.7px) 29.2%, calc(100% - 12px) 31%, calc(100% - 15px) 32.2%, calc(100% - 18px) 33.5%, calc(100% - 22px) 34.3%, calc(100% - 26px) 35.1%, calc(100% - 31px) 35.45%, calc(100% - 36px) 35.8%, calc(100% - 43px) 35.95%, calc(100% - 50px) 36.1%, calc(100% - 60px) 36.12%, calc(100% - 70px) 36.15%, calc(100% - 82px) 36.15%, calc(100% - 95px) 36.15%, 150px 36.15%, 147.5px 36.155%, 145px 36.16%, 142.5px 36.2%, 140px 36.25%, 137.5px 36.35%, 135px 36.45%, 132.5px 36.62%, 130px 36.8%, 127.5px 37.1%, 125px 37.4%, 122.5px 37.85%, 120px 38.3%, 117.5px 38.9%, 115px 39.5%, 112.5px 40.2%, 110px 41%, 107.5px 42%, 105px 43%, 102.5px 44.2%, 100px 45.5%, 97.5px 47%, 95px 48.5%, 92.5px 50.2%, 90px 52%, 87.5px 54%, 85px 56%, 82.5px 58.2%, 80px 60.5%, 77.5px 63%, 75px 65.5%, 72.5px 68.2%, 70px 71%, 67.5px 73.7%, 65px 76.5%, 62.5px 79%, 60px 81.5%, 57.5px 83.7%, 55px 86%, 52.5px 87.7%, 50px 89.5%, 47.5px 91%, 45px 92.5%, 42.5px 93.7%, 40px 95%, 37.5px 96%, 35px 97%, 32.5px 97.7%, 30px 98.5%, 27.5px 98.9%, 25px 99.3%, 22.5px 99.55%, 20px 99.8%, 17.5px 99.9%, 15px 100%, 0% 100%, 100% 100%, 100% 0%);
+}
+[data-element_type="container"].vamtam-cont-hover-parent:hover .vamtam-has-parent-hover[data-element_type="container"] {
+  background: var(--vamtam-hpc);
+}
+[data-element_type="container"]:is(.content-bg-blur, [class*="content-bg-blur-"])::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, #000000 30%);
+          mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, #000000 30%);
+  border-radius: inherit;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+body.e--ua-appleWebkit [data-element_type="container"]:is(.content-bg-blur, [class*="content-bg-blur-"])::before {
+  z-index: -1;
+}
+[data-element_type="container"].content-bg-blur-top::before {
+  -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, #000000 30%);
+          mask-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, #000000 30%);
+}
+[data-element_type="container"].content-bg-blur-right::before {
+  -webkit-mask-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, #000000 30%);
+          mask-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, #000000 30%);
+}
+[data-element_type="container"].content-bg-blur-bottom::before {
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, #000000 30%);
+          mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, #000000 30%);
+}
+[data-element_type="container"].content-bg-blur-left::before {
+  -webkit-mask-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, #000000 30%);
+          mask-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, #000000 30%);
+}
+[data-element_type="container"].vamtam-has-lg-bg {
+  --c-light: #fff;
+  --c-dark: #000;
+  --glass-reflex-dark: 2;
+  --glass-reflex-light: 2;
+}
+[data-element_type="container"].vamtam-has-lg-bg.vamtam-has-lg-bg-border-dist {
+  border: none !important;
+  box-shadow: inset 0 0 0 2px color-mix(in srgb, var(--c-light) calc(var(--glass-reflex-light) * 10%), transparent), inset 2px 1px 0px -1px color-mix(in srgb, var(--c-light) calc(var(--glass-reflex-light) * 90%), transparent), inset -1.5px -1px 0px -1px color-mix(in srgb, var(--c-light) calc(var(--glass-reflex-light) * 80%), transparent), inset -2px -6px 1px -5px color-mix(in srgb, var(--c-light) calc(var(--glass-reflex-light) * 60%), transparent), inset -1px 2px 3px -1px color-mix(in srgb, var(--c-dark) calc(var(--glass-reflex-dark) * 20%), transparent), inset 0px -4px 1px -2px color-mix(in srgb, var(--c-dark) calc(var(--glass-reflex-dark) * 10%), transparent), 0px 3px 6px 0px color-mix(in srgb, var(--c-dark) calc(var(--glass-reflex-dark) * 8%), transparent) !important;
+}
+[data-element_type="container"].vamtam-has-lg-bg.vamtam-lg-bg--effect1 {
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+}
+[data-element_type="container"].vamtam-has-lg-bg.vamtam-lg-bg--effect2 {
+  -webkit-backdrop-filter: url(#vamtam-lg-fx2);
+  backdrop-filter: url(#vamtam-lg-fx2);
+}
+[data-element_type="container"].vamtam-has-lg-bg.vamtam-lg-bg--effect3 {
+  -webkit-backdrop-filter: blur(5px) url(#vamtam-lg-fx3);
+  backdrop-filter: blur(5px) url(#vamtam-lg-fx3);
+}
+[data-element_type="container"].vamtam-has-lg-bg.vamtam-lg-bg--effect4 {
+  -webkit-backdrop-filter: blur(4px) url(#vamtam-lg-fx4);
+  backdrop-filter: blur(4px) url(#vamtam-lg-fx4);
+}
+[data-element_type="container"].vamtam-has-lg-bg.vamtam-lg-bg--effect5 {
+  -webkit-backdrop-filter: blur(7px) url(#vamtam-lg-fx5);
+  backdrop-filter: blur(7px) url(#vamtam-lg-fx5);
+}
+body:not(.e--ua-webkit) [data-element_type="container"].vamtam-has-lg-bg {
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+[data-element_type="container"].vamtam-has-lg-bg.vamtam-lg-bg-shadow-effect1 {
+  box-shadow: -1px 9px 28px 2px rgba(0, 0, 0, 0.78);
+}
+[data-element_type="container"].vamtam-has-lg-bg.vamtam-lg-bg-shadow-effect2 {
+  box-shadow: 0px 0px 8px 1px rgba(165, 165, 165, 0.78);
+}
+[data-element_type="container"].vamtam-has-lg-bg.vamtam-lg-bg-shadow-effect3 {
+  box-shadow: 1px 1px 60px 0 #bebebe;
+}
+[data-element_type="container"].vamtam-has-lg-bg.vamtam-lg-bg-shadow-effect4 {
+  border: 0.5px solid rgba(9, 9, 9, 0.2) !important;
+  box-shadow: inset 0 0 0 2px color-mix(in srgb, var(--c-light) calc(var(--glass-reflex-light) * 20%), transparent), inset 2px 1px 0px -1px color-mix(in srgb, var(--c-light) calc(var(--glass-reflex-light) * 90%), transparent), inset -1.5px -1px 0px -1px color-mix(in srgb, var(--c-light) calc(var(--glass-reflex-light) * 80%), transparent), inset -2px -6px 1px -5px color-mix(in srgb, var(--c-light) calc(var(--glass-reflex-light) * 80%), transparent), inset -1px 2px 3px -1px color-mix(in srgb, var(--c-dark) calc(var(--glass-reflex-dark) * 10%), transparent), inset 0px -4px 1px -2px color-mix(in srgb, var(--c-dark) calc(var(--glass-reflex-dark) * 10%), transparent), 0px 3px 6px 0px color-mix(in srgb, var(--c-dark) calc(var(--glass-reflex-dark) * 0%), transparent) !important;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles label a {
+  font: inherit;
+  color: inherit;
+  text-transform: inherit;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .flatpickr-mobile:is([type=date],[type=time]) {
+  -webkit-appearance: initial;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles input[type="hidden"].elementor-date-field.flatpickr-input[value=""] + .flatpickr-mobile:is([type=date],[type=time]),
+.elementor-widget-form.vamtam-has-theme-widget-styles input[type="hidden"].elementor-time-field.flatpickr-input[value=""] + .flatpickr-mobile:is([type=date],[type=time]),
+.elementor-widget-form.vamtam-has-theme-widget-styles input[type="hidden"].elementor-date-field.flatpickr-input:not([value]) + .flatpickr-mobile:is([type=date],[type=time]),
+.elementor-widget-form.vamtam-has-theme-widget-styles input[type="hidden"].elementor-time-field.flatpickr-input:not([value]) + .flatpickr-mobile:is([type=date],[type=time]) {
+  -webkit-appearance: initial;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles input[type="hidden"].elementor-date-field.flatpickr-input[value=""] + .flatpickr-mobile:is([type=date],[type=time])::before,
+.elementor-widget-form.vamtam-has-theme-widget-styles input[type="hidden"].elementor-time-field.flatpickr-input[value=""] + .flatpickr-mobile:is([type=date],[type=time])::before,
+.elementor-widget-form.vamtam-has-theme-widget-styles input[type="hidden"].elementor-date-field.flatpickr-input:not([value]) + .flatpickr-mobile:is([type=date],[type=time])::before,
+.elementor-widget-form.vamtam-has-theme-widget-styles input[type="hidden"].elementor-time-field.flatpickr-input:not([value]) + .flatpickr-mobile:is([type=date],[type=time])::before {
+  color: rgba(53, 53, 53, 0.65);
+  content: attr(placeholder);
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .elementor-select-wrapper .select-caret-down-wrapper {
+  font-size: 8px;
+  right: 20px;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .elementor-select-wrapper .select-caret-down-wrapper svg {
+  aspect-ratio: 1 / 1.5;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .elementor-select-wrapper .select-caret-down-wrapper + select {
+  padding-right: 40px;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles.vamtam-footer-contact-form .elementor-form-fields-wrapper {
+  align-items: start;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .elementor-form .elementor-message {
+  padding-top: 1em;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .e-form__indicators > .e-form__indicators__indicator--state-completed > [class*="e-form__indicators__indicator"] {
+  border-color: var(--e-global-color-vamtam_accent_2);
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .e-form__indicators > .e-form__indicators__indicator--state-completed + .e-form__indicators__indicator__separator {
+  background-color: var(--e-global-color-vamtam_accent_3);
+  opacity: 0.3;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .e-form__indicators > :not(.e-form__indicators__indicator--state-completed) > [class*="e-form__indicators__indicator"] {
+  border-color: var(--e-global-color-vamtam_accent_4);
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .e-form__indicators > :not(.e-form__indicators__indicator--state-completed) + .e-form__indicators__indicator__separator {
+  background-color: var(--e-global-color-vamtam_accent_3);
+  opacity: 0.3;
+}
+:is(body.e--ua-mac, .ios-safari) .elementor-widget-form.vamtam-has-theme-widget-styles input[type=file]::file-selector-button {
+  color: black;
+  border-color: black;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .elementor-form-fields-wrapper:has(.elementor-error) .elementor-column.elementor-field-group {
+  align-content: baseline;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles input[type="file"].elementor-size-md {
+  border-radius: 4px;
+  font-size: 16px;
+  min-height: 47px;
+  padding: 6px 16px;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles input[type="file"].elementor-size-md::file-selector-button {
+  height: 100%;
+  margin-top: 4px;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles.vamtam-has-btn-icon-styles .elementor-button-content-wrapper {
+  align-items: center;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles.vamtam-has-btn-icon-styles :is(svg, i) {
+  transition-duration: 0.3s;
+}
+@media (pointer: fine) {
+  .elementor-widget-form.vamtam-has-theme-widget-styles.vamtam-has-icon-hover-anim .elementor-button-icon i {
+    position: relative;
+  }
+  .elementor-widget-form.vamtam-has-theme-widget-styles.vamtam-has-icon-hover-anim .elementor-button-icon i::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: inherit;
+    border-radius: inherit;
+    z-index: 0;
+  }
+  .elementor-widget-form.vamtam-has-theme-widget-styles.vamtam-has-icon-hover-anim .elementor-button-icon i::before {
+    position: relative;
+    z-index: 1;
+  }
+  .elementor-widget-form.vamtam-has-theme-widget-styles.vamtam-has-icon-hover-anim .elementor-button:hover .elementor-button-icon i::after {
+    -webkit-animation: vamtam-btn-grow 0.7s ease forwards;
+            animation: vamtam-btn-grow 0.7s ease forwards;
+  }
+  .elementor-widget-form.vamtam-has-theme-widget-styles.vamtam-has-icon-hover-anim .elementor-button:not(:hover) .elementor-button-icon i::after {
+    -webkit-animation: vamtam-btn-shrink 0.7s ease forwards;
+            animation: vamtam-btn-shrink 0.7s ease forwards;
+  }
+}
+.vamtam-icon-hover-parent:hover .elementor-widget-icon.vamtam-has-theme-widget-styles.elementor-view-stacked .elementor-icon {
+  background-color: var(--vamtam-hpc);
+}
+.vamtam-icon-hover-parent:hover .elementor-widget-icon.vamtam-has-theme-widget-styles:is(.elementor-view-framed, .elementor-view-default) .elementor-icon {
+  color: var(--vamtam-hpc);
+  border-color: var(--vamtam-hpc);
+}
+.vamtam-icon-hover-parent:hover .elementor-widget-icon.vamtam-has-theme-widget-styles:is(.elementor-view-framed, .elementor-view-default) .elementor-icon,
+.vamtam-icon-hover-parent:hover .elementor-widget-icon.vamtam-has-theme-widget-styles:is(.elementor-view-framed, .elementor-view-default) .elementor-icon svg {
+  fill: var(--vamtam-hpc);
+}
+.vamtam-icon-hover-parent:hover .elementor-widget-icon.vamtam-has-theme-widget-styles.elementor-view-framed .elementor-icon {
+  background-color: var(--vamtam-hsc);
+}
+.vamtam-icon-hover-parent:hover .elementor-widget-icon.vamtam-has-theme-widget-styles.elementor-view-stacked .elementor-icon {
+  color: var(--vamtam-hsc);
+}
+.vamtam-icon-hover-parent:hover .elementor-widget-icon.vamtam-has-theme-widget-styles.elementor-view-stacked .elementor-icon svg {
+  fill: var(--vamtam-hsc);
+}
+.elementor-widget-n-menu.vamtam-has-theme-widget-styles.vamtam-has-mobile-disable-scroll .e-n-menu[data-layout="dropdown"] .e-n-menu-wrapper {
+  overflow-y: auto;
+}
+.elementor-widget-n-menu.vamtam-has-theme-widget-styles.vamtam-has-mobile-menu-max-height .e-n-menu[data-layout="dropdown"] .e-n-menu-wrapper > ul {
+  max-height: calc(var(--vamtam-mobile-menu-max-height, 80vh) - var(--wp-admin--admin-bar--height, 0px));
+}
+.elementor-widget-n-menu.vamtam-has-theme-widget-styles .e-n-menu-dropdown-icon,
+.elementor-widget-n-menu.vamtam-has-theme-widget-styles .e-n-menu-toggle {
+  box-shadow: none;
+  border: none !important;
+  background: transparent !important;
+}
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles.vamtam-round_menu-links .elementor-nav-menu--dropdown a {
+  border-radius: 20px;
+}
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles ul.elementor-nav-menu--dropdown a,
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles ul.elementor-nav-menu--dropdown a:focus,
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles ul.elementor-nav-menu--dropdown a:hover {
+  -webkit-border-start: none;
+          border-inline-start: none;
+}
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles.vamtam_mobile_menu .elementor-menu-toggle {
+  padding: 0.7em;
+}
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown,
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles .elementor-nav-menu__container.elementor-nav-menu--dropdown {
+  min-width: 15em !important;
+}
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles .elementor-nav-menu .sub-arrow {
+  padding: 5px;
+}
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles.vamtam-has-mobile-disable-scroll nav.elementor-nav-menu--dropdown {
+  overflow-y: auto;
+}
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles.vamtam-has-mobile-disable-scroll.vamtam-has-mobile-disable-scroll nav.elementor-nav-menu--dropdown {
+  overflow-y: auto;
+}
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles.vamtam-has-mobile-disable-scroll.vamtam-has-mobile-menu-max-height nav.elementor-nav-menu--dropdown > ul {
+  max-height: calc(var(--vamtam-mobile-menu-max-height, 80vh) - var(--wp-admin--admin-bar--height, 0px));
+}
+.elementor-widget-nav-menu.vamtam-has-theme-widget-styles.vamtam-has-mobile-menu-max-height nav.elementor-nav-menu--dropdown > ul {
+  max-height: calc(var(--vamtam-mobile-menu-max-height, 80vh) - var(--wp-admin--admin-bar--height, 0px));
+}
+.elementor-widget-text-editor.vamtam-has-theme-widget-styles.vamtam-has-text-gradient,
+.elementor-widget-text-editor.vamtam-has-theme-widget-styles.vamtam-has-text-gradient * {
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .respond-box {
+  position: relative;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .respond-box .no-comments {
+  margin-top: 0;
+  padding-top: var(--vamtam-content-space-l);
+  border-top: solid 1px var(--vamtam-default-line-color);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comment-reply-title,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments-wrapper .sep-text .content,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments-wrapper .sep-text .content a {
+  color: var(--e-global-color-vamtam_accent_6);
+  font-family: var(--e-global-typography-vamtam_h5-font-family), Sans-serif;
+  font-size: var(--e-global-typography-vamtam_h5-font-size);
+  font-weight: var(--e-global-typography-vamtam_h5-font-weight);
+  text-transform: var(--e-global-typography-vamtam_h5-text-transform);
+  font-style: var(--e-global-typography-vamtam_h5-font-style);
+  -webkit-text-decoration: var(--e-global-typography-vamtam_h5-text-decoration);
+          text-decoration: var(--e-global-typography-vamtam_h5-text-decoration);
+  line-height: var(--e-global-typography-vamtam_h5-line-height);
+  letter-spacing: var(--e-global-typography-vamtam_h5-letter-spacing);
+  word-spacing: var(--e-global-typography-vamtam_h5-word-spacing);
+  display: block;
+  height: auto;
+  text-align: start;
+  margin: 0;
+  padding: var(--vamtam-content-space-l) 0;
+  padding-top: 0;
+  border: none;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comment-reply-title {
+  padding-bottom: 8px;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments-wrapper {
+  clear: both;
+  margin-bottom: 0px;
+}
+body:not(.vamtam-is-elementor) .elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments-wrapper {
+  border: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments-wrapper .sep-text {
+  z-index: 2;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  position: relative;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments-wrapper .sep-text .content {
+  padding-bottom: 35px;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments-wrapper label {
+  display: inline-block;
+  padding-bottom: 5px;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments-wrapper .logged-in-as {
+  margin: 0 0 20px 0 !important;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments-wrapper .logged-in-as a {
+  border: var(--vamtam-no-border-link);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments {
+  position: relative;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments #respond,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments #respond {
+  padding: 10px 0px;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment {
+  position: relative;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment.depth-1,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment.depth-1 {
+  border-left: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment .comment,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment .comment {
+  padding: var(--vamtam-content-space-l) 0 0 20px;
+  box-sizing: border-box;
+  margin-left: 35px;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment .single-comment-wrapper,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment .single-comment-wrapper {
+  display: flex;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment .comment-content,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment .comment-content {
+  flex: 1;
+  max-width: 100%;
+  padding-bottom: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment .comment-content p,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment .comment-content p {
+  font-size: inherit;
+  line-height: 1.3em;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment .comment-content p:last-child,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment .comment-content p:last-child {
+  margin-bottom: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment .comment-content p + .comment-reply-link,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment .comment-content p + .comment-reply-link {
+  display: flex;
+  margin-top: 1.3em;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment .comment-content img,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment .comment-content img {
+  padding: 10px 0px;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .avatar,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .avatar {
+  max-width: 85px !important;
+  max-height: 85px;
+  width: 85px;
+  border: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-author,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-author {
+  display: inline-block;
+  vertical-align: top;
+  width: auto;
+  padding-bottom: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-author img,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-author img {
+  margin-right: var(--vamtam-content-space-m);
+  background: var(--vamtam-accent-color-7);
+  border-radius: 100em;
+  display: block;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .bypostauthor,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .bypostauthor {
+  position: relative;
+  z-index: 1;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-author-link a,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-author-link a,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-edit-link,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-edit-link {
+  color: var(--e-global-color-vamtam_accent_6);
+  font-size: var(--e-global-typography-b8fb866-font-size);
+  font-weight: var(--e-global-typography-b8fb866-font-weight);
+  -webkit-text-decoration: var(--e-global-typography-b8fb866-text-decoration);
+          text-decoration: var(--e-global-typography-b8fb866-text-decoration);
+  line-height: var(--e-global-typography-b8fb866-line-height);
+  letter-spacing: var(--e-global-typography-b8fb866-letter-spacing);
+  word-spacing: var(--e-global-typography-b8fb866-word-spacing);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-time,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-time {
+  padding: 0.2em 0 10px 0;
+  font-size: 0.8em;
+  color: var(--vamtam-accent-color-6);
+  opacity: 0.6;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-meta,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-meta {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-meta .comment-meta-left,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-meta .comment-meta-left {
+  max-width: 80%;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-meta > .comment-meta-inner,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-meta > .comment-meta-inner {
+  display: flex;
+  flex-flow: column;
+  flex-wrap: wrap;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-meta > .comment-meta-inner > div,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-meta > .comment-meta-inner > div,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-meta > .comment-meta-inner > a,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-meta > .comment-meta-inner > a {
+  margin-right: 10px;
+  margin-bottom: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-meta > .comment-meta-inner > div:last-child,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-meta > .comment-meta-inner > div:last-child,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-meta > .comment-meta-inner > a:last-child,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-meta > .comment-meta-inner > a:last-child {
+  margin-right: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-meta .comment-author-link,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-meta .comment-author-link {
+  color: var(--e-global-color-vamtam_accent_6);
+  font-family: var(--e-global-typography-5d88b43-font-family), Sans-serif;
+  font-size: var(--e-global-typography-5d88b43-font-size);
+  font-weight: var(--e-global-typography-5d88b43-font-weight);
+  text-transform: var(--e-global-typography-5d88b43-text-transform);
+  font-style: var(--e-global-typography-5d88b43-font-style);
+  -webkit-text-decoration: var(--e-global-typography-5d88b43-text-decoration);
+          text-decoration: var(--e-global-typography-5d88b43-text-decoration);
+  line-height: var(--e-global-typography-5d88b43-line-height);
+  letter-spacing: var(--e-global-typography-5d88b43-letter-spacing);
+  word-spacing: var(--e-global-typography-5d88b43-word-spacing);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments #reply-title,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments #reply-title {
+  margin-bottom: 0px !important;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments #cancel-comment-reply-link,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments #cancel-comment-reply-link {
+  color: var(--vamtam-body-link-regular);
+  position: relative;
+  margin-left: 5px;
+  text-transform: capitalize;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-notes,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-notes {
+  margin-bottom: 14px;
+  font-size: 10px;
+  opacity: 0.6;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-note,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment-note {
+  position: absolute;
+  top: -10px;
+  font-size: 12px;
+  transition: all 0.35s;
+  opacity: 0;
+  color: #4F9304;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments a.comment-reply-link,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments a.comment-reply-link {
+  font-size: 12px;
+  font-weight: 500;
+  padding: 8px 16px;
+  margin-top: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments .comment,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments ol.commentlist li {
+  border: none;
+  padding: 0 0 var(--vamtam-content-space-l);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform {
+  clear: both;
+  position: relative;
+  border: none;
+  padding: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform:after {
+  display: block;
+  clear: both;
+  content: "";
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .input {
+  background: var(--vamtam-accent-color-5);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .form-input {
+  float: left;
+  width: 100%;
+  background: none;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .comment-form-email:hover .comment-note {
+  opacity: 1;
+  top: -20px;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .comment-form-comment textarea {
+  padding: var(--forms-fields-padding, 8px);
+  min-height: 45px;
+  height: 130px;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=text],
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=email],
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=url],
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .comment-form-comment textarea {
+  padding: var(--forms-fields-padding, 8px);
+  min-height: 45px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 0 !important;
+  outline: none;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=text]::-webkit-input-placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=email]::-webkit-input-placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=url]::-webkit-input-placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .comment-form-comment textarea::-webkit-input-placeholder {
+  color: var(--vamtam-accent-color-6);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=text]:-ms-input-placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=email]:-ms-input-placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=url]:-ms-input-placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .comment-form-comment textarea:-ms-input-placeholder {
+  color: var(--vamtam-accent-color-6);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=text]::-ms-input-placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=email]::-ms-input-placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=url]::-ms-input-placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .comment-form-comment textarea::-ms-input-placeholder {
+  color: var(--vamtam-accent-color-6);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=text]::placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=email]::placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type=url]::placeholder,
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .comment-form-comment textarea::placeholder {
+  color: var(--vamtam-accent-color-6);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .form-submit {
+  bottom: 0;
+  height: auto;
+  float: none;
+  clear: both;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform input[type="checkbox"] {
+  vertical-align: middle;
+  margin-right: 5px;
+  padding: 10px;
+  float: left;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform label[for="wp-comment-cookies-consent"] {
+  display: inline;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform p {
+  line-height: 1.5;
+  font-size: 12px;
+  font-style: normal;
+  margin-bottom: var(--vamtam-content-space-m);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform p.comment-notes {
+  line-height: 1.5;
+  font-size: 12px;
+  font-style: normal;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .comment-form-cookies-consent {
+  display: flex;
+  align-items: center;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .comment-form-cookies-consent > input {
+  margin-right: 10px;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .comment-form-cookies-consent > label {
+  padding-bottom: 0;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comment-author {
+  line-height: 1em !important;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comment-author span {
+  float: left;
+  margin-top: 3px;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comment-edit-link {
+  font-size: 12px !important;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comment-edit-link:hover {
+  color: var(--vamtam-body-link-hover);
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments {
+  border-bottom: solid 1px var(--e-global-color-vamtam_accent_7);
+  margin-bottom: var(--vamtam-content-space-l);
+}
+@media (min-width: 767px) {
+  .elementor-widget-theme-post-featured-image.vamtam-has-theme-widget-styles img {
+    max-height: clamp(600px, 70vh, 800px);
+    width: auto;
+  }
+  .elementor-widget-theme-post-featured-image.vamtam-has-theme-widget-styles.vamtam-max-height-darken img {
+    max-height: clamp(200px, 50vh, 550px);
+  }
+}
+.elementor-widget-theme-post-featured-image.vamtam-has-theme-widget-styles.vamtam-max-height-darken img {
+  mix-blend-mode: darken;
+}
+.elementor-widget-toggle.vamtam-has-theme-widget-styles.vamtam-center-align-toggle .elementor-toggle-item .elementor-tab-title {
+  text-align: center;
+}
+/*# sourceMappingURL=elementor-all.css.map */

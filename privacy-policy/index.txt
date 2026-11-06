@@ -1,0 +1,1347 @@
+4:I[4707,[],""]
+6:I[6423,[],""]
+8:I[7343,["185","static/chunks/app/layout-e8fe85a7a6cd34e9.js"],"default"]
+2:T45e2,
+<style id="vamtam-theme-options">body {--vamtam-body-link-regular:#000000;
+--vamtam-body-link-visited:#000000;
+--vamtam-body-link-hover:#6904F2;
+--vamtam-body-link-active:#6904F2;
+--vamtam-body-background-color:#DBD3FF;
+--vamtam-input-border-radius:6px 6px 6px 6px;
+--vamtam-input-border-color:#0000001A;
+--vamtam-btn-text-color:#FFFFFF;
+--vamtam-btn-hover-text-color:#FFFFFF;
+--vamtam-btn-bg-color:#000000;
+--vamtam-btn-hover-bg-color:#6904F2;
+--vamtam-btn-border-radius:60px 60px 60px 60px;
+--vamtam-site-max-width:1280px;
+--vamtam-icon-ai-single:'\e91b';
+--vamtam-icon-ai:'\e900';
+--vamtam-icon-arrow-up:'\e901';
+--vamtam-icon-arrow-down:'\e902';
+--vamtam-icon-arrow-left:'\e903';
+--vamtam-icon-arrow-right:'\e904';
+--vamtam-icon-arrow-solid-down-menu:'\e910';
+--vamtam-icon-arrow-solid-down:'\e905';
+--vamtam-icon-arrow-solid-up:'\e906';
+--vamtam-icon-play:'\e91a';
+--vamtam-icon-check:'\e919';
+--vamtam-icon-close:'\e907';
+--vamtam-icon-menu:'\e908';
+--vamtam-icon-email:'\e90a';
+--vamtam-icon-automation:'\e90b';
+--vamtam-icon-ticketing:'\e90c';
+--vamtam-icon-agent:'\e90d';
+--vamtam-icon-data:'\e90e';
+--vamtam-icon-monitoring:'\e90f';
+--vamtam-icon-idea:'\e911';
+--vamtam-icon-chip:'\e912';
+--vamtam-icon-collaboration:'\e913';
+--vamtam-icon-chart:'\e914';
+--vamtam-icon-decision-tree:'\e915';
+--vamtam-icon-code-document:'\e916';
+--vamtam-icon-Error:'\e917';
+--vamtam-icon-user-check:'\e918';
+--vamtam-loading-animation:url('/assets/images/img_046.gif');
+}</style>
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="safe-svg-svg-icon-style-inline-css">
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{fill:currentColor;height:100%;max-height:100%;max-width:100%;width:100%}
+
+/*# sourceURL=/wp-content/plugins/safe-svg/dist/safe-svg-block-frontend.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='elementor-frontend-css' href='/assets/css/style_037.css' media='all' />
+<style id="elementor-frontend-inline-css">
+.e-heading-base a, .e-paragraph-base a { all: unset; cursor: pointer; }form[data-element_type="e-form"].form-state-success [data-element_type="e-form-success-message"],form[data-element_type="e-form"].form-state-error [data-element_type="e-form-error-message"]{ display: block; }
+.e-form-textarea-base:not([data-resizable]) { resize: none; } .e-form-submit-button-base { cursor: pointer; box-sizing: border-box; }
+/*# sourceURL=elementor-frontend-inline-css */
+</style>
+<link rel='stylesheet' id='elementor-post-4-css' href='/assets/css/style_054.css' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='/assets/css/style_017.css' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='/assets/css/style_040.css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='/assets/css/style_016.css' media='all' />
+<link rel='stylesheet' id='widget-icon-box-css' href='/assets/css/style_041.css' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='/assets/css/style_042.css' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='/assets/css/style_015.css' media='all' />
+<link rel='stylesheet' id='widget-mega-menu-css' href='/assets/css/style_039.css' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInUp-css' href='/assets/css/style_024.css' media='all' />
+<link rel='stylesheet' id='e-animation-fadeIn-css' href='/assets/css/style_023.css' media='all' />
+<link rel='stylesheet' id='e-animation-slideInUp-css' href='/assets/css/style_027.css' media='all' />
+<link rel='stylesheet' id='e-motion-fx-css' href='/assets/css/style_007.css' media='all' />
+<link rel='stylesheet' id='e-animation-pulse-grow-css' href='/assets/css/style_022.css' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='/assets/css/style_020.css' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='/assets/css/style_036.css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-theme-icons-css' href='/assets/css/style_135.css' media='all' />
+<link rel='stylesheet' id='elementor-post-1889-css' href='/assets/css/style_095.css' media='all' />
+<link rel='stylesheet' id='base-desktop-css' href='/assets/css/style_034.css' media='all' />
+<link rel='stylesheet' id='base-mobile-css' href='/assets/css/style_035.css' media='(max-width:767px)' />
+<link rel='stylesheet' id='elementor-post-707-css' href='/assets/css/style_142.css' media='all' />
+<link rel='stylesheet' id='elementor-post-1752-css' href='/assets/css/style_048.css' media='all' />
+<link rel='stylesheet' id='elementor-post-12429-css' href='/assets/css/style_094.css' media='all' />
+<link data-minify="1" rel='stylesheet' id='vamtam-front-all-css' href='/assets/css/style_002.css' media='all' />
+<style id="vamtam-front-all-inline-css">
+
+			@font-face {
+				font-family: 'icomoon';
+				src: url(/assets/fonts/font_002.woff2) format('woff2'),
+					 url( /assets/fonts/font_001.woff) format('woff'),
+					 url(/assets/fonts/font_001.ttf) format('ttf');
+				font-weight: normal;
+				font-style: normal;
+				font-display: swap;
+			}
+		
+			@font-face {
+				font-family: 'vamtam-theme';
+				src: url(/assets/fonts/font_001.woff2) format('woff2'),
+					url(/assets/fonts/font_002.woff) format('woff');
+				font-weight: normal;
+				font-style: normal;
+				font-display: swap;
+			}
+		
+/*# sourceURL=vamtam-front-all-inline-css */
+</style>
+<link rel='stylesheet' id='vamtam-theme-elementor-max-css' href='/assets/css/style_032.css' media='(min-width: 1025px)' />
+<link rel='stylesheet' id='vamtam-theme-elementor-below-max-css' href='/assets/css/style_031.css' media='(max-width: 1024px)' />
+<link rel='stylesheet' id='vamtam-theme-elementor-small-css' href='/assets/css/style_033.css' media='(max-width: 767px)' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-instrumentsans-css' href='/assets/css/style_137.css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-ibmplexsans-css' href='/assets/css/style_138.css' media='all' />
+
+
+
+<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						
+					}
+				}
+			</style>3:T1ccc5,
+	<div data-rocket-location-hash="33a51ce4811700f4830645d37fdf24b5" id="top"></div>
+	
+			<header data-rocket-location-hash="e82d6a593bdb507d1094042804d2929a" data-elementor-type="header" data-elementor-id="707" class="elementor elementor-707 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div data-rocket-location-hash="ececd9c502c3f6bebd1bee5f05e44683" class="elementor-element elementor-element-daf3b60 e-con-full vamtam-sticky-header--mobile vamtam-sticky-header e-flex e-con e-parent e-lazyloaded" data-id="daf3b60" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-8737862 e-con-full e-flex e-con e-child e-lazyloaded" data-id="8737862" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-fa438bc elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="fa438bc" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
+											<a href="/" class="abs-brand-logo-link abs-brand-nav">
+  <div class="abs-brand-emblem">
+    <img src="/assets/images/brand_icon_3d.png" alt="Automated Business Suite" class="abs-brand-icon" width="38" height="38" />
+  </div>
+  <div class="abs-brand-text">
+    <span class="abs-brand-title">Automated Business Suite</span>
+    <span class="abs-brand-sub">AI PLATFORM</span>
+  </div>
+</a>
+											</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-b6ff56c e-fit_to_content vamtam-has-align-dropdown-to-header vamtam-has-mobile-menu-max-height e-n-menu-layout-horizontal e-n-menu-tablet vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-n-menu" data-id="b6ff56c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;menu_items&quot;:[{&quot;item_title&quot;:&quot;H&quot;,&quot;_id&quot;:&quot;008551f&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;Services&quot;,&quot;_id&quot;:&quot;0207225&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;9243bec\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%2226%22%7D\&quot;]&quot;},&quot;item_link&quot;:{&quot;url&quot;:&quot;..\/..\/pages\/services\//&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;Industries&quot;,&quot;_id&quot;:&quot;f9d6c57&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;4819794\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%2238%22%7D\&quot;]&quot;},&quot;item_link&quot;:{&quot;url&quot;:&quot;..\/..\/pages\/industries\//&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;About&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;_id&quot;:&quot;85cf45e&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;f2820ed\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%2256%22%7D\&quot;]&quot;},&quot;item_link&quot;:{&quot;url&quot;:&quot;..\/..\/pages\/about\//&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;Resources&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;_id&quot;:&quot;0e08e0b&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;3424622\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%227538%22%7D\&quot;]&quot;},&quot;item_link&quot;:{&quot;url&quot;:&quot;..\/..\/pages\/resources\//&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;Contact&quot;,&quot;item_dropdown_content&quot;:&quot;&quot;,&quot;_id&quot;:&quot;d688cee&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;19da700\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%2272%22%7D\&quot;]&quot;},&quot;item_link&quot;:{&quot;url&quot;:&quot;..\/..\/pages\/contact\//&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;}],&quot;content_width&quot;:&quot;fit_to_content&quot;,&quot;content_horizontal_position&quot;:&quot;left&quot;,&quot;menu_item_title_distance_from_content&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;menu_item_title_distance_from_content_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;horizontal_scroll&quot;:&quot;enable&quot;,&quot;horizontal_scroll_tablet&quot;:&quot;disable&quot;,&quot;item_position_horizontal&quot;:&quot;center&quot;,&quot;item_position_horizontal_tablet&quot;:&quot;start&quot;,&quot;item_layout&quot;:&quot;horizontal&quot;,&quot;open_on&quot;:&quot;hover&quot;,&quot;breakpoint_selector&quot;:&quot;tablet&quot;,&quot;menu_item_title_distance_from_content_widescreen&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_item_title_distance_from_content_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="mega-menu.default">
+							<nav class="e-n-menu" data-widget-number="191" aria-label="Menu">
+					<button class="e-n-menu-toggle" id="menu-toggle-191" aria-haspopup="true" aria-expanded="false" aria-controls="menubar-191" aria-label="Menu Toggle">
+			<span class="e-n-menu-toggle-icon e-open">
+				<i class="vamtamtheme- vamtam-theme-menu"></i>			</span>
+			<span class="e-n-menu-toggle-icon e-close">
+				<i class="vamtamtheme- vamtam-theme-close"></i>			</span>
+		</button>
+					<div class="e-n-menu-wrapper" id="menubar-191" aria-labelledby="menu-toggle-191">
+				<ul class="e-n-menu-heading">
+								<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1911" class="e-n-menu-title">
+					<div class="e-n-menu-title-container">												<span class="e-n-menu-title-text">Home</span>
+					</div>											<button id="e-n-menu-dropdown-icon-1911" class="e-n-menu-dropdown-icon e-focus" data-tab-index="1" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1911" >
+							<span class="e-n-menu-dropdown-icon-opened">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-up"></i>								<span class="elementor-screen-only">Close Home</span>
+							</span>
+							<span class="e-n-menu-dropdown-icon-closed">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-down"></i>								<span class="elementor-screen-only">Open Home</span>
+							</span>
+						</button>
+									</div>
+									<div class="e-n-menu-content">
+						<div id="e-n-menu-content-1911" data-tab-index="1" aria-labelledby="e-n-menu-dropdown-icon-1911" class="elementor-element elementor-element-df538be e-con-full e-flex e-con e-child e-lazyloaded" data-id="df538be" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-8441340 elementor-nav-menu--dropdown-none vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="8441340" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-background e--animation-fade">
+				<ul id="menu-1-8441340" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8426"><a href="/" class="elementor-item">AI Integration Agency</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8427"><a href="/ai-micro-saas" class="elementor-item">AI Micro-SaaS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8428"><a href="/ai-trainers" class="elementor-item">AI Trainers</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-8441340" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8426"><a href="/" class="elementor-item" tabindex="-1">AI Integration Agency</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8427"><a href="/ai-micro-saas" class="elementor-item" tabindex="-1">AI Micro-SaaS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8428"><a href="/ai-trainers" class="elementor-item" tabindex="-1">AI Trainers</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+							</div>
+							</li>
+					<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1912" class="e-n-menu-title">
+					<a class="e-n-menu-title-container e-focus e-link" href="/services">												<span class="e-n-menu-title-text">
+							Services						</span>
+					</a>											<button id="e-n-menu-dropdown-icon-1912" class="e-n-menu-dropdown-icon e-focus" data-tab-index="2" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1912" >
+							<span class="e-n-menu-dropdown-icon-opened">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-up"></i>								<span class="elementor-screen-only">Close Services</span>
+							</span>
+							<span class="e-n-menu-dropdown-icon-closed">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-down"></i>								<span class="elementor-screen-only">Open Services</span>
+							</span>
+						</button>
+									</div>
+									<div class="e-n-menu-content">
+						<div id="e-n-menu-content-1912" data-tab-index="2" aria-labelledby="e-n-menu-dropdown-icon-1912" class="elementor-element elementor-element-890cc0f e-con-full e-flex e-con e-child e-lazyloaded" data-id="890cc0f" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-dd87b6b e-con-full e-flex e-con e-child e-lazyloaded" data-id="dd87b6b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-42ac936 e-con-full e-flex e-con e-child e-lazyloaded" data-id="42ac936" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-2ed815b elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-heading" data-id="2ed815b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Core services</h6>				</div>
+		<div class="elementor-element elementor-element-39f18db e-grid e-con-full e-con e-child e-lazyloaded" data-id="39f18db" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-66544db elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="66544db" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/ai-workflow-automation" class="elementor-icon" tabindex="-1" aria-label="AI Workflow Automation">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-automation"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/ai-workflow-automation" >
+							AI Workflow Automation						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Automate repetitive workflows					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-c6f53b1 elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="c6f53b1" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/data-orchestration" class="elementor-icon" tabindex="-1" aria-label="Data Orchestration">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-data"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/data-orchestration" >
+							Data Orchestration						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Automate data and reporting					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-0ee1b27 elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="0ee1b27" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/support-triage-ticketing" class="elementor-icon" tabindex="-1" aria-label="Support Triage &amp; Ticketing">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ticketing"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/support-triage-ticketing" >
+							Support Triage &amp; Ticketing						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Streamline support data					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-fd19841 elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="fd19841" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/support-monitoring" class="elementor-icon" tabindex="-1" aria-label="Support &amp; Monitoring">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-monitoring"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/support-monitoring" >
+							Support &amp; Monitoring						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Monitor and improve systems					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-0cb2c4b elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="0cb2c4b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/ai-tools-agents" class="elementor-icon" tabindex="-1" aria-label="AI Tools &amp; Agents">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-agent"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/ai-tools-agents" >
+							AI Tools &amp; Agents						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Build internal AI tools					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-c927e0d elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="c927e0d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/system-integrations" class="elementor-icon" tabindex="-1" aria-label="Systems Integration">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-decision-tree"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/system-integrations" >
+							Systems Integration						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Connect core business systems					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9d1aaf5 e-con-full elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child e-lazyloaded" data-id="9d1aaf5" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+				<div class="elementor-element elementor-element-fbdeff3 elementor-widget elementor-widget-heading" data-id="fbdeff3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Common workflows</h6>				</div>
+				<div class="elementor-element elementor-element-4cab3eb elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4cab3eb" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Internal operations</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Finance processes</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Reporting &amp; dashboards</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Customer support flows</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Document processing</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Cross-system workflows</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-38873b6 e-con-full elementor-hidden-mobile e-flex e-con e-child e-lazyloaded" data-id="38873b6" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-b466a43 e-con-full e-flex e-con e-child e-lazyloaded" data-id="b466a43" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-85dc33b elementor-widget elementor-widget-heading" data-id="85dc33b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Not sure where to start?</h6>				</div>
+				<div class="elementor-element elementor-element-72f80b4 elementor-widget elementor-widget-heading" data-id="72f80b4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<span class="elementor-heading-title elementor-size-default">We’ll map your workflows and suggest the right automation approach.</span>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4e1bb33 elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="4e1bb33" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/book-a-discovery-call">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-right"></i>			</span>
+									<span class="elementor-button-text">Book a discovery call</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+							</div>
+							</li>
+					<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1913" class="e-n-menu-title">
+					<a class="e-n-menu-title-container e-focus e-link" href="/industries">												<span class="e-n-menu-title-text">
+							Industries						</span>
+					</a>											<button id="e-n-menu-dropdown-icon-1913" class="e-n-menu-dropdown-icon e-focus" data-tab-index="3" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1913" >
+							<span class="e-n-menu-dropdown-icon-opened">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-up"></i>								<span class="elementor-screen-only">Close Industries</span>
+							</span>
+							<span class="e-n-menu-dropdown-icon-closed">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-down"></i>								<span class="elementor-screen-only">Open Industries</span>
+							</span>
+						</button>
+									</div>
+									<div class="e-n-menu-content">
+						<div id="e-n-menu-content-1913" data-tab-index="3" aria-labelledby="e-n-menu-dropdown-icon-1913" class="elementor-element elementor-element-10d9a1a e-con-full e-flex e-con e-child e-lazyloaded" data-id="10d9a1a" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-e0046bb elementor-nav-menu--dropdown-none vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="e0046bb" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-background e--animation-fade">
+				<ul id="menu-1-e0046bb" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8424"><a href="/industries/saas" class="elementor-item">SaaS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8417"><a href="/industries/agencies" class="elementor-item">Agencies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8418"><a href="/industries/ecommerce" class="elementor-item">eCommerce</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8421"><a href="/industries/healthcare" class="elementor-item">Healthcare</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8420"><a href="/industries/finance" class="elementor-item">Finance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8423"><a href="/industries/real-estate" class="elementor-item">Real Estate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8422"><a href="/industries/logistics" class="elementor-item">Logistics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8419"><a href="/industries/education" class="elementor-item">Education</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-e0046bb" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8424"><a href="/industries/saas" class="elementor-item" tabindex="-1">SaaS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8417"><a href="/industries/agencies" class="elementor-item" tabindex="-1">Agencies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8418"><a href="/industries/ecommerce" class="elementor-item" tabindex="-1">eCommerce</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8421"><a href="/industries/healthcare" class="elementor-item" tabindex="-1">Healthcare</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8420"><a href="/industries/finance" class="elementor-item" tabindex="-1">Finance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8423"><a href="/industries/real-estate" class="elementor-item" tabindex="-1">Real Estate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8422"><a href="/industries/logistics" class="elementor-item" tabindex="-1">Logistics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8419"><a href="/industries/education" class="elementor-item" tabindex="-1">Education</a></li>
+</ul>			</nav>
+						</div>
+				<div class="elementor-element elementor-element-7f10ba8 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="7f10ba8" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-0365c16 elementor-align-justify elementor-widget elementor-widget-button" data-id="0365c16" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/industries">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-right"></i>			</span>
+									<span class="elementor-button-text">All industries</span>
+					</span>
+					</a>
+								</div>
+				</div>
+							</div>
+							</li>
+					<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1914" class="e-n-menu-title">
+					<a class="e-n-menu-title-container e-focus e-link" href="/about">												<span class="e-n-menu-title-text">
+							About						</span>
+					</a>											<button id="e-n-menu-dropdown-icon-1914" class="e-n-menu-dropdown-icon e-focus" data-tab-index="4" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1914" >
+							<span class="e-n-menu-dropdown-icon-opened">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-up"></i>								<span class="elementor-screen-only">Close About</span>
+							</span>
+							<span class="e-n-menu-dropdown-icon-closed">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-down"></i>								<span class="elementor-screen-only">Open About</span>
+							</span>
+						</button>
+									</div>
+									<div class="e-n-menu-content">
+						<div id="e-n-menu-content-1914" data-tab-index="4" aria-labelledby="e-n-menu-dropdown-icon-1914" class="elementor-element elementor-element-9d7d59a e-con-full e-flex e-con e-child e-lazyloaded" data-id="9d7d59a" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-543b447 elementor-nav-menu--dropdown-none vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="543b447" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-background e--animation-fade">
+				<ul id="menu-1-543b447" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8404"><a href="/about" class="elementor-item">Who we are</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8405"><a href="/about/leadership" class="elementor-item">Leadership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8406"><a href="/about/process" class="elementor-item">Process</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8407"><a href="/about/partners" class="elementor-item">Partners</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8408"><a href="/about/careers" class="elementor-item">Careers</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-543b447" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8404"><a href="/about" class="elementor-item" tabindex="-1">Who we are</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8405"><a href="/about/leadership" class="elementor-item" tabindex="-1">Leadership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8406"><a href="/about/process" class="elementor-item" tabindex="-1">Process</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8407"><a href="/about/partners" class="elementor-item" tabindex="-1">Partners</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8408"><a href="/about/careers" class="elementor-item" tabindex="-1">Careers</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+							</div>
+							</li>
+					<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1915" class="e-n-menu-title">
+					<a class="e-n-menu-title-container e-focus e-link" href="/resources">												<span class="e-n-menu-title-text">
+							Resources						</span>
+					</a>											<button id="e-n-menu-dropdown-icon-1915" class="e-n-menu-dropdown-icon e-focus" data-tab-index="5" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1915" >
+							<span class="e-n-menu-dropdown-icon-opened">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-up"></i>								<span class="elementor-screen-only">Close Resources</span>
+							</span>
+							<span class="e-n-menu-dropdown-icon-closed">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-down"></i>								<span class="elementor-screen-only">Open Resources</span>
+							</span>
+						</button>
+									</div>
+									<div class="e-n-menu-content">
+						<div id="e-n-menu-content-1915" data-tab-index="5" aria-labelledby="e-n-menu-dropdown-icon-1915" class="elementor-element elementor-element-95259b8 e-con-full e-flex e-con e-child e-lazyloaded" data-id="95259b8" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-d0b8479 elementor-nav-menu--dropdown-none vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="d0b8479" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-background e--animation-fade">
+				<ul id="menu-1-d0b8479" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8429"><a href="/articles-insights" class="elementor-item">Articles &amp; Insights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9210"><a href="/category/guide/" class="elementor-item">Guides</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8430"><a href="/faq" class="elementor-item">FAQ</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-d0b8479" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8429"><a href="/articles-insights" class="elementor-item" tabindex="-1">Articles &amp; Insights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9210"><a href="/category/guide/" class="elementor-item" tabindex="-1">Guides</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8430"><a href="/faq" class="elementor-item" tabindex="-1">FAQ</a></li>
+</ul>			</nav>
+						</div>
+				<div class="elementor-element elementor-element-137e0fa elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="137e0fa" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-47a9d55 elementor-align-justify elementor-widget elementor-widget-button" data-id="47a9d55" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/resources">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-right"></i>			</span>
+									<span class="elementor-button-text">All resources</span>
+					</span>
+					</a>
+								</div>
+				</div>
+							</div>
+							</li>
+					<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1916" class="e-n-menu-title">
+					<a class="e-n-menu-title-container e-focus e-link" href="/contact">												<span class="e-n-menu-title-text">
+							Contact						</span>
+					</a>									</div>
+							</li>
+						</ul>
+			</div>
+		</nav>
+						</div>
+				<div class="elementor-element elementor-element-2b5739b elementor-hidden-mobile elementor-tablet-align-right elementor-widget elementor-widget-button" data-id="2b5739b" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/book-a-discovery-call">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-right"></i>			</span>
+									<span class="elementor-button-text">Book a discovery call</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+		<div data-rocket-location-hash="e5561ec583e09be4cc695a80399d4b4f" class="elementor-element elementor-element-daf3b60 e-con-full vamtam-sticky-header--mobile vamtam-sticky-header vamtam-sticky-header--spacer e-flex e-con e-parent e-lazyloaded" data-id="daf3b60" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-8737862 e-con-full e-flex e-con e-child e-lazyloaded" data-id="8737862" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-fa438bc elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="fa438bc" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
+											<a href="/" class="abs-brand-logo-link abs-brand-nav">
+  <div class="abs-brand-emblem">
+    <img src="/assets/images/brand_icon_3d.png" alt="Automated Business Suite" class="abs-brand-icon" width="38" height="38" />
+  </div>
+  <div class="abs-brand-text">
+    <span class="abs-brand-title">Automated Business Suite</span>
+    <span class="abs-brand-sub">AI PLATFORM</span>
+  </div>
+</a>
+											</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-b6ff56c e-fit_to_content vamtam-has-align-dropdown-to-header vamtam-has-mobile-menu-max-height e-n-menu-layout-horizontal e-n-menu-tablet vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-n-menu" data-id="b6ff56c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;menu_items&quot;:[{&quot;item_title&quot;:&quot;H&quot;,&quot;_id&quot;:&quot;008551f&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;Services&quot;,&quot;_id&quot;:&quot;0207225&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;9243bec\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%2226%22%7D\&quot;]&quot;},&quot;item_link&quot;:{&quot;url&quot;:&quot;..\/..\/pages\/services\//&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;Industries&quot;,&quot;_id&quot;:&quot;f9d6c57&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;4819794\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%2238%22%7D\&quot;]&quot;},&quot;item_link&quot;:{&quot;url&quot;:&quot;..\/..\/pages\/industries\//&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;About&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;_id&quot;:&quot;85cf45e&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;f2820ed\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%2256%22%7D\&quot;]&quot;},&quot;item_link&quot;:{&quot;url&quot;:&quot;..\/..\/pages\/about\//&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;Resources&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;_id&quot;:&quot;0e08e0b&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;3424622\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%227538%22%7D\&quot;]&quot;},&quot;item_link&quot;:{&quot;url&quot;:&quot;..\/..\/pages\/resources\//&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;Contact&quot;,&quot;item_dropdown_content&quot;:&quot;&quot;,&quot;_id&quot;:&quot;d688cee&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;19da700\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%2272%22%7D\&quot;]&quot;},&quot;item_link&quot;:{&quot;url&quot;:&quot;..\/..\/pages\/contact\//&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;}],&quot;content_width&quot;:&quot;fit_to_content&quot;,&quot;content_horizontal_position&quot;:&quot;left&quot;,&quot;menu_item_title_distance_from_content&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;menu_item_title_distance_from_content_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;horizontal_scroll&quot;:&quot;enable&quot;,&quot;horizontal_scroll_tablet&quot;:&quot;disable&quot;,&quot;item_position_horizontal&quot;:&quot;center&quot;,&quot;item_position_horizontal_tablet&quot;:&quot;start&quot;,&quot;item_layout&quot;:&quot;horizontal&quot;,&quot;open_on&quot;:&quot;hover&quot;,&quot;breakpoint_selector&quot;:&quot;tablet&quot;,&quot;menu_item_title_distance_from_content_widescreen&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_item_title_distance_from_content_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="mega-menu.default">
+							<nav class="e-n-menu" data-widget-number="191" aria-label="Menu">
+					<button class="e-n-menu-toggle" id="menu-toggle-191" aria-haspopup="true" aria-expanded="false" aria-controls="menubar-191" aria-label="Menu Toggle">
+			<span class="e-n-menu-toggle-icon e-open">
+				<i class="vamtamtheme- vamtam-theme-menu"></i>			</span>
+			<span class="e-n-menu-toggle-icon e-close">
+				<i class="vamtamtheme- vamtam-theme-close"></i>			</span>
+		</button>
+					<div class="e-n-menu-wrapper" id="menubar-191" aria-labelledby="menu-toggle-191">
+				<ul class="e-n-menu-heading">
+								<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1911" class="e-n-menu-title">
+					<div class="e-n-menu-title-container">												<span class="e-n-menu-title-text">Home</span>
+					</div>											<button id="e-n-menu-dropdown-icon-1911" class="e-n-menu-dropdown-icon e-focus" data-tab-index="1" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1911" >
+							<span class="e-n-menu-dropdown-icon-opened">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-up"></i>								<span class="elementor-screen-only">Close Home</span>
+							</span>
+							<span class="e-n-menu-dropdown-icon-closed">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-down"></i>								<span class="elementor-screen-only">Open Home</span>
+							</span>
+						</button>
+									</div>
+									<div class="e-n-menu-content">
+						<div id="e-n-menu-content-1911" data-tab-index="1" aria-labelledby="e-n-menu-dropdown-icon-1911" class="elementor-element elementor-element-df538be e-con-full e-flex e-con e-child e-lazyloaded" data-id="df538be" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-8441340 elementor-nav-menu--dropdown-none vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="8441340" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-background e--animation-fade">
+				<ul id="menu-3-8441340" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8426"><a href="/" class="elementor-item">AI Integration Agency</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8427"><a href="/ai-micro-saas" class="elementor-item">AI Micro-SaaS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8428"><a href="/ai-trainers" class="elementor-item">AI Trainers</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-4-8441340" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8426"><a href="/" class="elementor-item" tabindex="-1">AI Integration Agency</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8427"><a href="/ai-micro-saas" class="elementor-item" tabindex="-1">AI Micro-SaaS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8428"><a href="/ai-trainers" class="elementor-item" tabindex="-1">AI Trainers</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+							</div>
+							</li>
+					<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1912" class="e-n-menu-title">
+					<a class="e-n-menu-title-container e-focus e-link" href="/services">												<span class="e-n-menu-title-text">
+							Services						</span>
+					</a>											<button id="e-n-menu-dropdown-icon-1912" class="e-n-menu-dropdown-icon e-focus" data-tab-index="2" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1912" >
+							<span class="e-n-menu-dropdown-icon-opened">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-up"></i>								<span class="elementor-screen-only">Close Services</span>
+							</span>
+							<span class="e-n-menu-dropdown-icon-closed">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-down"></i>								<span class="elementor-screen-only">Open Services</span>
+							</span>
+						</button>
+									</div>
+									<div class="e-n-menu-content">
+						<div id="e-n-menu-content-1912" data-tab-index="2" aria-labelledby="e-n-menu-dropdown-icon-1912" class="elementor-element elementor-element-890cc0f e-con-full e-flex e-con e-child e-lazyloaded" data-id="890cc0f" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-dd87b6b e-con-full e-flex e-con e-child e-lazyloaded" data-id="dd87b6b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-42ac936 e-con-full e-flex e-con e-child e-lazyloaded" data-id="42ac936" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-2ed815b elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-heading" data-id="2ed815b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Core services</h6>				</div>
+		<div class="elementor-element elementor-element-39f18db e-grid e-con-full e-con e-child e-lazyloaded" data-id="39f18db" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-66544db elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="66544db" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/ai-workflow-automation" class="elementor-icon" tabindex="-1" aria-label="AI Workflow Automation">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-automation"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/ai-workflow-automation" >
+							AI Workflow Automation						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Automate repetitive workflows					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-c6f53b1 elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="c6f53b1" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/data-orchestration" class="elementor-icon" tabindex="-1" aria-label="Data Orchestration">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-data"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/data-orchestration" >
+							Data Orchestration						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Automate data and reporting					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-0ee1b27 elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="0ee1b27" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/support-triage-ticketing" class="elementor-icon" tabindex="-1" aria-label="Support Triage &amp; Ticketing">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ticketing"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/support-triage-ticketing" >
+							Support Triage &amp; Ticketing						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Streamline support data					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-fd19841 elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="fd19841" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/support-monitoring" class="elementor-icon" tabindex="-1" aria-label="Support &amp; Monitoring">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-monitoring"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/support-monitoring" >
+							Support &amp; Monitoring						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Monitor and improve systems					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-0cb2c4b elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="0cb2c4b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/ai-tools-agents" class="elementor-icon" tabindex="-1" aria-label="AI Tools &amp; Agents">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-agent"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/ai-tools-agents" >
+							AI Tools &amp; Agents						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Build internal AI tools					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-c927e0d elementor-view-stacked elementor-shape-rounded elementor-position-inline-start elementor-widget elementor-widget-icon-box" data-id="c927e0d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="/services/system-integrations" class="elementor-icon" tabindex="-1" aria-label="Systems Integration">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-decision-tree"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<a href="/services/system-integrations" >
+							Systems Integration						</a>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Connect core business systems					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9d1aaf5 e-con-full elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child e-lazyloaded" data-id="9d1aaf5" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+				<div class="elementor-element elementor-element-fbdeff3 elementor-widget elementor-widget-heading" data-id="fbdeff3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Common workflows</h6>				</div>
+				<div class="elementor-element elementor-element-4cab3eb elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4cab3eb" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Internal operations</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Finance processes</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Reporting &amp; dashboards</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Customer support flows</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Document processing</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ai"></i>						</span>
+										<span class="elementor-icon-list-text">Cross-system workflows</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-38873b6 e-con-full elementor-hidden-mobile e-flex e-con e-child e-lazyloaded" data-id="38873b6" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-b466a43 e-con-full e-flex e-con e-child e-lazyloaded" data-id="b466a43" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-85dc33b elementor-widget elementor-widget-heading" data-id="85dc33b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Not sure where to start?</h6>				</div>
+				<div class="elementor-element elementor-element-72f80b4 elementor-widget elementor-widget-heading" data-id="72f80b4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<span class="elementor-heading-title elementor-size-default">We’ll map your workflows and suggest the right automation approach.</span>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4e1bb33 elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="4e1bb33" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/book-a-discovery-call">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-right"></i>			</span>
+									<span class="elementor-button-text">Book a discovery call</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+							</div>
+							</li>
+					<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1913" class="e-n-menu-title">
+					<a class="e-n-menu-title-container e-focus e-link" href="/industries">												<span class="e-n-menu-title-text">
+							Industries						</span>
+					</a>											<button id="e-n-menu-dropdown-icon-1913" class="e-n-menu-dropdown-icon e-focus" data-tab-index="3" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1913" >
+							<span class="e-n-menu-dropdown-icon-opened">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-up"></i>								<span class="elementor-screen-only">Close Industries</span>
+							</span>
+							<span class="e-n-menu-dropdown-icon-closed">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-down"></i>								<span class="elementor-screen-only">Open Industries</span>
+							</span>
+						</button>
+									</div>
+									<div class="e-n-menu-content">
+						<div id="e-n-menu-content-1913" data-tab-index="3" aria-labelledby="e-n-menu-dropdown-icon-1913" class="elementor-element elementor-element-10d9a1a e-con-full e-flex e-con e-child e-lazyloaded" data-id="10d9a1a" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-e0046bb elementor-nav-menu--dropdown-none vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="e0046bb" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-background e--animation-fade">
+				<ul id="menu-3-e0046bb" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8424"><a href="/industries/saas" class="elementor-item">SaaS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8417"><a href="/industries/agencies" class="elementor-item">Agencies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8418"><a href="/industries/ecommerce" class="elementor-item">eCommerce</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8421"><a href="/industries/healthcare" class="elementor-item">Healthcare</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8420"><a href="/industries/finance" class="elementor-item">Finance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8423"><a href="/industries/real-estate" class="elementor-item">Real Estate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8422"><a href="/industries/logistics" class="elementor-item">Logistics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8419"><a href="/industries/education" class="elementor-item">Education</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-4-e0046bb" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8424"><a href="/industries/saas" class="elementor-item" tabindex="-1">SaaS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8417"><a href="/industries/agencies" class="elementor-item" tabindex="-1">Agencies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8418"><a href="/industries/ecommerce" class="elementor-item" tabindex="-1">eCommerce</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8421"><a href="/industries/healthcare" class="elementor-item" tabindex="-1">Healthcare</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8420"><a href="/industries/finance" class="elementor-item" tabindex="-1">Finance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8423"><a href="/industries/real-estate" class="elementor-item" tabindex="-1">Real Estate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8422"><a href="/industries/logistics" class="elementor-item" tabindex="-1">Logistics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8419"><a href="/industries/education" class="elementor-item" tabindex="-1">Education</a></li>
+</ul>			</nav>
+						</div>
+				<div class="elementor-element elementor-element-7f10ba8 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="7f10ba8" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-0365c16 elementor-align-justify elementor-widget elementor-widget-button" data-id="0365c16" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/industries">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-right"></i>			</span>
+									<span class="elementor-button-text">All industries</span>
+					</span>
+					</a>
+								</div>
+				</div>
+							</div>
+							</li>
+					<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1914" class="e-n-menu-title">
+					<a class="e-n-menu-title-container e-focus e-link" href="/about">												<span class="e-n-menu-title-text">
+							About						</span>
+					</a>											<button id="e-n-menu-dropdown-icon-1914" class="e-n-menu-dropdown-icon e-focus" data-tab-index="4" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1914" >
+							<span class="e-n-menu-dropdown-icon-opened">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-up"></i>								<span class="elementor-screen-only">Close About</span>
+							</span>
+							<span class="e-n-menu-dropdown-icon-closed">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-down"></i>								<span class="elementor-screen-only">Open About</span>
+							</span>
+						</button>
+									</div>
+									<div class="e-n-menu-content">
+						<div id="e-n-menu-content-1914" data-tab-index="4" aria-labelledby="e-n-menu-dropdown-icon-1914" class="elementor-element elementor-element-9d7d59a e-con-full e-flex e-con e-child e-lazyloaded" data-id="9d7d59a" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-543b447 elementor-nav-menu--dropdown-none vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="543b447" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-background e--animation-fade">
+				<ul id="menu-3-543b447" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8404"><a href="/about" class="elementor-item">Who we are</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8405"><a href="/about/leadership" class="elementor-item">Leadership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8406"><a href="/about/process" class="elementor-item">Process</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8407"><a href="/about/partners" class="elementor-item">Partners</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8408"><a href="/about/careers" class="elementor-item">Careers</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-4-543b447" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8404"><a href="/about" class="elementor-item" tabindex="-1">Who we are</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8405"><a href="/about/leadership" class="elementor-item" tabindex="-1">Leadership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8406"><a href="/about/process" class="elementor-item" tabindex="-1">Process</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8407"><a href="/about/partners" class="elementor-item" tabindex="-1">Partners</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8408"><a href="/about/careers" class="elementor-item" tabindex="-1">Careers</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+							</div>
+							</li>
+					<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1915" class="e-n-menu-title">
+					<a class="e-n-menu-title-container e-focus e-link" href="/resources">												<span class="e-n-menu-title-text">
+							Resources						</span>
+					</a>											<button id="e-n-menu-dropdown-icon-1915" class="e-n-menu-dropdown-icon e-focus" data-tab-index="5" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1915" >
+							<span class="e-n-menu-dropdown-icon-opened">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-up"></i>								<span class="elementor-screen-only">Close Resources</span>
+							</span>
+							<span class="e-n-menu-dropdown-icon-closed">
+								<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-solid-down"></i>								<span class="elementor-screen-only">Open Resources</span>
+							</span>
+						</button>
+									</div>
+									<div class="e-n-menu-content">
+						<div id="e-n-menu-content-1915" data-tab-index="5" aria-labelledby="e-n-menu-dropdown-icon-1915" class="elementor-element elementor-element-95259b8 e-con-full e-flex e-con e-child e-lazyloaded" data-id="95259b8" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-d0b8479 elementor-nav-menu--dropdown-none vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="d0b8479" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-background e--animation-fade">
+				<ul id="menu-3-d0b8479" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8429"><a href="/articles-insights" class="elementor-item">Articles &amp; Insights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9210"><a href="/category/guide/" class="elementor-item">Guides</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8430"><a href="/faq" class="elementor-item">FAQ</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-4-d0b8479" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8429"><a href="/articles-insights" class="elementor-item" tabindex="-1">Articles &amp; Insights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9210"><a href="/category/guide/" class="elementor-item" tabindex="-1">Guides</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8430"><a href="/faq" class="elementor-item" tabindex="-1">FAQ</a></li>
+</ul>			</nav>
+						</div>
+				<div class="elementor-element elementor-element-137e0fa elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="137e0fa" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-47a9d55 elementor-align-justify elementor-widget elementor-widget-button" data-id="47a9d55" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/resources">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-right"></i>			</span>
+									<span class="elementor-button-text">All resources</span>
+					</span>
+					</a>
+								</div>
+				</div>
+							</div>
+							</li>
+					<li class="e-n-menu-item">
+				<div id="e-n-menu-title-1916" class="e-n-menu-title">
+					<a class="e-n-menu-title-container e-focus e-link" href="/contact">												<span class="e-n-menu-title-text">
+							Contact						</span>
+					</a>									</div>
+							</li>
+						</ul>
+			</div>
+		</nav>
+						</div>
+				<div class="elementor-element elementor-element-2b5739b elementor-hidden-mobile elementor-tablet-align-right elementor-widget elementor-widget-button" data-id="2b5739b" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/book-a-discovery-call">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-right"></i>			</span>
+									<span class="elementor-button-text">Book a discovery call</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+				</header>
+		
+	<div data-rocket-location-hash="423619dffc07ac8ebbe0adb8d5179ab3" id="page" class="main-container">
+		<div data-rocket-location-hash="8a18f7f5895499b1fef7290ea3e469f1" id="main-content">
+			
+						<div id="main" role="main" class="vamtam-main layout-full" >
+				
+				
+
+	
+		
+		<article id="post-1889" class="full post-1889 page type-page status-publish hentry">
+				<div data-elementor-type="single-page" data-elementor-id="12429" class="elementor elementor-12429 elementor-location-single post-1889 page type-page status-publish hentry" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-7ddc2ac6 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="7ddc2ac6" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-67acdc79 e-con-full e-flex e-con e-child e-lazyloaded" data-id="67acdc79" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6f6b9de4 elementor-invisible elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="6f6b9de4" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="theme-post-title.default">
+					<h1 class="elementor-heading-title elementor-size-default">Privacy policy</h1>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-36c04757 e-con-full e-flex e-con e-parent e-lazyloaded" data-id="36c04757" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-356633c2 elementor-widget elementor-widget-theme-post-content" data-id="356633c2" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
+							<div data-elementor-type="wp-page" data-elementor-id="1889" class="elementor elementor-1889" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-ffdc87c animated-fast e-flex e-con-boxed elementor-invisible e-con e-parent e-lazyloaded" data-id="ffdc87c" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:100}">
+					<div class="e-con-inner e-lazyloaded">
+				<div class="elementor-element elementor-element-c63db4e elementor-widget elementor-widget-heading" data-id="c63db4e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h5 class="elementor-heading-title elementor-size-default">Comments</h5>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-f039a2c elementor-widget elementor-widget-text-editor" data-id="f039a2c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>Suggested text: When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>								</div>
+				<div class="elementor-element elementor-element-29cc766 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="29cc766" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-bd4efcf elementor-widget elementor-widget-heading" data-id="bd4efcf" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h5 class="elementor-heading-title elementor-size-default">Media</h5>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-a328882 elementor-widget elementor-widget-text-editor" data-id="a328882" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>Suggested text: If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>								</div>
+				<div class="elementor-element elementor-element-6507e8f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6507e8f" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-1aab3aa elementor-widget elementor-widget-heading" data-id="1aab3aa" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h5 class="elementor-heading-title elementor-size-default">Cookies</h5>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-947946c elementor-widget elementor-widget-text-editor" data-id="947946c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>Suggested text: If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks.</p><p>If you log out of your account, the login cookies will be removed.</p><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>								</div>
+				<div class="elementor-element elementor-element-9283763 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9283763" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-b719584 elementor-widget elementor-widget-heading" data-id="b719584" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h5 class="elementor-heading-title elementor-size-default">Embedded content from other websites</h5>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-67f3086 elementor-widget elementor-widget-text-editor" data-id="67f3086" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>Suggested text: Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>								</div>
+				<div class="elementor-element elementor-element-651fa29 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="651fa29" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-bd62588 elementor-widget elementor-widget-heading" data-id="bd62588" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h5 class="elementor-heading-title elementor-size-default">Who we share your data with</h5>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-ba98033 elementor-widget elementor-widget-text-editor" data-id="ba98033" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>Suggested text: If you request a password reset, your IP address will be included in the reset email.</p>								</div>
+				<div class="elementor-element elementor-element-a8df93b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a8df93b" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-e4c951f elementor-widget elementor-widget-heading" data-id="e4c951f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h5 class="elementor-heading-title elementor-size-default">How long we retain your data</h5>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-9d6abec elementor-widget elementor-widget-text-editor" data-id="9d6abec" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>Suggested text: If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>								</div>
+				<div class="elementor-element elementor-element-dd39624 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="dd39624" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-27be021 elementor-widget elementor-widget-heading" data-id="27be021" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h5 class="elementor-heading-title elementor-size-default">What rights you have over your data</h5>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-2cdaca3 elementor-widget elementor-widget-text-editor" data-id="2cdaca3" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>Suggested text: If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>								</div>
+				<div class="elementor-element elementor-element-14038a9 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="14038a9" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-30deca8 elementor-widget elementor-widget-heading" data-id="30deca8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h5 class="elementor-heading-title elementor-size-default">Where your data is sent</h5>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-075e55e elementor-widget elementor-widget-text-editor" data-id="075e55e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>Suggested text: Visitor comments may be checked through an automated spam detection service.</p>								</div>
+					</div>
+				</div>
+				</div>
+						</div>
+				</div>
+				</div>
+							</article>
+
+		
+	
+
+
+
+			</div><!-- #main -->
+
+		</div><!-- #main-content -->
+
+					<div data-rocket-location-hash="a520189acb7b747e2215c9bae0df13d4" class="footer-wrapper" style="">
+				<footer data-rocket-location-hash="95d4c6a5e1ad5e53098bb0e7108a3c90" id="main-footer" class="main-footer">
+							<div data-elementor-type="footer" data-elementor-id="1752" class="elementor elementor-1752 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-b7121a0 vamtam-has-theme-cp vamtam-cp-top-bot-left e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="b7121a0" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-869252c e-flex e-con-boxed e-con e-child e-lazyloaded" data-id="869252c" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-aa279c3 e-con-full e-flex e-con e-child e-lazyloaded" data-id="aa279c3" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-a7a348f e-con-full e-flex e-con e-child e-lazyloaded" data-id="a7a348f" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-1af7ad6 vamtam-has-text-gradient animated-fast elementor-invisible elementor-widget elementor-widget-text-editor" data-id="1af7ad6" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
+									<p>Automations that ship &amp; keep running.</p>								</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-b14d968 elementor-widget-tablet__width-initial animated-fast elementor-invisible elementor-widget elementor-widget-text-editor" data-id="b14d968" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:50}" data-widget_type="text-editor.default">
+									<p>We design and deploy AI + workflow automations that help teams work smarter, not harder.</p>								</div>
+		<div class="elementor-element elementor-element-1ec3602 e-con-full e-flex e-con e-child e-lazyloaded" data-id="1ec3602" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-9d50662 animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="9d50662" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/book-a-discovery-call">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Book a discovery call</span>
+					</span>
+					</a>
+								</div>
+		<div class="elementor-element elementor-element-2b4c093 e-con-full e-flex e-con e-child e-lazyloaded" data-id="2b4c093" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-e4a88bc animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="e4a88bc" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;_animation_delay&quot;:150}" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="tel:+919860509908">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text"> +91 9860509908</span>
+					</span>
+					</a>
+								</div>
+				<div class="elementor-element elementor-element-fc6b39a animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="fc6b39a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="mailto:hello@abusinesssuite.com">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">hello@abusinesssuite.com</span>
+					</span>
+					</a>
+								</div>
+				<div class="elementor-element elementor-widget elementor-widget-button" data-element_type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm abs-whatsapp-footer-btn" href="https://wa.me/919860509908" target="_blank" rel="noopener noreferrer">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon" style="color: #25D366; margin-right: 6px; display: inline-flex; align-items: center;">
+								<svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.312.045-.694.06-2.115-.527-1.745-.722-2.883-2.502-2.97-2.617-.087-.116-.708-.941-.708-1.792s.448-1.272.607-1.446c.159-.175.347-.218.463-.218l.333.006c.117.005.275-.044.43.329.16.388.547 1.334.596 1.432.049.098.082.213.017.342-.065.13-.098.212-.195.327-.097.115-.205.257-.293.345-.098.098-.201.205-.087.401.114.196.508.839 1.09 1.358.75.669 1.382.876 1.578.974.196.098.311.082.425-.049.115-.131.492-.573.623-.769.131-.196.262-.164.441-.098.179.066 1.135.535 1.33.633.196.098.327.147.375.229.048.082.048.476-.096.881zM12 2C6.477 2 2 6.477 2 12c0 1.891.524 3.66 1.434 5.176L2 22l4.957-1.399C8.423 21.497 10.158 22 12 22c5.523 0 10-4.477 10-10S17.523 2 12 2z"/></svg>
+							</span>
+							<span class="elementor-button-text">WhatsApp: +91 9860509908</span>
+						</span>
+					</a>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-025d565 e-con-full e-flex e-con e-child e-lazyloaded" data-id="025d565" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-1b1f9fe elementor-absolute elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="1b1f9fe" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_scale_effect&quot;:&quot;yes&quot;,&quot;motion_fx_scale_direction&quot;:&quot;in-out&quot;,&quot;motion_fx_scale_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;motion_fx_scale_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;motion_fx_devices&quot;:[&quot;widescreen&quot;,&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}" data-widget_type="image.default">
+																<a href="/" class="abs-brand-logo-link abs-brand-footer">
+  <div class="abs-brand-emblem">
+    <img src="/assets/images/brand_icon_3d.png" alt="Automated Business Suite" class="abs-brand-icon" width="38" height="38" />
+  </div>
+  <div class="abs-brand-text">
+    <span class="abs-brand-title">Automated Business Suite</span>
+    <span class="abs-brand-sub">AI PLATFORM</span>
+  </div>
+</a>
+															</div>
+				<div class="elementor-element elementor-element-5c47c78 elementor-widget__width-initial elementor-widget-mobile__width-inherit e-transform elementor-invisible elementor-widget elementor-widget-image" data-id="5c47c78" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:270,&quot;sizes&quot;:[]},&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:2,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:50,&quot;motion_fx_devices&quot;:[&quot;widescreen&quot;,&quot;desktop&quot;,&quot;tablet&quot;],&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_widescreen&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
+															<img fetchpriority="high" width="871" height="1024" src="/assets/images/img_013.jpg" class="attachment-large size-large wp-image-1985" alt="" srcset="/assets/images/img_013.jpg 871w, /assets/images/img_048.jpg 255w, /assets/images/img_049.jpg 768w, /assets/images/img_050.jpg 889w" sizes="(max-width: 871px) 100vw, 871px" />															</div>
+		<div class="elementor-element elementor-element-2956839 e-con-full elementor-hidden-mobile animated-fast e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="2956839" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ace72ab e-con-full e-flex e-con e-child e-lazyloaded" data-id="ace72ab" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-cb59ffa e-con-full e-flex e-con e-child e-lazyloaded" data-id="cb59ffa" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-5489ec8 e-con-full animated-fast e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="5489ec8" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+				<div class="elementor-element elementor-element-cf1fa39 elementor-widget elementor-widget-heading" data-id="cf1fa39" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Services</h6>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-dc0e86b elementor-nav-menu--dropdown-none vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="dc0e86b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
+				<ul id="menu-1-dc0e86b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1867"><a href="/services/ai-workflow-automation" class="elementor-item">AI Workflow Automation</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1868"><a href="/services/support-triage-ticketing" class="elementor-item">Support Triage &amp; Ticketing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1871"><a href="/services/internal-tools-agents" class="elementor-item">Internal Tools &amp; Agents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1874"><a href="/services/data-pipelines" class="elementor-item">Data Pipelines</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1875"><a href="/services/support-monitoring" class="elementor-item">Support &amp; Monitoring</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-dc0e86b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1867"><a href="/services/ai-workflow-automation" class="elementor-item" tabindex="-1">AI Workflow Automation</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1868"><a href="/services/support-triage-ticketing" class="elementor-item" tabindex="-1">Support Triage &amp; Ticketing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1871"><a href="/services/internal-tools-agents" class="elementor-item" tabindex="-1">Internal Tools &amp; Agents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1874"><a href="/services/data-pipelines" class="elementor-item" tabindex="-1">Data Pipelines</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1875"><a href="/services/support-monitoring" class="elementor-item" tabindex="-1">Support &amp; Monitoring</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-59ae75f e-con-full animated-fast e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="59ae75f" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:50}">
+				<div class="elementor-element elementor-element-95eb111 elementor-widget elementor-widget-heading" data-id="95eb111" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Comapny</h6>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-d2f3b1c elementor-nav-menu--dropdown-none vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="d2f3b1c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
+				<ul id="menu-1-d2f3b1c" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1876"><a href="/about" class="elementor-item">Who we are</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9450"><a href="/category/case-studies/" class="elementor-item">Case Studies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1878"><a href="/about/leadership" class="elementor-item">Leadership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1879"><a href="/about/careers" class="elementor-item">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1880"><a href="/contact" class="elementor-item">Contact</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-d2f3b1c" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1876"><a href="/about" class="elementor-item" tabindex="-1">Who we are</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9450"><a href="/category/case-studies/" class="elementor-item" tabindex="-1">Case Studies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1878"><a href="/about/leadership" class="elementor-item" tabindex="-1">Leadership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1879"><a href="/about/careers" class="elementor-item" tabindex="-1">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1880"><a href="/contact" class="elementor-item" tabindex="-1">Contact</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-962b769 e-con-full animated-fast e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="962b769" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:100}">
+				<div class="elementor-element elementor-element-687ee6a elementor-hidden-mobile elementor-hidden-tablet elementor-widget elementor-widget-heading" data-id="687ee6a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Social</h6>				</div>
+				<div class="elementor-element elementor-element-4fabd0e elementor-grid-2 elementor-grid-tablet-5 elementor-shape-rounded e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="4fabd0e" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-x-twitter elementor-animation-pulse-grow elementor-repeater-item-abcb338" href="https://x.com/" target="_blank">
+						<span class="elementor-screen-only">X-twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-x-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-animation-pulse-grow elementor-repeater-item-72dcb1d" href="https://www.linkedin.com/" target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin-in" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-pulse-grow elementor-repeater-item-3fa5050" href="https://www.facebook.com/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-pulse-grow elementor-repeater-item-7e77566" href="https://www.instagram.com/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-pulse-grow elementor-repeater-item-1c94922" href="https://www.youtube.com/" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+		<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-animation-pulse-grow" href="https://wa.me/919860509908" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+						<span class="elementor-screen-only">WhatsApp</span>
+						<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.312.045-.694.06-2.115-.527-1.745-.722-2.883-2.502-2.97-2.617-.087-.116-.708-.941-.708-1.792s.448-1.272.607-1.446c.159-.175.347-.218.463-.218l.333.006c.117.005.275-.044.43.329.16.388.547 1.334.596 1.432.049.098.082.213.017.342-.065.13-.098.212-.195.327-.097.115-.205.257-.293.345-.098.098-.201.205-.087.401.114.196.508.839 1.09 1.358.75.669 1.382.876 1.578.974.196.098.311.082.425-.049.115-.131.492-.573.623-.769.131-.196.262-.164.441-.098.179.066 1.135.535 1.33.633.196.098.327.147.375.229.048.082.048.476-.096.881zM12 2C6.477 2 2 6.477 2 12c0 1.891.524 3.66 1.434 5.176L2 22l4.957-1.399C8.423 21.497 10.158 22 12 22c5.523 0 10-4.477 10-10S17.523 2 12 2z"/></svg>
+					</a>
+				</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9ddb4a5 e-con-full e-flex e-con e-child e-lazyloaded" data-id="9ddb4a5" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-bed3291 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit animated-fast elementor-invisible elementor-widget elementor-widget-heading" data-id="bed3291" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="heading.default">
+					<div class="elementor-heading-title elementor-size-default"><a href="/" target="_blank">2026 © Automated Business Suite. All rights reserved</a></div>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-219d69f elementor-nav-menu--dropdown-none elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-nav-menu__align-center animated-fast vamtam-has-mobile-disable-scroll elementor-invisible elementor-widget elementor-widget-nav-menu" data-id="219d69f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;_animation_delay&quot;:50,&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none e--animation-fast">
+				<ul id="menu-1-219d69f" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1895"><a href="/terms-of-service" class="elementor-item">Terms of service</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1889 current_page_item menu-item-1894"><a href="/privacy-policy" aria-current="page" class="elementor-item elementor-item-active">Privacy policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1893"><a href="/cookie-policy" class="elementor-item">Cookie Policy</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-219d69f" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1895"><a href="/terms-of-service" class="elementor-item" tabindex="-1">Terms of service</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1889 current_page_item menu-item-1894"><a href="/privacy-policy" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Privacy policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1893"><a href="/cookie-policy" class="elementor-item" tabindex="-1">Cookie Policy</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a05da38 elementor-absolute animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="a05da38" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-up"></i>			</span>
+								</span>
+					</a>
+								</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+						</footer>
+			</div>
+		
+</div><!-- / #page -->
+
+
+
+<div data-rocket-location-hash="84ef5509a8b47f891f0faaf09e1a00f2" id="scroll-to-top" class="vamtam-scroll-to-top">
+    <div data-rocket-location-hash="bf24fcb74a9dfbd8d23c21329b58d8ea" id="scroll-to-top-text">top</div>
+</div>
+
+
+
+	
+		
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5:["slug","privacy-policy","c"]
+7:T46a,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://abusinesssuite.com/#organization","name":"Automated Business Suite","url":"https://abusinesssuite.com","logo":{"@type":"ImageObject","@id":"https://abusinesssuite.com/#logo","url":"https://abusinesssuite.com/icon.svg","caption":"Automated Business Suite"},"description":"Enterprise workflow automation, data orchestration, and autonomous AI systems built for modern teams.","sameAs":["https://twitter.com/abusinesssuite","https://linkedin.com/company/abusinesssuite"]},{"@type":"WebSite","@id":"https://abusinesssuite.com/#website","url":"https://abusinesssuite.com","name":"Automated Business Suite","publisher":{"@id":"https://abusinesssuite.com/#organization"},"inLanguage":"en-US"},{"@type":"SoftwareApplication","@id":"https://abusinesssuite.com/#software","name":"Automated Business Suite","applicationCategory":"BusinessApplication","operatingSystem":"All","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"description":"Enterprise-grade workflow automation, real-time data orchestration, and autonomous AI micro-SaaS agents."}]}0:["L7p9EZA6k5kndl-t30gjK",[[["",{"children":[["slug","privacy-policy","c"],{"children":["__PAGE__?{\"slug\":[\"privacy-policy\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","privacy-policy","c"],{"children":["__PAGE__",{},[["$L1",[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"},"style":{"display":"none"}}],["$","div",null,{"className":"wp-singular page-template-default page page-id-1889 wp-custom-logo wp-embed-responsive wp-theme-Automated Business Suite full header-layout-logo-menu has-page-header no-middle-header responsive-layout vamtam-is-elementor elementor-active elementor-pro-active vamtam-wc-cart-empty wc-product-gallery-slider-active vamtam-font-smoothing layout-full elementor-default elementor-kit-4 elementor-page elementor-page-1889 elementor-page-12429","dangerouslySetInnerHTML":{"__html":"$3"}}]],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/02f20835678e5f66.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en-US","className":"no-js","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,700&family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"alternate icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","link",null,{"rel":"manifest","href":"/site.webmanifest"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$7"}}],["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtag/js?id=G-RZTBPB060E"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              window.dataLayer = window.dataLayer || [];\n              function gtag(){dataLayer.push(arguments);}\n              gtag('js', new Date());\n              gtag('config', 'G-RZTBPB060E');\n            "}}],["$","script",null,{"src":"/assets/js/script_024.js","defer":true}],["$","script",null,{"src":"/assets/js/script_006.js","defer":true}]]}],["$","body",null,{"className":"wp-custom-logo wp-embed-responsive wp-theme-aifusionx full header-layout-logo-menu has-page-header no-middle-header responsive-layout vamtam-is-elementor elementor-active elementor-pro-active vamtam-wc-cart-empty wc-product-gallery-slider-active vamtam-font-smoothing layout-full elementor-default elementor-kit-4","children":[["$","$L8",null,{}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Privacy policy — Automated Business Suite"}],["$","meta","3",{"name":"description","content":"Enterprise workflow automation, data orchestration, and autonomous AI systems built for modern teams."}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"use-credentials"}],["$","link","5",{"rel":"canonical","href":"https://abusinesssuite.com/privacy-policy/"}],["$","meta","6",{"property":"og:title","content":"Privacy policy — Automated Business Suite"}],["$","meta","7",{"property":"og:description","content":"Enterprise workflow automation, data orchestration, and autonomous AI systems built for modern teams."}],["$","meta","8",{"property":"og:url","content":"https://abusinesssuite.com/privacy-policy/"}],["$","meta","9",{"property":"og:site_name","content":"Automated Business Suite"}],["$","meta","10",{"property":"og:image","content":"https://abusinesssuite.com/assets/images/GettyImages-2130152566.jpg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Privacy policy — Automated Business Suite"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Automated Business Suite — AI Platform & Workflow Automation"}],["$","meta","17",{"name":"twitter:description","content":"Enterprise workflow automation, data orchestration, and autonomous AI systems built for modern teams."}],["$","meta","18",{"name":"twitter:image","content":"https://abusinesssuite.com/assets/images/GettyImages-2130152566.jpg"}],["$","link","19",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","20",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","21",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","22",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180","type":"image/png"}]]
+1:null

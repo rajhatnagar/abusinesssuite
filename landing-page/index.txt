@@ -1,0 +1,945 @@
+4:I[4707,[],""]
+6:I[6423,[],""]
+8:I[7343,["185","static/chunks/app/layout-e8fe85a7a6cd34e9.js"],"default"]
+2:T44f8,<link rel="preload" data-rocket-preload as="image" href="/assets/images/img_001.svg" fetchpriority="high">
+
+<style id="vamtam-theme-options">body {--vamtam-body-link-regular:#000000;
+--vamtam-body-link-visited:#000000;
+--vamtam-body-link-hover:#6904F2;
+--vamtam-body-link-active:#6904F2;
+--vamtam-body-background-color:#DBD3FF;
+--vamtam-input-border-radius:6px 6px 6px 6px;
+--vamtam-input-border-color:#0000001A;
+--vamtam-btn-text-color:#FFFFFF;
+--vamtam-btn-hover-text-color:#FFFFFF;
+--vamtam-btn-bg-color:#000000;
+--vamtam-btn-hover-bg-color:#6904F2;
+--vamtam-btn-border-radius:60px 60px 60px 60px;
+--vamtam-site-max-width:1280px;
+--vamtam-icon-ai-single:'\e91b';
+--vamtam-icon-ai:'\e900';
+--vamtam-icon-arrow-up:'\e901';
+--vamtam-icon-arrow-down:'\e902';
+--vamtam-icon-arrow-left:'\e903';
+--vamtam-icon-arrow-right:'\e904';
+--vamtam-icon-arrow-solid-down-menu:'\e910';
+--vamtam-icon-arrow-solid-down:'\e905';
+--vamtam-icon-arrow-solid-up:'\e906';
+--vamtam-icon-play:'\e91a';
+--vamtam-icon-check:'\e919';
+--vamtam-icon-close:'\e907';
+--vamtam-icon-menu:'\e908';
+--vamtam-icon-email:'\e90a';
+--vamtam-icon-automation:'\e90b';
+--vamtam-icon-ticketing:'\e90c';
+--vamtam-icon-agent:'\e90d';
+--vamtam-icon-data:'\e90e';
+--vamtam-icon-monitoring:'\e90f';
+--vamtam-icon-idea:'\e911';
+--vamtam-icon-chip:'\e912';
+--vamtam-icon-collaboration:'\e913';
+--vamtam-icon-chart:'\e914';
+--vamtam-icon-decision-tree:'\e915';
+--vamtam-icon-code-document:'\e916';
+--vamtam-icon-Error:'\e917';
+--vamtam-icon-user-check:'\e918';
+--vamtam-loading-animation:url('/assets/images/img_046.gif');
+}</style>
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="safe-svg-svg-icon-style-inline-css">
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{fill:currentColor;height:100%;max-height:100%;max-width:100%;width:100%}
+
+/*# sourceURL=/wp-content/plugins/safe-svg/dist/safe-svg-block-frontend.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='elementor-frontend-css' href='/assets/css/style_037.css' media='all' />
+<style id="elementor-frontend-inline-css">
+.e-heading-base a, .e-paragraph-base a { all: unset; cursor: pointer; }form[data-element_type="e-form"].form-state-success [data-element_type="e-form-success-message"],form[data-element_type="e-form"].form-state-error [data-element_type="e-form-error-message"]{ display: block; }
+.e-form-textarea-base:not([data-resizable]) { resize: none; } .e-form-submit-button-base { cursor: pointer; box-sizing: border-box; }
+/*# sourceURL=elementor-frontend-inline-css */
+</style>
+<link rel='stylesheet' id='elementor-post-4-css' href='/assets/css/style_054.css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-theme-icons-css' href='/assets/css/style_135.css' media='all' />
+<link rel='stylesheet' id='e-animation-bounceInDown-css' href='/assets/css/style_068.css' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='/assets/css/style_017.css' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='/assets/css/style_021.css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='/assets/css/style_016.css' media='all' />
+<link rel='stylesheet' id='e-animation-slideInUp-css' href='/assets/css/style_027.css' media='all' />
+<link rel='stylesheet' id='e-animation-fadeIn-css' href='/assets/css/style_023.css' media='all' />
+<link rel='stylesheet' id='widget-icon-box-css' href='/assets/css/style_041.css' media='all' />
+<link rel='stylesheet' id='e-animation-sink-css' href='/assets/css/style_069.css' media='all' />
+<link rel='stylesheet' id='e-animation-zoomIn-css' href='/assets/css/style_028.css' media='all' />
+<link rel='stylesheet' id='e-motion-fx-css' href='/assets/css/style_007.css' media='all' />
+<link rel='stylesheet' id='elementor-post-12493-css' href='/assets/css/style_136.css' media='all' />
+<link rel='stylesheet' id='base-desktop-css' href='/assets/css/style_034.css' media='all' />
+<link rel='stylesheet' id='base-mobile-css' href='/assets/css/style_035.css' media='(max-width:767px)' />
+<link data-minify="1" rel='stylesheet' id='vamtam-front-all-css' href='/assets/css/style_002.css' media='all' />
+<style id="vamtam-front-all-inline-css">
+
+			@font-face {
+				font-family: 'icomoon';
+				src: url(/assets/fonts/font_002.woff2) format('woff2'),
+					 url( /assets/fonts/font_001.woff) format('woff'),
+					 url(/assets/fonts/font_001.ttf) format('ttf');
+				font-weight: normal;
+				font-style: normal;
+				font-display: swap;
+			}
+		
+			@font-face {
+				font-family: 'vamtam-theme';
+				src: url(/assets/fonts/font_001.woff2) format('woff2'),
+					url(/assets/fonts/font_002.woff) format('woff');
+				font-weight: normal;
+				font-style: normal;
+				font-display: swap;
+			}
+		
+/*# sourceURL=vamtam-front-all-inline-css */
+</style>
+<link rel='stylesheet' id='vamtam-theme-elementor-max-css' href='/assets/css/style_032.css' media='(min-width: 1025px)' />
+<link rel='stylesheet' id='vamtam-theme-elementor-below-max-css' href='/assets/css/style_031.css' media='(max-width: 1024px)' />
+<link rel='stylesheet' id='vamtam-theme-elementor-small-css' href='/assets/css/style_033.css' media='(max-width: 767px)' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-instrumentsans-css' href='/assets/css/style_137.css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-ibmplexsans-css' href='/assets/css/style_138.css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-montserrat-css' href='/assets/css/style_139.css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-dmsans-css' href='/assets/css/style_140.css' media='all' />
+
+
+
+<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						
+					}
+				}
+			</style>
+<style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style>3:T19754,
+			<div  data-elementor-type="wp-page" data-elementor-id="12493" class="elementor elementor-12493" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-3cadaccb e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="3cadaccb" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+					<div  class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-53a276f e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="53a276f" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+				<div class="elementor-element elementor-element-1863b064 elementor-absolute animated-fast elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-invisible elementor-widget elementor-widget-image" data-id="1863b064" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;bounceInDown&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="image.default">
+															<img decoding="async" width="66" height="135" src="/assets/images/img_004.svg" class="attachment-full size-full wp-image-12569" alt="" />															</div>
+				<div class="elementor-element elementor-element-6238d956 elementor-widget elementor-widget-spacer" data-id="6238d956" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-579fee81 elementor-widget elementor-widget-spacer" data-id="579fee81" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-36abc292 elementor-widget elementor-widget-image" data-id="36abc292" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img decoding="async" width="160" height="91" src="/assets/images/img_005.svg" class="attachment-medium_large size-medium_large wp-image-12542" alt="" />															</div>
+				<div class="elementor-element elementor-element-47151a49 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="47151a49" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h1 class="elementor-heading-title elementor-size-default">Dedicated modern 
+AI Agency, Automation &amp; SaaS  WordPress Theme</h1>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-49aa8986 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="49aa8986" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>Built and suitable for AI automation agencies, micro-SaaS startups, AI trainers, and digital integration experts.</p>								</div>
+				<div class="elementor-element elementor-element-2452d92 animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="2452d92" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/services" target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-right"></i>			</span>
+									<span class="elementor-button-text">Explore theme</span>
+					</span>
+					</a>
+								</div>
+				<div class="elementor-element elementor-element-637feeae elementor-widget elementor-widget-spacer" data-id="637feeae" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-26c7fe24 elementor-hidden-tablet elementor-hidden-phone e-con-full e-flex e-con e-child e-lazyloaded" data-id="26c7fe24" data-element_type="container" data-e-type="container">
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-aeeb5c5 e-flex e-con-boxed e-con e-child e-lazyloaded" data-id="aeeb5c5" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div  class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-6f8d616c e-con-full e-flex e-con e-child e-lazyloaded" data-id="6f8d616c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-362fc80a elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="362fc80a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img fetchpriority="high" decoding="async" width="218" height="186" src="/assets/images/img_001.svg" class="attachment-large size-large wp-image-12571" alt="" />															</div>
+		<div class="elementor-element elementor-element-1fab62ec e-con-full e-flex e-con e-child e-lazyloaded" data-id="1fab62ec" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-6ffffd23 e-con-full e-flex e-con e-child e-lazyloaded" data-id="6ffffd23" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-549dbcb elementor-position-inline-start vamtam-el-widget-icon-box-flex elementor-widget__width-auto elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="549dbcb" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" width="56px" height="50px" viewBox="0 0 56 50" style="enable-background:new 0 0 56 50;" xml:space="preserve"><style type="text/css"> .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#35348F;}</style><title>3D86A401-53DF-4270-8544-103AF2713532</title><g id="Page-1"> <g id="Landingpage" transform="translate(-420.000000, -1062.000000)"> <g id="Group-2" transform="translate(420.000000, 1062.000000)"> <g id="Group-8"> <path id="clients-trust" class="st0" d="M55.6,18.2c0-3-1.2-5.9-3.3-8l-6.9-6.9c-2.2-2.1-5-3.3-8-3.3h-0.1c-3,0-5.9,1.2-8.1,3.4 l-1.4,1.4l-1.5-1.5c-2.1-2.1-5-3.3-8-3.3s-5.9,1.2-8,3.3l-6.9,6.9c-4.4,4.4-4.4,11.6,0,16l4.2,4.2c0,1.5,0.7,2.9,1.8,3.9 c0.9,0.9,2.2,1.4,3.4,1.6c0.2,1.3,0.8,2.7,1.7,3.6c0.8,0.8,1.9,1.3,3.1,1.5c0.2,1.2,0.8,2.5,1.7,3.3c0.9,0.8,2.2,1.6,3.6,1.8 c0.4,1.5,1.3,3,3.3,3.7c0.3,0.1,1,0.3,1.8,0.3c1,0,2.2-0.3,3.4-1.3c0,0,0,0,0.1-0.1s0.3-0.3,0.5-0.5c2-1.8,3.5-3.4,4.3-4.7 c1.4,0.4,3,0.3,4.2-0.6c1.3-1,1.9-2.3,1.9-3.7c1.3-0.1,2.6-0.6,3.4-1.4c0.8-0.8,1.4-2.2,1.4-3.5c1.5-0.1,2.8-0.7,3.7-1.6 c1.6-1.7,1.2-4,0.8-4.9c0-0.1-0.1-0.1-0.1-0.2s-0.1-0.1-0.2-0.2l0,0l1.1-1.1C54.4,24.1,55.6,21.3,55.6,18.2z M10.1,30.5l5.7-5.6 l0,0c0.2-0.2,0.6-0.4,1.2-0.4c0.5,0,1,0.3,1.5,0.8c1,1.1,0.6,2.2,0.5,2.6l-5.7,5.5c-0.8,0-1.6-0.3-2.3-0.9 C10.7,32.1,10.2,31.4,10.1,30.5z M15.2,35.2l5.7-5.5c0.5-0.2,2-0.5,2.8,0.3s0.8,1.8,0.7,2.2l-6.2,6.2c-0.6,0-1.4-0.2-2-0.8 C15.7,37.1,15.3,36,15.2,35.2z M20,40.2l6.3-6.3c0.3-0.1,1.3-0.4,2.5,0.9c0.8,0.8,0.6,2,0.5,2.4l-5.9,6.1 c-0.8-0.1-1.7-0.6-2.4-1.2C20.4,41.8,20.1,40.9,20,40.2z M30,46.3c-0.2,0.2-0.4,0.4-0.5,0.5c-1,0.8-2.1,0.6-2.6,0.4 c-0.7-0.2-1.2-0.7-1.6-2l5.9-6.1c0.7-0.4,1.8,0.2,2.1,0.7c0.5,0.6,0.7,1.5,0.8,1.9C33.9,42.1,33.2,43.3,30,46.3z M48.8,30.9 c-0.9,0.9-2.2,0.9-2.9,0.8L35.5,21.3c-0.5-0.5-1.3-0.5-1.9,0c-0.5,0.5-0.5,1.3,0,1.9l10.5,10.6c0.3,0.6,0.1,1.7-0.4,2.3 c-0.5,0.5-1.9,0.9-2.5,0.5l0,0L30.7,25.5c-0.5-0.5-1.3-0.5-1.9,0c-0.5,0.5-0.5,1.3,0,1.9l10.7,10.9c0.2,0.8,0.2,1.8-0.8,2.5 c-0.4,0.3-1.4,0.3-2.1,0.1c-0.2-0.7-0.5-1.9-1.2-2.8c-0.7-0.8-2-1.7-3.4-1.8c0-1-0.3-2.2-1.3-3.2c-1.3-1.3-2.6-1.8-3.7-1.8 c-0.1-1-0.5-2.1-1.5-3.1c-1.1-1.1-2.5-1.3-3.6-1.3c0-1-0.3-2.3-1.3-3.5c-1.2-1.3-2.5-1.6-3.4-1.6l0,0c-1.2,0-2.4,0.5-3.1,1.2 l-5.2,5l-3.6-3.6c-3.4-3.4-3.4-8.9,0-12.3l6.9-6.9c1.6-1.6,3.8-2.5,6.1-2.5s4.5,0.9,6.1,2.5l1.5,1.5c0,0-8.1,8-8.8,8.9 c-0.5,0.5-0.7,1.2-0.6,1.9c0.1,1,0.8,2,2,2.9c3.2,2.4,7.6,2.1,10.6-0.8c1.2-1.1,4-3.9,5.5-5.3l14.5,14.8 C49.2,29.4,49.4,30.3,48.8,30.9z M35.5,11.5c-0.2-0.2-0.6-0.4-0.9-0.4c-0.4,0-0.7,0.1-0.9,0.4c0,0-4.8,4.7-6.4,6.2 c-2.1,2-5,2.2-7.2,0.6c-0.6-0.5-0.9-0.9-0.9-1c0.4-0.5,1.1-1.1,1.2-1.2L31.1,5.3c1.7-1.7,3.9-2.7,6.3-2.7c2.3,0,4.5,0.9,6.2,2.5 l6.9,6.9c1.6,1.6,2.5,3.8,2.5,6.1s-0.9,4.5-2.5,6.1l-1.1,1.1L35.5,11.5z"></path> </g> </g> </g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<span  >
+							100 000+						</span>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Clients trust Vamtam					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-480149c e-con-full e-flex e-con e-child e-lazyloaded" data-id="480149c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-43990376 elementor-position-inline-start vamtam-el-widget-icon-box-flex elementor-widget__width-auto elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="43990376" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" width="68px" height="31px" viewBox="0 0 68 31" style="enable-background:new 0 0 68 31;" xml:space="preserve"><style type="text/css"> .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#35348F;}</style><g id="Page-1"> <g id="Landingpage" transform="translate(-792.000000, -1074.000000)"> <g id="Group-2" transform="translate(420.000000, 1062.000000)"> <g id="Group-4" transform="translate(372.000000, 1.000000)"> <path id="liftime-updates" class="st0" d="M57.7,12.9c-5.9-2.2-12.1-0.7-16.4,3.7l-6.5,6.8l-1.1,1.1l-1.1,1.1l-1.1,1.2L30.3,28 l-6.7,6.9c-2.3,2.4-5.4,3.7-8.6,3.7c-1.4,0-2.9-0.3-4.3-0.8c-4.4-1.6-7.3-5.6-7.5-10.2v-0.7v-0.7c0.2-4.7,3.1-8.6,7.5-10.3 c0.2-0.1,0.4-0.1,0.6-0.2c0.1,0,0.2-0.1,0.3-0.1c0.2-0.1,0.4-0.1,0.5-0.1c0.1-0.1,0.3-0.1,0.5-0.1c0.1,0,0.3-0.1,0.5-0.1 s0.4-0.1,0.5-0.1s0.3,0,0.4-0.1c0.3,0,0.6-0.1,0.9-0.1H15c0.3,0,0.7,0,1.1,0.1h0.2c0.3,0.1,0.7,0.1,1,0.1h0.1 c2.3,0.5,4.4,1.6,6.2,3.4l6.7,7l1.1-1.1l1.1-1.1L26,16.6c-1.5-1.5-3.2-2.7-5.1-3.5c-1.8-0.8-3.8-1.2-5.9-1.2 c-1.8,0-3.7,0.3-5.5,1C4,15,0.3,20,0,25.9v0.9v0.9c0.3,5.9,4,10.9,9.6,13.1c5.8,2.2,12.1,0.7,16.4-3.6l6.5-6.8l1.1-1.1l1.1-1.1 l1.1-1.1l1.1-1.1l6.7-7.1c3.4-3.5,8.3-4.6,12.9-2.9c4.4,1.6,7.3,5.6,7.5,10.2v0.7v0.7c-0.3,4.6-3.1,8.6-7.5,10.2 c-4.6,1.8-9.6,0.6-12.9-2.9L37,28l-1.1,1.1l-1.1,1.1l6.5,6.8c1.5,1.5,3.2,2.7,5.1,3.5c1.8,0.8,3.8,1.2,5.9,1.2 c1.8,0,3.6-0.3,5.5-1c5.7-2.1,9.3-7.1,9.6-13.1v-0.9v-0.9C67.1,20,63.4,15,57.7,12.9z"></path> </g> </g> </g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<span  >
+							FREE						</span>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Lifetime updates					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-1f4bb922 e-con-full e-flex e-con e-child e-lazyloaded" data-id="1f4bb922" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-2fb77ddc elementor-position-inline-start vamtam-el-widget-icon-box-flex elementor-widget__width-auto elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="2fb77ddc" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="50px" viewBox="0 0 48 50"><title>A0D40DB3-E399-465B-917C-2272B8E38A39</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-342.000000, -3886.000000)" fill="#020D26"><g id="Key-features" transform="translate(273.000000, 3709.000000)"><g id="Group-13" transform="translate(0.000000, 138.000000)"><g id="Group-11"><path d="M92.6482808,39.00015 C79.6072191,39.00015 69,49.8301175 69,63.1425776 C69,75.4530406 78.0804964,85.6230091 89.7594101,87.0840052 C90.2568562,88.2109519 91.3589178,89 92.6484767,89 C94.397228,89 95.8130587,87.5527538 95.8130587,85.7676092 C95.8130587,83.9824651 94.3934075,82.5371694 92.6484767,82.5371694 C91.5177126,82.5371694 90.5323716,83.1485176 89.9717896,84.0567148 C79.8313539,82.7071189 71.9675334,73.8557454 71.9675334,63.1427776 C71.9675334,51.5023125 81.2449315,42.0293409 92.6485747,42.0293409 C103.552617,42.0293409 112.512622,50.6893149 113.277698,61.6267821 L111.649487,61.6267821 C111.525121,61.6267821 111.416066,61.669752 111.301265,61.6970919 C110.960699,61.009594 110.402032,60.4568456 109.699847,60.1580465 C108.303119,51.8300715 101.199279,45.4645906 92.648751,45.4645906 C84.0982228,45.4645906 76.9940891,51.8280715 75.5976546,60.1580465 C74.4535188,60.6463251 73.6498955,61.7947416 73.6498955,63.1424376 C73.6498955,64.4842335 74.4534698,65.6365801 75.5976546,66.1228786 C76.9943829,74.4508536 84.0982228,80.8163346 92.648751,80.8163346 C101.199279,80.8163346 108.303413,74.4513536 109.698378,66.1228786 C110.398652,65.8260045 110.959234,65.2713312 111.299796,64.5857832 C111.412681,64.6131282 111.523652,64.658048 111.648018,64.658048 L114.8126,64.658048 C115.631505,64.658048 116.297297,63.9783501 116.297297,63.1424526 C116.297297,49.8299925 105.690077,39 92.6490155,39 L92.6482808,39.00015 Z M92.6482808,48.4961215 C100.557654,48.4961215 106.994183,55.0666018 106.994183,63.1425776 C106.994183,71.2165534 100.557654,77.7870336 92.6482808,77.7870336 C84.7369482,77.7870336 78.3004189,71.2165534 78.3004189,63.1425776 C78.3004189,55.0666018 84.7369482,48.4961215 92.6482808,48.4961215 Z M101.511811,66.4673389 C96.9968974,70.8830073 89.6533234,70.8830073 85.1368379,66.4673389 C84.5385786,65.8802564 83.5639285,65.8802564 82.9636914,66.4673389 C82.3634542,67.0544215 82.3634542,68.005777 82.9636914,68.5928595 C85.8202442,71.386809 89.5720814,72.7837838 93.3243243,72.7837838 C97.076263,72.7837838 100.828303,71.386809 103.684957,68.5928595 C104.285194,68.005777 104.285194,67.0544215 103.684957,66.4673389 C103.082742,65.8802564 102.112048,65.8802564 101.511811,66.4673389 Z" id="Fill-2"></path></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<div class="elementor-icon-box-title">
+						<span  >
+							24/7						</span>
+					</div>
+				
+									<p class="elementor-icon-box-description">
+						Dedicated support team					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div  class="elementor-element elementor-element-51ac15c8 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="51ac15c8" data-element_type="container" data-e-type="container">
+					<div  class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-5ad096f9 e-con-full e-flex e-con e-child e-lazyloaded" data-id="5ad096f9" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-1183c69c e-con-full e-flex e-con e-child e-lazyloaded" data-id="1183c69c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-76af943d elementor-widget elementor-widget-image" data-id="76af943d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="41" height="34" src="/assets/images/img_003.svg" class="attachment-large size-large wp-image-12575" alt="" />															</div>
+				<div class="elementor-element elementor-element-48ea6fec elementor-widget elementor-widget-heading" data-id="48ea6fec" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h5 class="elementor-heading-title elementor-size-default">Get $210 Worth of Premium Stock Images FREE with Your Package!</h5>				</div>
+				</div>
+		<div class="elementor-element elementor-element-4b78a393 e-con-full e-flex e-con e-child e-lazyloaded" data-id="4b78a393" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-51181082 elementor-widget elementor-widget-image" data-id="51181082" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="68" height="25" src="/assets/images/img_007.svg" class="attachment-large size-large wp-image-12576" alt="" />															</div>
+				<div class="elementor-element elementor-element-eb328f2 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="eb328f2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">All images shown on the demo website come with the demo content, and can be used in your next project, without the need to buy any additional licenses.</p>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-19f16fce e-flex e-con-boxed e-con e-child e-lazyloaded" data-id="19f16fce" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div  class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-578d170c e-con-full e-flex e-con e-child e-lazyloaded" data-id="578d170c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-673e5039 elementor-widget elementor-widget-image" data-id="673e5039" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+																<a href="/services" target="_blank">
+							<img loading="lazy" decoding="async" width="1190" height="6560" src="/assets/images/img_004.jpg" class="elementor-animation-sink attachment-full size-full wp-image-12545" alt="" srcset="/assets/images/img_004.jpg 1190w, /assets/images/img_005.jpg 186w, /assets/images/img_031.jpg 768w" sizes="(max-width: 1190px) 100vw, 1190px" />								</a>
+															</div>
+		<div class="elementor-element elementor-element-719321e5 e-con-full e-flex e-con e-child e-lazyloaded" data-id="719321e5" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-380869ab elementor-widget elementor-widget-heading" data-id="380869ab" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">AI Integration Agency</h6>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2d03737b e-con-full e-flex e-con e-child e-lazyloaded" data-id="2d03737b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-723e27f4 elementor-widget elementor-widget-image" data-id="723e27f4" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+																<a href="/services" target="_blank">
+							<img loading="lazy" decoding="async" width="1190" height="2560" src="/assets/images/img_009.jpg" class="elementor-animation-sink attachment-full size-full wp-image-12546" alt="" srcset="/assets/images/img_009.jpg 1190w, /assets/images/img_006.jpg 139w, /assets/images/img_033.jpg 476w, /assets/images/img_007.jpg 768w, /assets/images/img_035.jpg 714w, /assets/images/img_036.jpg 952w" sizes="(max-width: 1190px) 100vw, 1190px" />								</a>
+															</div>
+		<div class="elementor-element elementor-element-141a6b7e e-con-full e-flex e-con e-child e-lazyloaded" data-id="141a6b7e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1b1dd7f2 elementor-widget elementor-widget-heading" data-id="1b1dd7f2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">AI Micro-SaaS</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-16b4f9c elementor-widget elementor-widget-image" data-id="16b4f9c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+																<a href="/services" target="_blank">
+							<img loading="lazy" decoding="async" width="1190" height="4394" src="/assets/images/img_010.jpg" class="elementor-animation-sink attachment-full size-full wp-image-12547" alt="" srcset="/assets/images/img_010.jpg 1190w, /assets/images/GettyImages-2202810189.jpg 81w, /assets/images/img_009.jpg 277w, /assets/images/img_010.jpg 768w, /assets/images/img_040.jpg 416w, /assets/images/img_041.jpg 555w" sizes="(max-width: 1190px) 100vw, 1190px" />								</a>
+															</div>
+		<div class="elementor-element elementor-element-98a7f68 e-con-full e-flex e-con e-child e-lazyloaded" data-id="98a7f68" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-caf8e6b elementor-widget elementor-widget-heading" data-id="caf8e6b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">AI Trainers</h6>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-34845171 e-con-full e-flex e-con e-child e-lazyloaded" data-id="34845171" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-3b8287ad e-con-full e-flex e-con e-child e-lazyloaded" data-id="3b8287ad" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-787bd39a elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="787bd39a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Attention to detail, not only in home pages…</h2>				</div>
+		<div class="elementor-element elementor-element-2ad1f6a4 e-con-full e-flex e-con e-child e-lazyloaded" data-id="2ad1f6a4" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-79424a93 e-con-full e-flex e-con e-child e-lazyloaded" data-id="79424a93" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-57980acc elementor-widget elementor-widget-image" data-id="57980acc" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<a href="/" class="abs-brand-logo-link abs-brand-nav">
+  <div class="abs-brand-emblem">
+    <img src="/assets/images/brand_icon_3d.png" alt="Automated Business Suite" class="abs-brand-icon" width="38" height="38" />
+  </div>
+  <div class="abs-brand-text">
+    <span class="abs-brand-title">Automated Business Suite</span>
+    <span class="abs-brand-sub">AI PLATFORM</span>
+  </div>
+</a>															</div>
+				</div>
+		<div class="elementor-element elementor-element-728b5604 e-con-full e-flex e-con e-child e-lazyloaded" data-id="728b5604" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5724448e elementor-widget elementor-widget-image" data-id="5724448e" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<a href="/" class="abs-brand-logo-link abs-brand-footer">
+  <div class="abs-brand-emblem">
+    <img src="/assets/images/brand_icon_3d.png" alt="Automated Business Suite" class="abs-brand-icon" width="38" height="38" />
+  </div>
+  <div class="abs-brand-text">
+    <span class="abs-brand-title">Automated Business Suite</span>
+    <span class="abs-brand-sub">AI PLATFORM</span>
+  </div>
+</a>															</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div data-wpr-lazyrender="1" class="elementor-element elementor-element-3f0e97dc e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="3f0e97dc" data-element_type="container" data-e-type="container">
+					<div  class="e-con-inner e-lazyloaded">
+				<div class="elementor-element elementor-element-472d9188 elementor-widget elementor-widget-heading" data-id="472d9188" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Key Features</h2>				</div>
+					</div>
+				</div>
+		<div data-wpr-lazyrender="1" class="elementor-element elementor-element-62641544 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="62641544" data-element_type="container" data-e-type="container">
+					<div  class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-61eccb4d e-con-full e-flex e-con e-child e-lazyloaded" data-id="61eccb4d" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-23cf0eb3 e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="23cf0eb3" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-7cf8e914 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="7cf8e914" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="50px" viewBox="0 0 48 50"><title>A0D40DB3-E399-465B-917C-2272B8E38A39</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-342.000000, -3886.000000)" fill="#020D26"><g id="Key-features" transform="translate(273.000000, 3709.000000)"><g id="Group-13" transform="translate(0.000000, 138.000000)"><g id="Group-11"><path d="M92.6482808,39.00015 C79.6072191,39.00015 69,49.8301175 69,63.1425776 C69,75.4530406 78.0804964,85.6230091 89.7594101,87.0840052 C90.2568562,88.2109519 91.3589178,89 92.6484767,89 C94.397228,89 95.8130587,87.5527538 95.8130587,85.7676092 C95.8130587,83.9824651 94.3934075,82.5371694 92.6484767,82.5371694 C91.5177126,82.5371694 90.5323716,83.1485176 89.9717896,84.0567148 C79.8313539,82.7071189 71.9675334,73.8557454 71.9675334,63.1427776 C71.9675334,51.5023125 81.2449315,42.0293409 92.6485747,42.0293409 C103.552617,42.0293409 112.512622,50.6893149 113.277698,61.6267821 L111.649487,61.6267821 C111.525121,61.6267821 111.416066,61.669752 111.301265,61.6970919 C110.960699,61.009594 110.402032,60.4568456 109.699847,60.1580465 C108.303119,51.8300715 101.199279,45.4645906 92.648751,45.4645906 C84.0982228,45.4645906 76.9940891,51.8280715 75.5976546,60.1580465 C74.4535188,60.6463251 73.6498955,61.7947416 73.6498955,63.1424376 C73.6498955,64.4842335 74.4534698,65.6365801 75.5976546,66.1228786 C76.9943829,74.4508536 84.0982228,80.8163346 92.648751,80.8163346 C101.199279,80.8163346 108.303413,74.4513536 109.698378,66.1228786 C110.398652,65.8260045 110.959234,65.2713312 111.299796,64.5857832 C111.412681,64.6131282 111.523652,64.658048 111.648018,64.658048 L114.8126,64.658048 C115.631505,64.658048 116.297297,63.9783501 116.297297,63.1424526 C116.297297,49.8299925 105.690077,39 92.6490155,39 L92.6482808,39.00015 Z M92.6482808,48.4961215 C100.557654,48.4961215 106.994183,55.0666018 106.994183,63.1425776 C106.994183,71.2165534 100.557654,77.7870336 92.6482808,77.7870336 C84.7369482,77.7870336 78.3004189,71.2165534 78.3004189,63.1425776 C78.3004189,55.0666018 84.7369482,48.4961215 92.6482808,48.4961215 Z M101.511811,66.4673389 C96.9968974,70.8830073 89.6533234,70.8830073 85.1368379,66.4673389 C84.5385786,65.8802564 83.5639285,65.8802564 82.9636914,66.4673389 C82.3634542,67.0544215 82.3634542,68.005777 82.9636914,68.5928595 C85.8202442,71.386809 89.5720814,72.7837838 93.3243243,72.7837838 C97.076263,72.7837838 100.828303,71.386809 103.684957,68.5928595 C104.285194,68.005777 104.285194,67.0544215 103.684957,66.4673389 C103.082742,65.8802564 102.112048,65.8802564 101.511811,66.4673389 Z" id="Fill-2"></path></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h5 class="elementor-icon-box-title">
+						<span  >
+							Timely Support 8<br>hours Average Response Time						</span>
+					</h5>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-1e17bcf4 e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="1e17bcf4" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-2e232c69 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="2e232c69" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50"><title>elementor</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-553.000000, -5554.000000)" fill="#020D26" fill-rule="nonzero"><g id="Key-features" transform="translate(272.000000, 5377.000000)"><g id="Group-13" transform="translate(0.000000, 138.000000)"><g id="Group-11-Copy" transform="translate(216.000000, 0.000000)"><path d="M90,39 C76.1915125,39 65,50.191514 65,64 C65,77.8038754 76.1915125,89 90,89 C103.8085,89 115,77.8085004 115,64 C114.9955,50.191514 103.803875,39 90,39 Z M83.751125,74.4132506 L79.58675,74.4132506 L79.58675,53.5822514 L83.751125,53.5822514 L83.751125,74.4132506 Z M100.41325,74.4132506 L87.9155,74.4132506 L87.9155,70.2488757 L100.41325,70.2488757 L100.41325,74.4132506 Z M100.41325,66.0798759 L87.9155,66.0798759 L87.9155,61.915501 L100.41325,61.915501 L100.41325,66.0798759 Z M100.41325,57.7466262 L87.9155,57.7466262 L87.9155,53.5822514 L100.41325,53.5822514 L100.41325,57.7466262 Z" id="elementor"></path></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Elementor <br>Drag and Drop <br>Builder						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-ef9eaba e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="ef9eaba" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-187e7c5e elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="187e7c5e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="58px" viewBox="0 0 64 58"><title>elementor-pro</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-767.000000, -5546.000000)"><g id="Key-features" transform="translate(272.000000, 5377.000000)"><g id="Group-13" transform="translate(0.000000, 138.000000)"><g id="Group-11-Copy-2" transform="translate(428.000000, 0.000000)"><g id="elementor-pro" transform="translate(67.000000, 31.000000)"><path d="M25,8 C11.1915125,8 0,19.191514 0,33 C0,46.8038754 11.1915125,58 25,58 C38.8085,58 50,46.8085004 50,33 C49.9955,19.191514 38.803875,8 25,8 Z M18.751125,43.4132506 L14.58675,43.4132506 L14.58675,22.5822514 L18.751125,22.5822514 L18.751125,43.4132506 Z M35.41325,43.4132506 L22.9155,43.4132506 L22.9155,39.2488757 L35.41325,39.2488757 L35.41325,43.4132506 Z M35.41325,35.0798759 L22.9155,35.0798759 L22.9155,30.915501 L35.41325,30.915501 L35.41325,35.0798759 Z M35.41325,26.7466262 L22.9155,26.7466262 L22.9155,22.5822514 L35.41325,22.5822514 L35.41325,26.7466262 Z" id="Shape" fill="#020D26" fill-rule="nonzero"></path><g id="Group-23" transform="translate(36.000000, 0.000000)"><rect id="Rectangle" stroke="#F9F9F9" fill="#020D26" x="0.5" y="0.5" width="27" height="14" rx="3"></rect><path d="M6.35631158,11 L6.35631158,8.62625 L7.11006158,8.62625 C7.46745742,8.62625 7.81118137,8.58190104 8.14123346,8.49320312 C8.47128554,8.40450521 8.76847304,8.26809896 9.03279596,8.08398437 C9.29711887,7.89986979 9.50571262,7.66544271 9.65857721,7.38070312 C9.81144179,7.09596354 9.88787408,6.76369792 9.88787408,6.38390625 C9.88787408,5.86182292 9.76704075,5.44059896 9.52537408,5.12023437 C9.28370742,4.79986979 8.959072,4.56640625 8.55146783,4.41984375 C8.14386367,4.27328125 7.69131158,4.2 7.19381158,4.2 L5.07084283,4.2 L5.07084283,11 L6.35631158,11 Z M7.17974908,7.5634375 L6.35631158,7.5634375 L6.35631158,5.2846875 L7.15271783,5.2846875 C7.44136367,5.2846875 7.68701471,5.32036458 7.88967096,5.39171875 C8.09232721,5.46307292 8.24868137,5.58643229 8.35873346,5.76179687 C8.46878554,5.93716146 8.52381158,6.17041667 8.52381158,6.4615625 C8.50891575,6.71125 8.44394179,6.91856771 8.32888971,7.08351562 C8.21383762,7.24846354 8.05865533,7.3696875 7.86334283,7.4471875 C7.66803033,7.5246875 7.44016575,7.5634375 7.17974908,7.5634375 Z M12.2751456,11 L12.2751456,8.41625 L12.8788956,8.41625 C12.9812914,8.41625 13.0830622,8.418125 13.1842081,8.421875 C13.2853539,8.425625 13.3901976,8.42395833 13.4987393,8.416875 L14.9338956,11 L16.3143643,11 L14.6557706,8.07375 C14.9911872,7.90958333 15.2677758,7.67619792 15.4855362,7.37359375 C15.7032966,7.07098958 15.8103539,6.70958333 15.8067081,6.289375 C15.8067081,5.809375 15.6859268,5.41692708 15.4443643,5.11203125 C15.2028018,4.80713542 14.8781664,4.57890625 14.4704581,4.42734375 C14.0627497,4.27578125 13.6101456,4.2 13.1126456,4.2 L10.9896768,4.2 L10.9896768,11 L12.2751456,11 Z M13.1012393,7.3584375 L12.2751456,7.3584375 L12.2751456,5.2846875 L13.0742081,5.2846875 C13.3644164,5.2846875 13.6087133,5.32080729 13.8070987,5.39304687 C14.0054841,5.46528646 14.1610049,5.58005208 14.2736612,5.73734375 C14.3863174,5.89463542 14.4426456,6.099375 14.4426456,6.3515625 C14.4426456,6.59052083 14.3839997,6.78223958 14.2667081,6.92671875 C14.1494164,7.07119792 13.9896768,7.17927083 13.7874893,7.2509375 C13.5853018,7.32260417 13.3565518,7.3584375 13.1012393,7.3584375 Z M20.092589,11.14 C20.7642557,11.1233333 21.3478755,10.9636979 21.8434484,10.6610937 C22.3390213,10.3584896 22.7271984,9.94117187 23.0079796,9.40914062 C23.2887609,8.87710937 23.4291515,8.25796875 23.4291515,7.55171875 C23.4291515,6.89953125 23.3004276,6.30888021 23.0429796,5.77976562 C22.7855317,5.25065104 22.4081619,4.82841146 21.9108703,4.51304687 C21.4135786,4.19768229 20.8084223,4.04 20.0954015,4.04 C19.4342557,4.05666667 18.8537609,4.21739583 18.3539171,4.5221875 C17.8540734,4.82697917 17.4643338,5.24697917 17.1846984,5.7821875 C16.905063,6.31739583 16.7652453,6.93479167 16.7652453,7.634375 C16.7652453,8.27989583 16.894438,8.86888021 17.1528234,9.40132812 C17.4112088,9.93377604 17.7896723,10.3566667 18.288214,10.67 C18.7867557,10.9833333 19.388214,11.14 20.092589,11.14 Z M20.090089,10.0471875 C19.6842557,10.0471875 19.3336567,9.94421875 19.0382921,9.73828125 C18.7429276,9.53234375 18.5146723,9.245625 18.3535265,8.878125 C18.1923807,8.510625 18.1118078,8.09098958 18.1118078,7.61921875 C18.1118078,7.11526042 18.2039953,6.67898437 18.3883703,6.31039062 C18.5727453,5.94179687 18.8182401,5.65505208 19.1248546,5.45015625 C19.4314692,5.24526042 19.760089,5.1428125 20.110714,5.1428125 C20.5221723,5.1428125 20.8751932,5.24697917 21.1697765,5.4553125 C21.4643598,5.66364583 21.6903234,5.94882812 21.8476671,6.31085937 C22.0050109,6.67289062 22.0836828,7.08984375 22.0836828,7.56171875 C22.0836828,8.11911458 21.9924848,8.58200521 21.810089,8.95039062 C21.6276932,9.31877604 21.3873286,9.59367187 21.0889953,9.77507812 C20.7906619,9.95648437 20.4576932,10.0471875 20.090089,10.0471875 Z" id="PRO" fill="#FFFFFF" fill-rule="nonzero"></path></g></g></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Elementor Pro Support						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-56eafeb3 e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="56eafeb3" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-6813bd21 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="6813bd21" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39px" height="34px" viewBox="0 0 39 34"><title>9E510554-3D85-447E-8370-979DB221A16E</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-989.000000, -3899.000000)" fill="#020D26"><g id="Key-features" transform="translate(273.000000, 3709.000000)"><g id="Group-13" transform="translate(0.000000, 138.000000)"><g id="Group-11-Copy-3" transform="translate(643.000000, 0.000000)"><g id="Page-1" transform="translate(73.000000, 52.000000)"><path d="M15.55585,24.138725 C17.6909562,24.138725 19.4855724,25.5578955 20.0849667,27.4982018 L20.144575,27.708045 L38.16245,27.708045 L38.16245,30.088725 L20.144575,30.088725 C19.61324,32.135695 17.7655525,33.658045 15.55415,33.658045 C13.4190028,33.658045 11.62284,32.2388745 11.0233391,30.2985682 L10.963725,30.088725 L0.08797585,30.088725 L0.08797585,27.708045 L10.965425,27.708045 C11.49676,25.661075 13.3445325,24.138725 15.55585,24.138725 Z M29.832875,12.242125 C31.9680222,12.242125 33.764185,13.6597504 34.3636859,15.601442 L34.4233,15.811445 L38.1619825,15.811445 L38.1619825,18.192125 L34.4233,18.192125 C33.891965,20.239095 32.0441925,21.761445 29.832875,21.761445 C27.6977278,21.761445 25.901565,20.3422745 25.3020641,18.4019682 L25.24245,18.192125 L0.08755,18.192125 L0.08755,15.811445 L25.24245,15.811445 C25.773785,13.764475 27.6215575,12.242125 29.832875,12.242125 Z M8.4167,0.341955 C10.5518472,0.341955 12.34801,1.76112551 12.9475109,3.70143181 L13.007125,3.911275 L38.162025,3.911275 L38.162025,6.291955 L13.007125,6.291955 C12.47579,8.338925 10.6280175,9.861275 8.4167,9.861275 C6.28155276,9.861275 4.48538996,8.44210449 3.8858891,6.50179819 L3.826275,6.291955 L0.0875925,6.291955 L0.0875925,3.911275 L3.826275,3.911275 C4.35761,1.864305 6.2053825,0.341955 8.4167,0.341955 Z" id="option-panel"></path></g></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Powerful Theme Option Panel						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-2c3e9bf5 e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="2c3e9bf5" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-78069ad7 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="78069ad7" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="42px" viewBox="0 0 60 42"><title>1332A8F0-B26E-492F-8227-658A0159FA33</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-1193.000000, -3889.000000)" fill="#020D26" fill-rule="nonzero"><g id="Key-features" transform="translate(273.000000, 3709.000000)"><g id="Group-13" transform="translate(0.000000, 138.000000)"><g id="Group-11-Copy-7" transform="translate(858.000000, 0.000000)"><g id="tutorials" transform="translate(62.000000, 42.000000)"><path d="M53.9999617,1.77635684e-14 C57.3136914,1.77635684e-14 60,2.69118038 60,5.9952583 L60,36.0047417 C60,39.3158314 57.3053629,42 53.9999617,42 L6.0000383,42 C2.68630865,42 0,39.3088196 0,36.0047417 L0,5.9952583 C0,2.68416857 2.69463714,1.77635684e-14 6.0000383,1.77635684e-14 L53.9999617,1.77635684e-14 Z M53.9999617,2.5 L6.0000383,2.5 C4.13577609,2.5 2.60516281,3.96589583 2.50519332,5.80384346 L2.5,5.9952583 L2.5,36.0047417 C2.5,37.8663422 3.96656205,39.3949731 5.80822784,39.4948134 L6.0000383,39.5 L53.9999617,39.5 C55.8642239,39.5 57.3948372,38.0341042 57.4948067,36.1961565 L57.5,36.0047417 L57.5,5.9952583 C57.5,4.13365778 56.033438,2.6050269 54.1917722,2.50518662 L53.9999617,2.5 Z M24.7157073,11.219624 C25.2095711,10.926792 25.7526237,10.926792 26.2956762,11.219624 L26.2956762,11.219624 L41.1858903,19.5955215 C41.7289429,19.9618058 42,20.4749944 42,21.012016 C42,21.5500143 41.7038793,22.0870358 41.1608267,22.3798678 L41.1608267,22.3798678 L26.2705879,30.7558117 C26.0979332,30.8779053 25.8510013,31 25.5548806,31 C25.2587599,31 24.9626392,30.8779053 24.7157073,30.7558117 C24.2961207,30.4620029 24,29.9249814 24,29.3879598 L24,29.3879598 L24,12.5874759 C24,12.0494776 24.2218436,11.5124561 24.7157073,11.219624 Z"></path></g></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							23 HD Video Tutorials for Beginners						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-2885879b e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="2885879b" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-14b035c4 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="14b035c4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px" viewBox="0 0 40 40"><title>6C79444B-840B-467A-B96F-A525701CF7BE</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-1417.000000, -3892.000000)" fill="#020D26"><g id="Key-features" transform="translate(273.000000, 3709.000000)"><g id="Group-13" transform="translate(0.000000, 138.000000)"><g id="Group-11-Copy-6" transform="translate(1071.000000, 0.000000)"><g id="Page-1" transform="translate(73.000000, 45.000000)"><path d="M5.66037736,28.6792453 C8.77474879,28.6792453 11.3207547,31.2116627 11.3207547,34.3357411 C11.3207547,37.4598179 8.78231407,40 5.66037736,40 C2.53844065,40 1.35358391e-12,37.4520533 1.35358391e-12,34.3357411 C1.35358391e-12,31.2194273 2.53847944,28.6792453 5.66037736,28.6792453 Z M40,34.7169811 L40,36.2264151 L15.0943396,36.2264151 L15.0943396,34.7169811 L40,34.7169811 Z M25.6603774,30.9433962 L25.6603774,32.4528302 L15.0943396,32.4528302 L15.0943396,30.9433962 L25.6603774,30.9433962 Z M5.66037736,14.3396226 C8.77474879,14.3396226 11.3207547,16.8780633 11.3207547,20 C11.3207547,23.1219367 8.78231407,25.6603774 5.66037736,25.6603774 C2.53844065,25.6603774 1.35358391e-12,23.1219367 1.35358391e-12,20 C1.35358391e-12,16.8780633 2.53847944,14.3396226 5.66037736,14.3396226 Z M40,21.1320755 L40,22.6415094 L15.0943396,22.6415094 L15.0943396,21.1320755 L40,21.1320755 Z M25.6603774,16.6037736 L25.6603774,18.1132075 L15.0943396,18.1132075 L15.0943396,16.6037736 L25.6603774,16.6037736 Z M5.66037736,1.40687462e-12 C8.77474879,1.40687462e-12 11.3207547,2.53844065 11.3207547,5.66037736 C11.3207547,8.78231407 8.78231407,11.3207547 5.66037736,11.3207547 C2.53844065,11.3207547 1.35358391e-12,8.78231407 1.35358391e-12,5.66037736 C1.35358391e-12,2.53844065 2.53847944,1.40687462e-12 5.66037736,1.40687462e-12 Z M40,6.79245283 L40,8.30188679 L15.0943396,8.30188679 L15.0943396,6.79245283 L40,6.79245283 Z M25.6603774,2.26415094 L25.6603774,3.77358491 L15.0943396,3.77358491 L15.0943396,2.26415094 L25.6603774,2.26415094 Z" id="Combined-Shape"></path></g></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Extensive <br>Setup Guide						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div data-wpr-lazyrender="1" class="elementor-element elementor-element-60d9ea8d e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="60d9ea8d" data-element_type="container" data-e-type="container">
+					<div  class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-242563c6 e-con-full e-flex e-con e-child e-lazyloaded" data-id="242563c6" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-1edb74f6 e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="1edb74f6" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-64ef64d7 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="64ef64d7" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52px" height="46px" viewBox="0 0 52 46"><title>223B771E-197F-4237-BC5F-5F1A90975E8D</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-340.000000, -4107.000000)" fill="#020D26"><g id="Key-features" transform="translate(273.000000, 3709.000000)"><g id="Group-12" transform="translate(0.000000, 358.000000)"><g id="Group-11-Copy-5" transform="translate(0.000000, 10.000000)"><g id="Page-1" transform="translate(67.000000, 30.000000)"><path d="M20.125,1.0658141e-14 C22.4743925,1.0658141e-14 24.56331,1.1320025 25.875,2.879485 C27.18669,1.13206 29.2756075,1.0658141e-14 31.625,1.0658141e-14 L31.625,1.0658141e-14 L50.3125,1.0658141e-14 C51.10761,1.0658141e-14 51.75,0.64239 51.75,1.4375 L51.75,1.4375 L51.75,38.8125 C51.75,39.60761 51.10761,40.25 50.3125,40.25 L50.3125,40.25 L31.625,40.25 C29.2463975,40.25 27.3125,42.1838975 27.3125,44.5625 C27.3125,45.35761 26.67011,46 25.875,46 C25.07989,46 24.4375,45.35761 24.4375,44.5625 C24.4375,42.1838975 22.5036025,40.25 20.125,40.25 L20.125,40.25 L1.4375,40.25 C0.64239,40.25 1.0658141e-14,39.60761 1.0658141e-14,38.8125 L1.0658141e-14,38.8125 L1.0658141e-14,1.4375 C1.0658141e-14,0.64239 0.64239,1.0658141e-14 1.4375,1.0658141e-14 L1.4375,1.0658141e-14 Z M20.125,2.874885 L2.875,2.874885 L2.875,37.374885 L20.125,37.374885 C21.74443,37.374885 23.233565,37.9229175 24.4375,38.830325 L24.4375,38.830325 L24.4375,7.187385 C24.4375,4.8087825 22.5036025,2.874885 20.125,2.874885 L20.125,2.874885 Z M48.875,2.875 L31.625,2.875 C29.2463975,2.875 27.3125,4.8088975 27.3125,7.1875 L27.3125,7.1875 L27.3125,38.830325 C28.516435,37.922929 30.00557,37.374885 31.625,37.374885 L31.625,37.374885 L48.875,37.374885 L48.875,2.875 Z M20.125,30.1875 C20.92011,30.1875 21.5625,30.82989 21.5625,31.625 C21.5625,32.42011 20.92011,33.0625 20.125,33.0625 L20.125,33.0625 L7.1875,33.0625 C6.39239,33.0625 5.75,32.42011 5.75,31.625 C5.75,30.82989 6.39239,30.1875 7.1875,30.1875 L7.1875,30.1875 Z M44.5625,30.1875 C45.35761,30.1875 46,30.82989 46,31.625 C46,32.42011 45.35761,33.0625 44.5625,33.0625 L44.5625,33.0625 L31.625,33.0625 C30.82989,33.0625 30.1875,32.42011 30.1875,31.625 C30.1875,30.82989 30.82989,30.1875 31.625,30.1875 L31.625,30.1875 Z M20.125,24.4375 C20.92011,24.4375 21.5625,25.07989 21.5625,25.875 C21.5625,26.67011 20.92011,27.3125 20.125,27.3125 L20.125,27.3125 L7.1875,27.3125 C6.39239,27.3125 5.75,26.67011 5.75,25.875 C5.75,25.07989 6.39239,24.4375 7.1875,24.4375 L7.1875,24.4375 Z M44.5625,24.4375 C45.35761,24.4375 46,25.07989 46,25.875 C46,26.67011 45.35761,27.3125 44.5625,27.3125 L44.5625,27.3125 L31.625,27.3125 C30.82989,27.3125 30.1875,26.67011 30.1875,25.875 C30.1875,25.07989 30.82989,24.4375 31.625,24.4375 L31.625,24.4375 Z M20.125,18.6875 C20.92011,18.6875 21.5625,19.32989 21.5625,20.125 C21.5625,20.92011 20.92011,21.5625 20.125,21.5625 L20.125,21.5625 L7.1875,21.5625 C6.39239,21.5625 5.75,20.92011 5.75,20.125 C5.75,19.32989 6.39239,18.6875 7.1875,18.6875 L7.1875,18.6875 Z M44.5625,18.6875 C45.35761,18.6875 46,19.32989 46,20.125 C46,20.92011 45.35761,21.5625 44.5625,21.5625 L44.5625,21.5625 L31.625,21.5625 C30.82989,21.5625 30.1875,20.92011 30.1875,20.125 C30.1875,19.32989 30.82989,18.6875 31.625,18.6875 L31.625,18.6875 Z M20.125,12.9375 C20.92011,12.9375 21.5625,13.57989 21.5625,14.375 C21.5625,15.17011 20.92011,15.8125 20.125,15.8125 L20.125,15.8125 L7.1875,15.8125 C6.39239,15.8125 5.75,15.17011 5.75,14.375 C5.75,13.57989 6.39239,12.9375 7.1875,12.9375 L7.1875,12.9375 Z M44.5625,12.9375 C45.35761,12.9375 46,13.57989 46,14.375 C46,15.17011 45.35761,15.8125 44.5625,15.8125 L44.5625,15.8125 L31.625,15.8125 C30.82989,15.8125 30.1875,15.17011 30.1875,14.375 C30.1875,13.57989 30.82989,12.9375 31.625,12.9375 L31.625,12.9375 Z M20.125,7.1875 C20.92011,7.1875 21.5625,7.82989 21.5625,8.625 C21.5625,9.42011 20.92011,10.0625 20.125,10.0625 L20.125,10.0625 L7.1875,10.0625 C6.39239,10.0625 5.75,9.42011 5.75,8.625 C5.75,7.82989 6.39239,7.1875 7.1875,7.1875 L7.1875,7.1875 Z M44.5625,7.1875 C45.35761,7.1875 46,7.82989 46,8.625 C46,9.42011 45.35761,10.0625 44.5625,10.0625 L44.5625,10.0625 L31.625,10.0625 C30.82989,10.0625 30.1875,9.42011 30.1875,8.625 C30.1875,7.82989 30.82989,7.1875 31.625,7.1875 L31.625,7.1875 Z" id="help-articles"></path></g></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							100+ <br>Help Articles 						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-2a625d27 e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="2a625d27" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-6ffbf880 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="6ffbf880" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50"><title>371637C1-AACF-4C65-8E68-D50446867E24</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-557.000000, -4107.000000)" fill="#020D26"><g id="Key-features" transform="translate(273.000000, 3709.000000)"><g id="Group-12" transform="translate(0.000000, 358.000000)"><g id="Group-11-Copy-4" transform="translate(216.000000, 0.000000)"><g id="Page-1" transform="translate(68.000000, 40.000000)"><path d="M24.0127761,1.79634097 C29.5622206,1.79634097 34.6727206,3.69306319 38.7438872,6.86578542 L38.7438872,6.86578542 L38.6679317,7.04807431 C38.4769594,7.51029653 38.3944983,7.99424653 38.4205372,8.47601875 L38.4205372,8.47601875 L37.5134261,9.38312986 C33.837315,6.35574097 29.1344261,4.53718542 24.0128706,4.53718542 C12.2834261,4.53718542 2.73898333,14.0816299 2.73898333,25.8110743 C2.73898333,37.5405188 12.2834261,47.0849632 24.0128706,47.0849632 C35.742315,47.0849632 45.2867594,37.5405188 45.2867594,25.8110743 C45.2867594,20.7788521 43.5267594,16.1519076 40.5949261,12.5060743 L40.5949261,12.5060743 L41.5237594,11.577241 C41.5823539,11.5794076 41.6995428,11.5815799 41.6995428,11.5815799 C42.1270428,11.5815799 42.5502317,11.4969465 42.9538761,11.3298465 L42.9538761,11.3298465 L43.108115,11.2646743 C46.1918928,15.3035632 48.0300039,20.3447299 48.0300039,25.8091188 C48.0300039,39.051341 37.2572206,49.8241188 24.0149983,49.8241188 C10.7727761,49.8241188 -4.26325641e-14,39.051341 -4.26325641e-14,25.8091188 C-4.26325641e-14,12.5668965 10.7727761,1.79416875 24.0127761,1.79634097 Z M24.0149872,9.90840208 C27.6566539,9.90840208 31.0115983,11.1388465 33.6938761,13.2048465 L33.6938761,13.2048465 L31.736265,15.1626243 C29.5642094,13.5849576 26.8970983,12.6496243 24.0151539,12.6496243 C16.7601539,12.6496243 10.8551539,18.5529576 10.8551539,25.8096243 C10.8551539,33.066291 16.7579317,38.971291 24.0168206,38.971291 C31.2718206,38.971291 37.1768206,33.0679576 37.1768206,25.811291 C37.1768206,23.0184576 36.3000983,20.427291 34.8092094,18.2940688 L34.8092094,18.2940688 L36.7732094,16.3300688 C38.7480428,18.977291 39.917765,22.2608465 39.917765,25.8111799 C39.917765,34.5806243 32.7822094,41.7139576 24.0149872,41.7139576 C15.2455428,41.7139576 8.11220944,34.5784021 8.11220944,25.8111799 C8.11220944,17.0417354 15.247765,9.90840208 24.0149872,9.90840208 Z M24.0176539,18.406791 C25.3089317,18.406791 26.5220428,18.738791 27.5788761,19.3204021 L27.5788761,19.3204021 L22.643765,24.2595132 C22.2292983,24.6740132 22.0014317,25.2252354 22.0014317,25.8111799 C22.0014317,26.3971243 22.2292706,26.9461854 22.643765,27.3606799 C23.0560983,27.7751465 23.6073206,28.0030132 24.193265,28.0030132 C24.7770428,28.0030132 25.3282706,27.7751743 25.742765,27.3606799 L25.742765,27.3606799 L30.6234317,22.4800132 C31.1290761,23.4826243 31.4198761,24.6111243 31.4198761,25.8090132 C31.4198761,29.8974576 28.1060983,33.2112354 24.0176539,33.2112354 C19.9292094,33.2112354 16.6154317,29.8974576 16.6154317,25.8090132 C16.6154317,21.7205688 19.9290983,18.406791 24.0176539,18.406791 Z M48.1277928,0.320652083 C48.557515,-0.106864583 49.2519428,-0.106903472 49.6794594,0.320652083 C50.1069761,0.748207639 50.1069761,1.44263542 49.6794594,1.87015208 L49.6794594,1.87015208 L48.143015,3.40659653 L48.4359817,3.69956319 C49.8422594,5.10578542 49.3669817,7.49078542 47.5288706,8.25034097 L47.5288706,8.25034097 L42.5353706,10.3141188 C42.0535928,10.5116021 41.5740039,10.5246243 41.1421483,10.4074354 L41.1421483,10.4074354 L24.9660372,26.5835465 C24.7533706,26.798391 24.471265,26.9047299 24.191315,26.9047299 C23.9113817,26.9047299 23.6314372,26.798391 23.4165928,26.5835465 C22.9890761,26.155991 22.9890761,25.4615632 23.4165928,25.0340465 L23.4165928,25.0340465 L39.5904817,8.85793542 C39.4732928,8.42610208 39.4841428,7.94648542 39.6837983,7.46471319 L39.6837983,7.46471319 L41.7475761,2.47121319 C42.5071317,0.633102083 44.8921317,0.157879861 46.2983539,1.56410208 L46.2983539,1.56410208 L46.5913206,1.85706875 Z" id="niche-design"></path></g></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Niche Specific Design and Functionality 						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-4c8bef7a e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="4c8bef7a" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-44420001 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="44420001" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 83.5 83.5" style="enable-background:new 0 0 83.5 83.5;" xml:space="preserve"> <style type="text/css"> .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#020D26;} </style> <title>371637C1-AACF-4C65-8E68-D50446867E24</title> <g id="Page-1"> <g id="Landingpage" transform="translate(-755.000000, -4127.000000)"> <g id="Key-features" transform="translate(273.000000, 3709.000000)"> <g id="Group-12" transform="translate(0.000000, 358.000000)"> <g id="Group-11-Copy-9" transform="translate(428.000000, 0.000000)"> <path id="no-code" class="st0" d="M63.8,107.3v-3.1l-5.5-1.9l5.5-1.9v-3.1l-9.2,3.3v3.2L63.8,107.3z M76.5,108.7v-7l5.9,7h4.3 V93.3h-5.1v7l-5.9-7h-4.3v15.4H76.5z M97.2,109.1c1.7,0,3.1-0.3,4.5-1s2.4-1.6,3.1-2.9c0.7-1.2,1.1-2.6,1.1-4.1 s-0.4-2.9-1.1-4.1c-0.7-1.2-1.8-2.2-3.1-2.9c-1.3-0.7-2.8-1-4.5-1s-3.1,0.3-4.5,1c-1.3,0.7-2.4,1.6-3.1,2.9 c-0.7,1.2-1.1,2.6-1.1,4.1s0.4,2.9,1.1,4.1c0.7,1.2,1.8,2.2,3.1,2.9S95.5,109.1,97.2,109.1z M97.2,104.9 c-0.6,0-1.2-0.2-1.7-0.5s-0.9-0.8-1.2-1.3c-0.3-0.6-0.5-1.3-0.5-2c0-0.8,0.2-1.5,0.5-2c0.3-0.6,0.7-1,1.2-1.3 c0.5-0.3,1.1-0.5,1.7-0.5s1.2,0.2,1.7,0.5c0.5,0.3,0.9,0.8,1.2,1.3c0.3,0.6,0.5,1.3,0.5,2c0,0.8-0.2,1.5-0.5,2 c-0.3,0.6-0.7,1-1.2,1.3S97.8,104.9,97.2,104.9z M111.9,102.8l1-9.5H107l1,9.5H111.9z M109.9,108.9c0.9,0,1.5-0.3,2.1-0.8 c0.5-0.5,0.8-1.1,0.8-1.9c0-0.7-0.3-1.4-0.8-1.9s-1.2-0.7-2.1-0.7c-0.9,0-1.5,0.2-2.1,0.7s-0.8,1.1-0.8,1.9 c0,0.7,0.3,1.4,0.8,1.9C108.4,108.7,109.1,108.9,109.9,108.9z M121.7,110.5l5.9-17H124l-5.9,17H121.7z M127.7,107.3l9.2-3.3 v-3.2l-9.2-3.3v3.1l5.5,1.9l-5.5,1.9V107.3z"></path> </g> </g> </g> </g> </g> </svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							No Coding Knowledge Required						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-1bc4796e e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="1bc4796e" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-19e58512 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="19e58512" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="47px" viewBox="0 0 50 47"><title>3DBAF7B6-F31C-4D3D-8E1C-27CD51D784B3</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-985.000000, -4106.000000)" fill="#020D26"><g id="Key-features" transform="translate(273.000000, 3709.000000)"><g id="Group-12" transform="translate(0.000000, 358.000000)"><g id="Group-11-Copy-8" transform="translate(643.000000, 0.000000)"><path d="M94,39.0015646 C80.2131548,39.0015646 69,50.2178484 69,64.0046937 C69,72.6660617 73.3854434,80.5889605 80.7294574,85.1950059 C81.4601039,85.6581138 82.4254334,85.4328181 82.8854121,84.700607 C83.3453908,83.968396 83.1232242,83.0030665 82.3910132,82.5446524 C79.7453533,80.8846611 77.5487202,78.7287064 75.8668252,76.2441955 L77.5064773,75.2976407 C78.2558984,74.8658239 78.5124851,73.9098817 78.0791038,73.1604606 C77.6457225,72.4094749 76.6882158,72.1560173 75.9419238,72.587834 L74.2991426,73.5359534 C73.1053883,71.0655235 72.377871,68.3635396 72.1823018,65.5457788 L73.9236498,65.5457788 C74.7872833,65.5457788 75.4882033,64.8448589 75.4882033,63.9812254 C75.4882033,63.1175918 74.7888479,62.4166719 73.9236498,62.4166719 L72.1901245,62.4166719 C72.3966456,59.5472808 73.1570186,56.8280869 74.3695475,54.3701734 L75.9419238,55.2776144 C76.1875587,55.4199887 76.4566619,55.4872645 76.722636,55.4872645 C77.2639715,55.4872645 77.7880969,55.2072095 78.0791038,54.7049878 C78.5124851,53.9555667 78.2543338,52.9996245 77.5064773,52.5678077 L75.9497465,51.6697541 C77.5189937,49.3808123 79.5122348,47.4016522 81.8168221,45.8496151 L82.6976657,47.3750548 C82.9871081,47.878841 83.512798,48.1573315 84.0541336,48.1573315 C84.3201076,48.1573315 84.5892108,48.0900557 84.8348457,47.9476813 C85.5842669,47.5143 85.8408536,46.5583578 85.4074723,45.8105013 L84.5297578,44.2913199 C86.9422993,43.1272921 89.5989111,42.4013393 92.3994618,42.1979473 L92.3994618,44.1473809 C92.3994618,45.012579 93.0988172,45.7119344 93.9640153,45.7119344 C94.8292133,45.7119344 95.5285687,45.012579 95.5285687,44.1473809 L95.5285687,42.1916891 C98.3932662,42.3903874 101.109331,43.1398085 103.56568,44.339821 L102.716127,45.8089367 C102.284311,46.5583578 102.539333,47.5143 103.288754,47.9461168 C103.534389,48.0884911 103.803492,48.1557669 104.069466,48.1557669 C104.610802,48.1557669 105.134927,47.8772764 105.425934,47.3734902 L106.270793,45.9090682 C108.553476,47.4626698 110.527943,49.4371362 112.083109,51.7182552 L110.618687,52.5646786 C109.869266,52.99806 109.614244,53.9524376 110.04606,54.7018587 C110.337067,55.2056449 110.861193,55.4841354 111.402528,55.4841354 C111.668502,55.4841354 111.937606,55.4168596 112.183241,55.2744853 L113.65705,54.4249327 C114.858627,56.8828462 115.609613,59.5989111 115.81144,62.4636085 L114.09356,62.4636085 C113.229927,62.4636085 112.529007,63.1645284 112.529007,64.028162 C112.529007,64.8917955 113.229927,65.5927154 114.09356,65.5927154 L115.81144,65.5927154 C115.612742,68.372927 114.902434,71.0404906 113.733713,73.4796295 L112.184805,72.5847049 C111.438513,72.1528882 110.477877,72.4110395 110.047625,73.1573315 C109.615808,73.9067526 109.87083,74.8626948 110.620252,75.2945115 L112.173853,76.1910007 C110.457538,78.7459165 108.192065,80.9519369 105.457225,82.6353965 C104.72032,83.089117 104.49346,84.0544465 104.945616,84.788222 C105.241317,85.2669754 105.75449,85.5329495 106.278616,85.5329495 C106.557106,85.5329495 106.841855,85.4578509 107.096877,85.3013956 C114.55041,80.7109957 119,72.7474185 119,64.0015646 C119,50.2162839 107.783716,39 93.9984354,39 L94,39.0015646 Z M105.54484,59.1264159 C106.292697,58.6930346 106.549283,57.738657 106.117467,56.9892359 C105.68565,56.2398148 104.728143,55.9847925 103.980287,56.4166093 L95.4816321,61.323049 C95.0279116,61.0664622 94.511609,60.9084423 93.9530634,60.9084423 C92.2289255,60.9084423 90.8317792,62.3055886 90.8317792,64.028162 C90.8317792,65.7522999 92.2289255,67.1494461 93.9530634,67.1494461 C95.6772013,67.1494461 97.0743476,65.7522999 97.0743476,64.028162 L97.0743476,64.0187746 L105.546405,59.1264159 L105.54484,59.1264159 Z" id="perrformance"></path></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Exceptional Page-Load Performance						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-67abe775 e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="67abe775" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-6d6fb94e elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="6d6fb94e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50"><title>C8932F07-351D-41B7-AE78-EFD3BCEF3F74</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-1199.000000, -4106.000000)" fill="#020D26"><g id="Key-features" transform="translate(273.000000, 3709.000000)"><g id="Group-12" transform="translate(0.000000, 358.000000)"><g id="Group-11-Copy-11" transform="translate(858.000000, 0.000000)"><g id="Page-1" transform="translate(68.000000, 39.000000)"><path d="M20.7598734,20.1914937 C21.1381013,19.8107595 21.7092152,19.6846709 22.2778481,19.8107595 L22.2778481,19.8107595 L48.7342658,27.2795949 C49.3671835,27.4675063 49.8097215,28.0385823 49.8789494,28.6714937 C49.9407215,29.3044051 49.4981899,29.9372911 48.8652785,30.1894684 L48.8652785,30.1894684 L35.7000886,35.1266835 L30.5724937,48.4823797 C30.3821139,49.1153165 29.7492025,49.4960506 29.1162911,49.4960506 L29.1162911,49.4960506 L29.0520127,49.4960506 C28.3547975,49.4960506 27.7861772,48.9892152 27.5958101,48.3563038 L27.5958101,48.3563038 L20.3173291,21.7094684 C20.1912405,21.2051646 20.3791392,20.5722278 20.7598734,20.1914937 Z M12.1512658,27.5316456 C12.7841772,26.8987342 13.7978481,26.8987342 14.4307595,27.5316456 C15.0636709,28.1002532 15.0636709,29.1139241 14.4307595,29.7468354 L14.4307595,29.7468354 L11.0758228,33.1017722 C10.7593671,33.4182278 10.3786076,33.5443165 9.93607595,33.5443165 C9.4935443,33.5443165 9.11278481,33.4182278 8.79632911,33.1017722 C8.16341772,32.5331646 8.16341772,31.5194937 8.79632911,30.8865823 L8.79632911,30.8865823 Z M12.5322785,19.1132911 C13.4173418,19.1132911 14.114557,19.8105063 14.114557,20.6955696 C14.114557,21.5831013 13.4173418,22.2778481 12.5322785,22.2778481 L12.5322785,22.2778481 L2.08924051,22.2778481 C1.20417722,22.2778481 0.506962658,21.5806329 0.506962658,20.6955696 C0.506962658,19.8105063 1.20417722,19.1132911 2.08924051,19.1132911 L2.08924051,19.1132911 Z M31.4983388,8.24880382 C32.0800898,7.72320266 33.0130529,7.75824274 33.6087342,8.35392405 C34.2416456,8.92253165 34.2416456,9.93620253 33.6087342,10.5691139 L33.6087342,10.5691139 L30.2537975,13.9240506 C29.9373418,14.2405063 29.6208987,14.3665949 29.1783544,14.3665949 C28.7358228,14.3665949 28.3550633,14.2405063 28.0386076,13.9240506 C27.4056962,13.355443 27.4056962,12.3417722 28.0386076,11.7088608 L28.0386076,11.7088608 Z M8.92531646,8.29240506 C9.49392405,7.65949367 10.5075949,7.65949367 11.1405063,8.29240506 L11.1405063,8.29240506 L14.5597468,11.6473418 C15.1926582,12.2159494 15.1926582,13.2296203 14.5597468,13.8625316 C14.2432911,14.1789873 13.8625316,14.3050759 13.42,14.3050759 C12.9774684,14.3050759 12.5967089,14.1789873 12.2802532,13.8625316 L12.2802532,13.8625316 L8.82019622,10.4028005 C8.29459507,9.82104945 8.32963515,8.88808637 8.92531646,8.29240506 Z M21.393038,-8.79296636e-13 C22.2781013,-8.79296636e-13 22.9753165,0.69721519 22.9753165,1.58227848 L22.9753165,1.58227848 L22.9753165,12.0253165 C22.9753165,12.9103797 22.2781013,13.6075949 21.393038,13.6075949 C20.5055063,13.6075949 19.8107595,12.9103797 19.8107595,12.0253165 L19.8107595,12.0253165 L19.8107595,1.58227848 C19.8107595,0.69721519 20.5079747,-8.79296636e-13 21.393038,-8.79296636e-13 Z" id="on-click-demo"></path></g></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							One-Click Demo Content Installer						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-5dc9b204 e-con-full e-flex elementor-invisible e-con e-child e-lazyloaded" data-id="5dc9b204" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-2df0bd00 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="2df0bd00" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="38px" viewBox="0 0 48 38"><title>5ED38025-F5B6-4241-9FFD-8A00B1035FE3</title><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Landingpage" transform="translate(-1413.000000, -4114.000000)" fill="#020D26"><g id="Key-features" transform="translate(273.000000, 3709.000000)"><g id="Group-12" transform="translate(0.000000, 358.000000)"><g id="Group-11-Copy-10" transform="translate(1071.000000, 0.000000)"><g id="Page-1" transform="translate(69.000000, 47.000000)"><path d="M37.1107556,8 L48,38 L43.3333333,38 L40.2222222,28.9916318 L27.7777778,28.9916318 L24.6666667,38 L20,38 L30.8885333,8 L37.1107556,8 Z M15.3374863,1.38777878e-17 L15.3374863,5.95801562 L26,5.95801562 L26,10.4612237 L15.2638647,10.4612237 C16.7976484,16.4928166 19.5009641,19.1081226 22.5685315,22.0857355 L22.5685315,22.0857355 L20.9611262,26.5129254 C17.967531,23.6061001 15.3381875,20.4105449 13.8044038,16.487586 L13.804,16.488 L13.6966399,16.8232133 C12.0732195,21.7350643 8.55422459,26.1740015 1.9866603,29.7570332 L1.53413427,30 L0.00035057913,25.4967919 C7.37583431,21.7914264 9.20270216,18.0156221 10.7364858,12.0576065 C10.8816466,11.40378 10.9555978,10.5320113 10.9555978,10.5320113 L10.9555978,10.5320113 L-1.38777878e-17,10.5320113 L-1.38777878e-17,6.02880324 L10.7361353,6.02880324 L10.7361353,1.38777878e-17 L15.3374863,1.38777878e-17 Z M33.5,13 L29,24.9271381 L38,25 L33.5,13 Z" id="translation"></path></g></g></g></g></g></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Translation<br>Ready						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div data-wpr-lazyrender="1" class="elementor-element elementor-element-591a904e e-flex e-con-boxed e-con e-child e-lazyloaded" data-id="591a904e" data-element_type="container" data-e-type="container">
+					<div  class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-751120c0 e-con-full e-flex e-con e-child e-lazyloaded" data-id="751120c0" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-25768149 elementor-widget elementor-widget-heading" data-id="25768149" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Icons</h2>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-78b32037 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="78b32037" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>Custom created icons crafted for your personal needs.</p>								</div>
+				</div>
+		<div class="elementor-element elementor-element-3a4114fa e-con-full e-flex e-con e-child e-lazyloaded" data-id="3a4114fa" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-288004a8 e-con-full e-flex e-con e-child e-lazyloaded" data-id="288004a8" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-3ef86356 e-con-full e-flex e-con e-child e-lazyloaded" data-id="3ef86356" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-64c39424 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="64c39424" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-automation"></i>			</div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-522262bd e-con-full e-flex e-con e-child e-lazyloaded" data-id="522262bd" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-763bf0a9 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="763bf0a9" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-data"></i>			</div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-39b25817 e-con-full e-flex e-con e-child e-lazyloaded" data-id="39b25817" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-46f586fc elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="46f586fc" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-agent"></i>			</div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-348d7e1e e-con-full e-flex e-con e-child e-lazyloaded" data-id="348d7e1e" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-116d50b1 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="116d50b1" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-ticketing"></i>			</div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-5524ec55 e-con-full e-flex e-con e-child e-lazyloaded" data-id="5524ec55" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-4d43e8b2 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="4d43e8b2" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-collaboration"></i>			</div>
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7ff08e1f e-con-full e-flex e-con e-child e-lazyloaded" data-id="7ff08e1f" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-4fa235b3 e-con-full e-flex e-con e-child e-lazyloaded" data-id="4fa235b3" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-1391bea5 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="1391bea5" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-monitoring"></i>			</div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-35a27759 e-con-full e-flex e-con e-child e-lazyloaded" data-id="35a27759" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-66e3d651 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="66e3d651" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-decision-tree"></i>			</div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-75887306 e-con-full e-flex e-con e-child e-lazyloaded" data-id="75887306" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-15e980bf elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="15e980bf" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-chip"></i>			</div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-3bec84f6 e-con-full e-flex e-con e-child e-lazyloaded" data-id="3bec84f6" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-5547822c elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="5547822c" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-chart"></i>			</div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-16b217a2 e-con-full e-flex e-con e-child e-lazyloaded" data-id="16b217a2" data-element_type="container" data-e-type="container">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-11de9f53 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="11de9f53" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-idea"></i>			</div>
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-73845a1d e-flex e-con-boxed e-con e-child e-lazyloaded" data-id="73845a1d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div  class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-187511e1 e-con-full e-flex e-con e-child e-lazyloaded" data-id="187511e1" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-48e9fadf e-con-full e-flex e-con e-child e-lazyloaded" data-id="48e9fadf" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-31911d90 e-con-full e-flex e-con e-child e-lazyloaded" data-id="31911d90" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6566c7fe elementor-widget elementor-widget-heading" data-id="6566c7fe" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Compatible Plugins</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-2818bee7 elementor-hidden-phone e-con-full e-flex e-con e-child e-lazyloaded" data-id="2818bee7" data-element_type="container" data-e-type="container">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4318b09b e-con-full e-flex e-con e-child e-lazyloaded" data-id="4318b09b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-56170f4b e-con-full e-flex e-con e-child e-lazyloaded" data-id="56170f4b" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-6b5db77 elementor-widget elementor-widget-image" data-id="6b5db77" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="100" height="100" src="/assets/images/img_013.svg" class="attachment-full size-full wp-image-12655" alt="" />															</div>
+				<div class="elementor-element elementor-element-3463d129 elementor-widget elementor-widget-heading" data-id="3463d129" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Elementor<br>
+Page Builder</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-2bf28536 e-con-full e-flex e-con e-child e-lazyloaded" data-id="2bf28536" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-27827e9c elementor-widget elementor-widget-image" data-id="27827e9c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="94" height="99" src="/assets/images/img_014.svg" class="attachment-large size-large wp-image-12656" alt="" />															</div>
+				<div class="elementor-element elementor-element-2fd3f9f4 elementor-widget elementor-widget-heading" data-id="2fd3f9f4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Elementor PRO 
+<br>
+Page Builder</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-437f6f0f e-con-full e-flex e-con e-child e-lazyloaded" data-id="437f6f0f" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-bd21583 elementor-widget elementor-widget-image" data-id="bd21583" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="200" height="200" src="/assets/images/img_015.png" class="attachment-large size-large wp-image-12596" alt="" srcset="/assets/images/img_015.png 200w, /assets/images/img_042.png 150w" sizes="(max-width: 200px) 100vw, 200px" />															</div>
+				<div class="elementor-element elementor-element-1c37cd0a elementor-widget elementor-widget-heading" data-id="1c37cd0a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">All-in-One WP Migration</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-5ec69bf8 e-con-full e-flex e-con e-child e-lazyloaded" data-id="5ec69bf8" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-56d69c5a elementor-widget elementor-widget-image" data-id="56d69c5a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="100" height="100" src="/assets/images/img_016.svg" class="attachment-large size-large wp-image-12597" alt="" />															</div>
+				<div class="elementor-element elementor-element-278b87cb elementor-widget elementor-widget-heading" data-id="278b87cb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Rank Math 
+<br>
+SEO</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-6f68f1c0 elementor-hidden-mobile e-con-full e-flex e-con e-child e-lazyloaded" data-id="6f68f1c0" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1351bfd4 elementor-widget elementor-widget-image" data-id="1351bfd4" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="400" height="401" src="/assets/images/img_017.svg" class="attachment-full size-full wp-image-12598" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-728aaa14 e-con-full e-flex e-con e-child e-lazyloaded" data-id="728aaa14" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-695605fa e-con-full e-flex e-con e-child e-lazyloaded" data-id="695605fa" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-608fcd6a elementor-widget elementor-widget-image" data-id="608fcd6a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="152" height="184" src="/assets/images/img_018.png" class="attachment-full size-full wp-image-12599" alt="" />															</div>
+				<div class="elementor-element elementor-element-ffa76e elementor-widget elementor-widget-heading" data-id="ffa76e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Yoast SEO</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-35167167 e-con-full e-flex e-con e-child e-lazyloaded" data-id="35167167" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1cc376bc elementor-widget elementor-widget-image" data-id="1cc376bc" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="200" height="178" src="/assets/images/img_019.png" class="attachment-full size-full wp-image-12600" alt="" />															</div>
+				<div class="elementor-element elementor-element-60f6467 elementor-widget elementor-widget-heading" data-id="60f6467" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Contact Form WPForms
+</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-4e6ba80a e-con-full e-flex e-con e-child e-lazyloaded" data-id="4e6ba80a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-51def21d elementor-widget elementor-widget-image" data-id="51def21d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="110" height="19" src="/assets/images/img_020.svg" class="attachment-large size-large wp-image-12601" alt="" />															</div>
+				<div class="elementor-element elementor-element-2d4a9963 elementor-widget elementor-widget-heading" data-id="2d4a9963" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Akismet <br>
+Anti-spam</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-7a8c8426 e-con-full e-flex e-con e-child e-lazyloaded" data-id="7a8c8426" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-5ce85095 elementor-widget elementor-widget-image" data-id="5ce85095" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="112" height="89" src="/assets/images/img_021.svg" class="attachment-large size-large wp-image-12602" alt="" />															</div>
+				<div class="elementor-element elementor-element-6c834f2 elementor-widget elementor-widget-heading" data-id="6c834f2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Wordfence Security
+Firewall &amp; Malware</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-255a4dbc e-con-full e-flex e-con e-child e-lazyloaded" data-id="255a4dbc" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-5c048209 elementor-widget elementor-widget-image" data-id="5c048209" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="100" height="91" src="/assets/images/img_022.svg" class="attachment-large size-large wp-image-12603" alt="" />															</div>
+				<div class="elementor-element elementor-element-2fd25030 elementor-widget elementor-widget-heading" data-id="2fd25030" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">WP Multilingual 
+<br>
+Plugin</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-90fbce0 e-con-full e-flex e-con e-child e-lazyloaded" data-id="90fbce0" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-7f12b25f elementor-widget elementor-widget-image" data-id="7f12b25f" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="146" height="200" src="/assets/images/img_023.png" class="attachment-large size-large wp-image-12604" alt="" />															</div>
+				<div class="elementor-element elementor-element-176efef8 elementor-widget elementor-widget-heading" data-id="176efef8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Really Simple SSL
+</p>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3615a676 e-con-full e-flex e-con e-child e-lazyloaded" data-id="3615a676" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-5788e2d8 e-con-full e-flex e-con e-child e-lazyloaded" data-id="5788e2d8" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-46fc30fa elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="46fc30fa" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="137" height="83" src="/assets/images/img_024.png" class="attachment-large size-large wp-image-12605" alt="" />															</div>
+				<div class="elementor-element elementor-element-711031a1 elementor-widget elementor-widget-heading" data-id="711031a1" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Loco Translate</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-12fdbfd1 e-con-full e-flex e-con e-child e-lazyloaded" data-id="12fdbfd1" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-7092d855 elementor-widget elementor-widget-image" data-id="7092d855" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="200" height="200" src="/assets/images/img_025.png" class="attachment-large size-large wp-image-12606" alt="" srcset="/assets/images/img_025.png 200w, /assets/images/img_043.png 150w" sizes="(max-width: 200px) 100vw, 200px" />															</div>
+				<div class="elementor-element elementor-element-1822490c elementor-widget elementor-widget-heading" data-id="1822490c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Limit Login<br>
+Attempts Reloaded</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-4c4ef1d6 e-con-full e-flex e-con e-child e-lazyloaded" data-id="4c4ef1d6" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-43ecd4c5 elementor-widget elementor-widget-image" data-id="43ecd4c5" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="100" height="101" src="/assets/images/img_026.svg" class="attachment-large size-large wp-image-12607" alt="" />															</div>
+				<div class="elementor-element elementor-element-4eca8ec3 elementor-widget elementor-widget-heading" data-id="4eca8ec3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Site Kit 
+<br>
+by Google</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-20014bc1 e-con-full e-flex e-con e-child e-lazyloaded" data-id="20014bc1" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-780630fa elementor-widget elementor-widget-image" data-id="780630fa" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="300" height="300" src="/assets/images/img_027.png" class="attachment-large size-large wp-image-12608" alt="" srcset="/assets/images/img_027.png 300w, /assets/images/img_044.png 150w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
+				<div class="elementor-element elementor-element-1555c4d7 elementor-widget elementor-widget-heading" data-id="1555c4d7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Advanced Custom Fields</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-3cbd91e3 e-con-full e-flex e-con e-child e-lazyloaded" data-id="3cbd91e3" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-34836ba5 elementor-widget elementor-widget-image" data-id="34836ba5" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="100" height="100" src="/assets/images/img_028.svg" class="attachment-large size-large wp-image-12609" alt="" />															</div>
+				<div class="elementor-element elementor-element-30567cbb elementor-widget elementor-widget-heading" data-id="30567cbb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Cookie Notice for 
+<br>GTPR &amp; CCPA</p>				</div>
+				</div>
+		<div class="elementor-element elementor-element-23785c07 e-con-full e-flex e-con e-child e-lazyloaded" data-id="23785c07" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-30c2fef6 elementor-widget elementor-widget-image" data-id="30c2fef6" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="200" height="200" src="/assets/images/img_029.png" class="attachment-large size-large wp-image-12610" alt="" srcset="/assets/images/img_029.png 200w, /assets/images/img_045.png 150w" sizes="(max-width: 200px) 100vw, 200px" />															</div>
+				<div class="elementor-element elementor-element-5ea0c958 elementor-widget elementor-widget-heading" data-id="5ea0c958" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">LiteSpeed 
+<br>
+Cache</p>				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3b85bbdf e-flex e-con-boxed e-con e-child e-lazyloaded" data-id="3b85bbdf" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+					<div  class="e-con-inner e-lazyloaded">
+		<div class="elementor-element elementor-element-61d7d5d1 e-con-full e-flex e-con e-child e-lazyloaded" data-id="61d7d5d1" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateX_direction&quot;:&quot;negative&quot;,&quot;background_motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;background_motion_fx_devices&quot;:[&quot;desktop&quot;],&quot;background_motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}}}">
+				<div class="elementor-element elementor-element-645d7b84 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="645d7b84" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h3 class="elementor-heading-title elementor-size-default">Lovely niche theme.</h3>				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-47f142b1 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="47f142b1" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>It has purpose-oriented design design and it is suitable for users with zero programming skills as well as advanced developers.</p>								</div>
+		<div class="elementor-element elementor-element-4cf294fe e-flex e-con-boxed e-con e-child e-lazyloaded" data-id="4cf294fe" data-element_type="container" data-e-type="container" data-settings="{&quot;position&quot;:&quot;absolute&quot;}">
+					<div class="e-con-inner e-lazyloaded">
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-50f92d8d elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="50f92d8d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									©2026								</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-77ebde4 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="77ebde4" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p><a href="/" target="_blank" rel="noopener">Automated Business Suite. All rights reserved.</a></p>								</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-775cd16 animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="775cd16" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="/services" target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-arrow-right"></i>			</span>
+									<span class="elementor-button-text">Explore theme</span>
+					</span>
+					</a>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		
+<div  id="scroll-to-top" class="vamtam-scroll-to-top">
+    <div  id="scroll-to-top-text">top</div>
+</div>
+
+
+
+	
+		
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+5:["slug","landing-page","c"]
+7:T46a,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://abusinesssuite.com/#organization","name":"Automated Business Suite","url":"https://abusinesssuite.com","logo":{"@type":"ImageObject","@id":"https://abusinesssuite.com/#logo","url":"https://abusinesssuite.com/icon.svg","caption":"Automated Business Suite"},"description":"Enterprise workflow automation, data orchestration, and autonomous AI systems built for modern teams.","sameAs":["https://twitter.com/abusinesssuite","https://linkedin.com/company/abusinesssuite"]},{"@type":"WebSite","@id":"https://abusinesssuite.com/#website","url":"https://abusinesssuite.com","name":"Automated Business Suite","publisher":{"@id":"https://abusinesssuite.com/#organization"},"inLanguage":"en-US"},{"@type":"SoftwareApplication","@id":"https://abusinesssuite.com/#software","name":"Automated Business Suite","applicationCategory":"BusinessApplication","operatingSystem":"All","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"description":"Enterprise-grade workflow automation, real-time data orchestration, and autonomous AI micro-SaaS agents."}]}0:["L7p9EZA6k5kndl-t30gjK",[[["",{"children":[["slug","landing-page","c"],{"children":["__PAGE__?{\"slug\":[\"landing-page\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","landing-page","c"],{"children":["__PAGE__",{},[["$L1",[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"},"style":{"display":"none"}}],["$","div",null,{"className":"wp-singular page-template page-template-elementor_canvas page page-id-12493 wp-custom-logo wp-embed-responsive wp-theme-Automated Business Suite full header-layout-logo-menu has-page-header no-middle-header responsive-layout vamtam-is-elementor elementor-active elementor-pro-active vamtam-wc-cart-empty wc-product-gallery-slider-active vamtam-font-smoothing layout-full elementor-default elementor-template-canvas elementor-kit-4 elementor-page elementor-page-12493","dangerouslySetInnerHTML":{"__html":"$3"}}]],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/02f20835678e5f66.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en-US","className":"no-js","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,700&family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"alternate icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","link",null,{"rel":"manifest","href":"/site.webmanifest"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$7"}}],["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtag/js?id=G-RZTBPB060E"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              window.dataLayer = window.dataLayer || [];\n              function gtag(){dataLayer.push(arguments);}\n              gtag('js', new Date());\n              gtag('config', 'G-RZTBPB060E');\n            "}}],["$","script",null,{"src":"/assets/js/script_024.js","defer":true}],["$","script",null,{"src":"/assets/js/script_006.js","defer":true}]]}],["$","body",null,{"className":"wp-custom-logo wp-embed-responsive wp-theme-aifusionx full header-layout-logo-menu has-page-header no-middle-header responsive-layout vamtam-is-elementor elementor-active elementor-pro-active vamtam-wc-cart-empty wc-product-gallery-slider-active vamtam-font-smoothing layout-full elementor-default elementor-kit-4","children":[["$","$L8",null,{}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Landing Page — Automated Business Suite"}],["$","meta","3",{"name":"description","content":"Enterprise workflow automation, data orchestration, and autonomous AI systems built for modern teams."}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"use-credentials"}],["$","link","5",{"rel":"canonical","href":"https://abusinesssuite.com/landing-page/"}],["$","meta","6",{"property":"og:title","content":"Landing Page — Automated Business Suite"}],["$","meta","7",{"property":"og:description","content":"Enterprise workflow automation, data orchestration, and autonomous AI systems built for modern teams."}],["$","meta","8",{"property":"og:url","content":"https://abusinesssuite.com/landing-page/"}],["$","meta","9",{"property":"og:site_name","content":"Automated Business Suite"}],["$","meta","10",{"property":"og:image","content":"https://abusinesssuite.com/assets/images/GettyImages-2130152566.jpg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Landing Page — Automated Business Suite"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Automated Business Suite — AI Platform & Workflow Automation"}],["$","meta","17",{"name":"twitter:description","content":"Enterprise workflow automation, data orchestration, and autonomous AI systems built for modern teams."}],["$","meta","18",{"name":"twitter:image","content":"https://abusinesssuite.com/assets/images/GettyImages-2130152566.jpg"}],["$","link","19",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","20",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","21",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","22",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180","type":"image/png"}]]
+1:null

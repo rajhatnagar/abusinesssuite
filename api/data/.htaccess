@@ -1,0 +1,5 @@
+# Deny direct access to all lead database files
+Order Deny,Allow
+Deny from all
+Require all denied
+

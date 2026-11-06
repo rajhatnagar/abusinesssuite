@@ -1,0 +1,43 @@
+@media (max-width: 1024px) {
+body.responsive-layout #scroll-to-top {
+  bottom: 20px;
+}
+body.responsive-layout .page-wrapper {
+  flex-direction: column;
+}
+.woocommerce-demo-store .demo_store .woocommerce-store-notice__dismiss-link::before {
+  position: absolute;
+  right: 20px;
+}
+body:not(.elementor-editor-active) .vamtam-sticky-header.vamtam-sticky-header--mobile {
+  position: fixed;
+  left: 0;
+  right: 0;
+  -webkit-backdrop-filter: saturate(180%) blur(40px);
+          backdrop-filter: saturate(180%) blur(40px);
+  top: calc(var(--vamtam-sticky-offset, 0px) + var(--wp-admin--admin-bar--height, 0px));
+  z-index: 100;
+}
+body:not(.elementor-editor-active) .vamtam-sticky-header.vamtam-sticky-header--mobile:is(.vamtam-sticky-header--spacer, .elementor-sticky__spacer) {
+  position: static !important;
+  -webkit-animation: none !important;
+          animation: none !important;
+  transform: none !important;
+  transition: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  will-change: auto !important;
+}
+body:not(.elementor-editor-active) .vamtam-sticky-header:not(.vamtam-sticky-header--mobile):is(.vamtam-sticky-header--spacer, .elementor-sticky__spacer) {
+  display: none;
+}
+#wpadminbar.vamtam-sticky-mobile-header {
+  position: fixed !important;
+}
+/* --- Widgets --- */
+[data-element_type="container"].vamtam-has-theme-cp.vamtam-cp-top-bot-left {
+  -webkit-clip-path: polygon(0.402834px 0px, 0.402834px 0px, 0.43458257px 1.0528448px, 0.71682876px 3.9105664px, 1.53007331px 8.1219456px, 3.15481693px 13.2357632px, 5.87156036px 18.8008px, 9.96080432px 24.3658368px, 15.70304954px 29.4796544px, 23.37879674px 33.6910336px, 33.26854665px 36.5487552px, 45.6528px 37.6016px, calc(100% - 44.597px) 37.6016px, calc(100% - 44.597px) 37.6016px, calc(100% - 38.214164px) 37.8378752px, calc(100% - 31.915952px) 38.5935776px, calc(100% - 25.832108px) 39.9390224px, calc(100% - 20.092376px) 41.9445248px, calc(100% - 14.8265px) 44.6804px, calc(100% - 10.164224px) 48.2169632px, calc(100% - 6.235292px) 52.6245296px, calc(100% - 3.169448px) 57.9734144px, calc(100% - 1.096436px) 64.3339328px, calc(100% - 0.146px) 71.7764px, calc(100% - -5.68434189E-14px) calc(100% - 0px), calc(100% - -5.68434189E-14px) calc(100% - 0px), calc(100% - 0.209015px) calc(100% - 5.312525px), calc(100% - 0.94228px) calc(100% - 10.64116px), calc(100% - 2.369925px) calc(100% - 15.850395px), calc(100% - 4.66208px) calc(100% - 20.80472px), calc(100% - 7.988875px) calc(100% - 25.368625px), calc(100% - 12.52044px) calc(100% - 29.4066px), calc(100% - 18.426905px) calc(100% - 32.783135px), calc(100% - 25.8784px) calc(100% - 35.36272px), calc(100% - 35.045055px) calc(100% - 37.009845px), calc(100% - 46.097px) calc(100% - 37.589px), 37.9028px calc(100% - 37.589px), 37.9028px calc(100% - 37.589px), 27.50379625px calc(100% - 38.68223px), 19.2049435px calc(100% - 41.65004px), 12.76941619px calc(100% - 46.02461px), 7.96038875px calc(100% - 51.33812px), 4.54103564px calc(100% - 57.12275px), 2.27453129px calc(100% - 62.91068px), 0.92405014px calc(100% - 68.23409px), 0.25276663px calc(100% - 72.62516px), 0.02385521px calc(100% - 75.61607px), 0.00049031px calc(100% - 76.739px), 0.00049031px 0px);
+          clip-path: polygon(0.402834px 0px, 0.402834px 0px, 0.43458257px 1.0528448px, 0.71682876px 3.9105664px, 1.53007331px 8.1219456px, 3.15481693px 13.2357632px, 5.87156036px 18.8008px, 9.96080432px 24.3658368px, 15.70304954px 29.4796544px, 23.37879674px 33.6910336px, 33.26854665px 36.5487552px, 45.6528px 37.6016px, calc(100% - 44.597px) 37.6016px, calc(100% - 44.597px) 37.6016px, calc(100% - 38.214164px) 37.8378752px, calc(100% - 31.915952px) 38.5935776px, calc(100% - 25.832108px) 39.9390224px, calc(100% - 20.092376px) 41.9445248px, calc(100% - 14.8265px) 44.6804px, calc(100% - 10.164224px) 48.2169632px, calc(100% - 6.235292px) 52.6245296px, calc(100% - 3.169448px) 57.9734144px, calc(100% - 1.096436px) 64.3339328px, calc(100% - 0.146px) 71.7764px, calc(100% - -5.68434189E-14px) calc(100% - 0px), calc(100% - -5.68434189E-14px) calc(100% - 0px), calc(100% - 0.209015px) calc(100% - 5.312525px), calc(100% - 0.94228px) calc(100% - 10.64116px), calc(100% - 2.369925px) calc(100% - 15.850395px), calc(100% - 4.66208px) calc(100% - 20.80472px), calc(100% - 7.988875px) calc(100% - 25.368625px), calc(100% - 12.52044px) calc(100% - 29.4066px), calc(100% - 18.426905px) calc(100% - 32.783135px), calc(100% - 25.8784px) calc(100% - 35.36272px), calc(100% - 35.045055px) calc(100% - 37.009845px), calc(100% - 46.097px) calc(100% - 37.589px), 37.9028px calc(100% - 37.589px), 37.9028px calc(100% - 37.589px), 27.50379625px calc(100% - 38.68223px), 19.2049435px calc(100% - 41.65004px), 12.76941619px calc(100% - 46.02461px), 7.96038875px calc(100% - 51.33812px), 4.54103564px calc(100% - 57.12275px), 2.27453129px calc(100% - 62.91068px), 0.92405014px calc(100% - 68.23409px), 0.25276663px calc(100% - 72.62516px), 0.02385521px calc(100% - 75.61607px), 0.00049031px calc(100% - 76.739px), 0.00049031px 0px);
+}
+/*# sourceMappingURL=elementor-below-max.css.map */
+}

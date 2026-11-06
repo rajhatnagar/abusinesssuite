@@ -1,0 +1,11 @@
+/* --- Widgets --- */
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles #commentform .form-submit {
+  margin: 0 !important;
+}
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments .comment-author {
+  display: none;
+}
+.vamtam-is-wishlist .page-template-default .meta-header-inside {
+  padding: var(--vamtam-content-space-l) 0;
+}
+/*# sourceMappingURL=elementor-small.css.map */
