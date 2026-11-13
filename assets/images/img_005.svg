@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 90" width="200" height="90" fill="none">
+  <defs>
+    <linearGradient id="atGrad005" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <!-- Gyroscopic Orbit Ring -->
+  <circle cx="100" cy="30" r="24" stroke="url(#atGrad005)" stroke-width="2" stroke-dasharray="6 3" opacity="0.6"/>
+  <!-- Core Gradient AI Badge -->
+  <circle cx="100" cy="30" r="18" fill="url(#atGrad005)"/>
+  <text x="100" y="37" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="900" fill="#ffffff" text-anchor="middle">@</text>
+  <!-- Brand Text -->
+  <text x="100" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" fill="#0f172a" text-anchor="middle" letter-spacing="-0.5">Business Suite</text>
+  <text x="100" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="700" fill="#6366f1" text-anchor="middle" letter-spacing="1.8">AI PLATFORM</text>
+</svg>
